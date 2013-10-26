@@ -6,9 +6,6 @@ import os, difflib
 from pprint import pprint
 from unidecode import unidecode
 
-client = predictionio.Client(appkey="mKtl95U5lSKmMJgeMbOG6MQUkxFyRGOksyGdoLu3YQtmIY3hOYpp5Q6s8tIEy5ch")
-
-
 def urlopenC(url):
     headers = { 'User-Agent' : 'Mozilla/5.0' }
     req = urllib2.Request(url, None, headers)
@@ -21,8 +18,8 @@ def getUsers():
     for d in soup.xpath('//deputado'):
         deputado = {
             'pio_uid' : d.xpath('./idParlamentar')[0].text,
-            'nome' : d.xpath('./nome')[0].text,
-            'nome_parlamentar' : d.xpath('./nomeParlamentar')[0].text,
+            'nome' : unidecode(d.xpath('./nome')[0].text),
+            'nome_parlamentar' : unidecode(d.xpath('./nomeParlamentar')[0].text),
             'partido' : d.xpath('./partido')[0].text,
             'sexo' : d.xpath('./sexo')[0].text,
             'uf' : d.xpath('./uf')[0].text,
@@ -30,8 +27,8 @@ def getUsers():
         users.append(deputado)
     return users
 
-def getItems():
-    soup = parse('data/votacoes2013.xml').getroot()
+def getItems(ano):
+    soup = parse('data/votacoes'+ano+'.xml').getroot()
     items = []
     for i in soup.xpath("//proposicao"):
         proposicao = {
@@ -41,9 +38,9 @@ def getItems():
             'ano' : i.xpath('./nomeProposicao')[0].text.split()[1].split('/')[1]
         }
         proposicao['pio_itypes'] = [proposicao['tipo']]
-        if len(i.xpath('./nomeProposicao')[0].text.split()[0]) == 2: #hack para proposicoes tipo REQ 8/2013 PEC09011 => PEC 90/2011
-            proposicao = getIndexacao(proposicao)
-            items.append(proposicao)
+        #if len(i.xpath('./nomeProposicao')[0].text.split()[0]) == 2: #hack para proposicoes tipo REQ 8/2013 PEC09011 => PEC 90/2011
+        proposicao = getIndexacao(proposicao)
+        items.append(proposicao)
     return items
 
 def getIndexacao(p):
@@ -52,10 +49,12 @@ def getIndexacao(p):
         soup = parse(fileurl).getroot()
     else:
         print "Dowloading Index " + fileurl
-        downloadIndexacao(p, fileurl)
-        soup = parse(fileurl).getroot()
-    p['pio_itypes'] += [t.strip() for t in soup.xpath("//proposicao/Indexacao")[0].text.split(',')]
-    p['autor'] = [a.strip() for a in soup.xpath("//proposicao/Autor")[0].text.split(',')]
+        if downloadIndexacao(p, fileurl):
+            soup = parse(fileurl).getroot()
+        else:
+            return p
+    p['pio_itypes'] += [unidecode(t.strip()) for t in soup.xpath("//proposicao/Indexacao")[0].text.split(',')]
+    p['autor'] = [unidecode(t.strip()) for a in soup.xpath("//proposicao/Autor")[0].text.split(',')]
     return p
 
 def getVotacoes(p):
@@ -73,7 +72,7 @@ def getVotacoes(p):
         votos = []
         for v in vt.xpath("./votos/Deputado"):
             voto = {
-                'nome' : v.get('Nome'),
+                'nome' : unidecode(v.get('Nome')),
                 'acao' : v.get('Voto'),
                 'partido' : v.get('Partido'),
                 'uf' : v.get('UF')
@@ -148,18 +147,23 @@ def getActions(users, items):
 
 
 def rockandroll():
-    users = getUsers()
-    items = getItems()
-    actions = getActions(users, items)
+    data = {}
+    data['users'] = getUsers()
+    data['items'] = getItems('2012')
+    data['items'] += getItems('2013')
+    data['actions'] = getActions(data['users'], data['items'])
+    return data
+
+def importar(data):
+    client = predictionio.Client(appkey="appkey")
     print "Creating users..."
-    for u in users:
-        pprint(u)
+    for u in data['users']:
         pio_uid = u['pio_uid']
         del u['pio_uid']
         client.create_user(pio_uid, u)
 
     print "Creating items..."
-    for i in items:
+    for i in data['items']:
         pio_iid = i['pio_iid']
         pio_itypes = tuple(i['pio_itypes'])
         del i['pio_iid']
@@ -167,7 +171,7 @@ def rockandroll():
         client.create_item(pio_iid, pio_itypes, i)
 
     print "Creatim actions..."
-    for a in actions:
+    for a in data['actions']:
         if a['pio_uid'] and a['pio_iid']:
             client.identify(a['pio_uid'])
             client.record_action_on_item(a['pio_action'], a['pio_iid'], {})

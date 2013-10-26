@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicao>
+  <Sigla>PLN</Sigla>
+  <Numero>24</Numero>
+  <Ano>2012</Ano>
+  <Votacoes>
+    <Votacao Resumo="" Data="6/3/2013" Hora="20:10" ObjVotacao="SUBS.  DA COMI. MISTA DE ORÇAMENTO E ADENDO - PLEN.">
+      <orientacaoBancada>
+        <bancada Sigla="Maioria" orientacao="Sim            " />
+        <bancada Sigla="Apoio ao Governo" orientacao="Sim            " />
+        <bancada Sigla="Minoria" orientacao="Obstrução      " />
+        <bancada Sigla="GOV." orientacao="Sim            " />
+      </orientacaoBancada>
+      <votos>
+        <Deputado Nome="Angela Portela" Partido="PT" UF="RR" Voto="Sim" />
+        <Deputado Nome="Randolph Rodrigues" Partido="PSOL" UF="AP" Voto="Sim" />
+        <Deputado Nome="Vanessa  Grazziotin" Partido="PCdoB" UF="AM" Voto="Sim" />
+        <Deputado Nome="Eduardo  Braga" Partido="PMDB" UF="AM" Voto="Sim" />
+        <Deputado Nome="Ivo Cassol" Partido="PP" UF="RO" Voto="Sim" />
+        <Deputado Nome="Jorge Viana" Partido="PT" UF="AC" Voto="Sim" />
+        <Deputado Nome="José Pimentel" Partido="PT" UF="CE" Voto="Sim" />
+        <Deputado Nome="Eunício Oliveira" Partido="PMDB" UF="CE" Voto="Sim" />
+        <Deputado Nome="João Vicente Claudino" Partido="PTB" UF="PI" Voto="Sim" />
+        <Deputado Nome="Wellington Dias" Partido="PT" UF="PI" Voto="Sim" />
+        <Deputado Nome="José Agripino" Partido="DEM" UF="RN" Voto="Sim" />
+        <Deputado Nome="Garibaldi  Alves" Partido="PMDB" UF="RN" Voto="Sim" />
+        <Deputado Nome="Cícero Lucena" Partido="PSDB" UF="PB" Voto="Sim" />
+        <Deputado Nome="Vital do Rêgo" Partido="PMDB" UF="PB" Voto="Sim" />
+        <Deputado Nome="Jarbas Vasconcelos" Partido="PMDB" UF="PE" Voto="Sim" />
+        <Deputado Nome="Armando Monteiro" Partido="PTB" UF="PE" Voto="Sim" />
+        <Deputado Nome="Humberto Costa" Partido="PT" UF="PE" Voto="Sim" />
+        <Deputado Nome="Benedito de Lira" Partido="PP" UF="AL" Voto="Sim" />
+        <Deputado Nome="Renan Calheiros" Partido="PMDB" UF="AL" Voto="Art. 17" />
+        <Deputado Nome="Fernando Collor" Partido="PTB" UF="AL" Voto="Sim" />
+        <Deputado Nome="Antonio Carlos Valadares" Partido="PSB" UF="SE" Voto="Sim" />
+        <Deputado Nome="Eduardo Amorim" Partido="PSC" UF="SE" Voto="Sim" />
+        <Deputado Nome="João Durval" Partido="PDT" UF="BA" Voto="Sim" />
+        <Deputado Nome="Lídice da Mata" Partido="PSB" UF="BA" Voto="Sim" />
+        <Deputado Nome="Walter Pinheiro" Partido="PT" UF="BA" Voto="Sim" />
+        <Deputado Nome="Clésio Andrade" Partido="PMDB" UF="MG" Voto="Sim" />
+        <Deputado Nome="Inácio Arruda" Partido="PCdoB" UF="CE" Voto="Sim" />
+        <Deputado Nome="Ricardo Ferraço" Partido="PMDB" UF="ES" Voto="Sim" />
+        <Deputado Nome="Magno Malta" Partido="PR" UF="ES" Voto="Sim" />
+        <Deputado Nome="Ana Rita" Partido="PT" UF="ES" Voto="Sim" />
+        <Deputado Nome="Lindberg Farias" Partido="PT" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Eduardo Suplicy" Partido="PT" UF="SP" Voto="Sim" />
+        <Deputado Nome="Blairo Maggi" Partido="PR" UF="MT" Voto="Sim" />
+        <Deputado Nome="Pedro Taques" Partido="PDT" UF="MT" Voto="Sim" />
+        <Deputado Nome="Gim Argello" Partido="PTB" UF="DF" Voto="Abstenção" />
+        <Deputado Nome="Rodrigo Rollemberg" Partido="PSB" UF="DF" Voto="Sim" />
+        <Deputado Nome="Delcidio Amaral" Partido="PT" UF="MS" Voto="Sim" />
+        <Deputado Nome="Waldemir Moka" Partido="PMDB" UF="MS" Voto="Sim" />
+        <Deputado Nome="Roberto Requião" Partido="PMDB" UF="PR" Voto="Sim" />
+        <Deputado Nome="Luiz Henrique" Partido="PMDB" UF="SC" Voto="Sim" />
+        <Deputado Nome="Casildo Maldaner" Partido="PMDB" UF="SC" Voto="Sim" />
+        <Deputado Nome="Paulo Paim" Partido="PT" UF="RS" Voto="Sim" />
+        <Deputado Nome="Ana Amélia Lemos" Partido="PP" UF="RS" Voto="Sim" />
+        <Deputado Nome="Romero Jucá" Partido="PMDB" UF="RR" Voto="Não" />
+        <Deputado Nome="Flexa Ribeiro" Partido="PSDB" UF="PA" Voto="Obstrução" />
+        <Deputado Nome="Acir Gurgacz" Partido="PDT" UF="RO" Voto="Sim" />
+        <Deputado Nome="Anibal Diniz" Partido="PT" UF="AC" Voto="Sim" />
+        <Deputado Nome="Kátia Abreu" Partido="PSD" UF="TO" Voto="Sim" />
+        <Deputado Nome="Lobão Filho" Partido="PMDB" UF="MA" Voto="Sim" />
+        <Deputado Nome="Alfredo Nascimento" Partido="PR" UF="AM" Voto="Sim" />
+        <Deputado Nome="Paulo Davim" Partido="PV" UF="RN" Voto="Sim" />
+        <Deputado Nome="Sérgio Souza" Partido="PMDB" UF="PR" Voto="Sim" />
+        <Deputado Nome="Cássio Cunha Lima" Partido="PSDB" UF="PB" Voto="Abstenção" />
+        <Deputado Nome="Eduardo Lopes" Partido="PRB" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Wilder Morais" Partido="DEM" UF="GO" Voto="Sim" />
+        <Deputado Nome="Antônio Carlos Rodrigues" Partido="PR" UF="SP" Voto="Sim" />
+        <Deputado Nome="João Costa" Partido="PPL" UF="TO" Voto="Sim" />
+        <Deputado Nome="Sodré Santoro" Partido="PTB" UF="RR" Voto="Sim" />
+      </votos>
+    </Votacao>
+  </Votacoes>
+</proposicao>

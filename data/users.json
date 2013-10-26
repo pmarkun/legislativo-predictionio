@@ -1,0 +1,4106 @@
+[
+    {
+        "pio_uid": "531071", 
+        "nome": "ANTONIO DA CONCEICAO COSTA FERREIRA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "COSTA FERREIRA"
+    }, 
+    {
+        "pio_uid": "520939", 
+        "nome": "JOSE SARNEY FILHO", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "SARNEY FILHO"
+    }, 
+    {
+        "pio_uid": "522008", 
+        "nome": "JOSE FRANCISCO PAES LANDIM", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "PAES LANDIM"
+    }, 
+    {
+        "pio_uid": "522840", 
+        "nome": "HENRIQUE EDUARDO LYRA ALVES", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RN", 
+        "nome_parlamentar": "HENRIQUE EDUARDO ALVES"
+    }, 
+    {
+        "pio_uid": "521856", 
+        "nome": "INOCENCIO GOMES DE OLIVEIRA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "INOCENCIO OLIVEIRA"
+    }, 
+    {
+        "pio_uid": "530195", 
+        "nome": "ROBERTO JOAO PEREIRA FREIRE", 
+        "partido": "PPS", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ROBERTO FREIRE"
+    }, 
+    {
+        "pio_uid": "524918", 
+        "nome": "SERGIO LUIS LACERDA BRITO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "SERGIO BRITO"
+    }, 
+    {
+        "pio_uid": "520730", 
+        "nome": "ROSILDA DE FREITAS", 
+        "partido": "PMDB", 
+        "sexo": "feminino", 
+        "uf": "ES", 
+        "nome_parlamentar": "ROSE DE FREITAS"
+    }, 
+    {
+        "pio_uid": "522534", 
+        "nome": "AROLDE DE OLIVEIRA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "AROLDE DE OLIVEIRA"
+    }, 
+    {
+        "pio_uid": "530131", 
+        "nome": "BENEDITA SOUZA DA SILVA SAMPAIO", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "BENEDITA DA SILVA"
+    }, 
+    {
+        "pio_uid": "522296", 
+        "nome": "MIRO TEIXEIRA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "MIRO TEIXEIRA"
+    }, 
+    {
+        "pio_uid": "522258", 
+        "nome": "SIMAO SESSIM", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "SIMAO SESSIM"
+    }, 
+    {
+        "pio_uid": "5829180", 
+        "nome": "HUMBERTO GUIMARAES SOUTO", 
+        "partido": "PPS", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "HUMBERTO SOUTO"
+    }, 
+    {
+        "pio_uid": "521230", 
+        "nome": "LAEL VIEIRA VARELLA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "LAEL VARELLA"
+    }, 
+    {
+        "pio_uid": "520737", 
+        "nome": "ROBERTO EGIDIO BALESTRA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "ROBERTO BALESTRA"
+    }, 
+    {
+        "pio_uid": "530897", 
+        "nome": "AUGUSTO SILVEIRA DE CARVALHO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "DF", 
+        "nome_parlamentar": "AUGUSTO CARVALHO"
+    }, 
+    {
+        "pio_uid": "521528", 
+        "nome": "WELLINGTON ANTONIO FAGUNDES", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "WELLINGTON FAGUNDES"
+    }, 
+    {
+        "pio_uid": "530170", 
+        "nome": "LUCI TERESINHA KOSWOSKI CHOINACKI", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "SC", 
+        "nome_parlamentar": "LUCI CHOINACKI"
+    }, 
+    {
+        "pio_uid": "520172", 
+        "nome": "ATILA SIDNEY LINS ALBUQUERQUE", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "ATILA LINS"
+    }, 
+    {
+        "pio_uid": "524709", 
+        "nome": "FATIMA LUCIA PELAES", 
+        "partido": "PMDB", 
+        "sexo": "feminino", 
+        "uf": "AP", 
+        "nome_parlamentar": "FATIMA PELAES"
+    }, 
+    {
+        "pio_uid": "5829194", 
+        "nome": "OSVALDO DE SOUZA REIS", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "TO", 
+        "nome_parlamentar": "OSVALDO REIS"
+    }, 
+    {
+        "pio_uid": "520901", 
+        "nome": "PEDRO NOVAIS LIMA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "PEDRO NOVAIS"
+    }, 
+    {
+        "pio_uid": "520409", 
+        "nome": "JOSE LINHARES PONTE", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "JOSE LINHARES"
+    }, 
+    {
+        "pio_uid": "520520", 
+        "nome": "FRANCISCO ARIOSTO HOLANDA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "ARIOSTO HOLANDA"
+    }, 
+    {
+        "pio_uid": "530109", 
+        "nome": "SEVERINO SERGIO ESTELITA GUERRA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "SERGIO GUERRA"
+    }, 
+    {
+        "pio_uid": "524876", 
+        "nome": "MARCOS ANTONIO MEDRADO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "MARCOS MEDRADO"
+    }, 
+    {
+        "pio_uid": "520831", 
+        "nome": "RONALDO RAMOS CAIADO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "RONALDO CAIADO"
+    }, 
+    {
+        "pio_uid": "522230", 
+        "nome": "LUIZ CARLOS JORGE HAULY", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "LUIZ CARLOS HAULY"
+    }, 
+    {
+        "pio_uid": "521241", 
+        "nome": "ARACELY DE PAULA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "ARACELY DE PAULA"
+    }, 
+    {
+        "pio_uid": "528887", 
+        "nome": "PAULO ROBERTO GOMES MANSUR", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "BETO MANSUR"
+    }, 
+    {
+        "pio_uid": "530146", 
+        "nome": "JANDIRA FEGHALI", 
+        "partido": "PCdoB", 
+        "sexo": "feminino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "JANDIRA FEGHALI"
+    }, 
+    {
+        "pio_uid": "522255", 
+        "nome": "JAIR MESSIAS BOLSONARO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "JAIR BOLSONARO"
+    }, 
+    {
+        "pio_uid": "523597", 
+        "nome": "NELSON MARQUEZELLI", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "NELSON MARQUEZELLI"
+    }, 
+    {
+        "pio_uid": "528578", 
+        "nome": "JORGE TADEU MUDALEN", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "JORGE TADEU MUDALEN"
+    }, 
+    {
+        "pio_uid": "526179", 
+        "nome": "GIOVANNI CORREA QUEIROZ", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "GIOVANNI QUEIROZ"
+    }, 
+    {
+        "pio_uid": "533129", 
+        "nome": "VALDIR COLATTO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "VALDIR COLATTO"
+    }, 
+    {
+        "pio_uid": "523023", 
+        "nome": "LUCIANO DE SOUZA CASTRO", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "LUCIANO CASTRO"
+    }, 
+    {
+        "pio_uid": "520403", 
+        "nome": "JUTAHY MAGALHAES JUNIOR", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JUTAHY JUNIOR"
+    }, 
+    {
+        "pio_uid": "531197", 
+        "nome": "BONIFACIO JOSE TAMM DE ANDRADA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "BONIFACIO DE ANDRADA"
+    }, 
+    {
+        "pio_uid": "524132", 
+        "nome": "ANTONIO CARLOS DE MENDES THAME", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ANTONIO CARLOS MENDES THAME"
+    }, 
+    {
+        "pio_uid": "523606", 
+        "nome": "ARNALDO FARIA DE SA", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ARNALDO FARIA DE SA"
+    }, 
+    {
+        "pio_uid": "530121", 
+        "nome": "RUBENS BUENO", 
+        "partido": "PPS", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "RUBENS BUENO"
+    }, 
+    {
+        "pio_uid": "5829210", 
+        "nome": "FERNANDO LOPES DE ALMEIDA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "FERNANDO LOPES"
+    }, 
+    {
+        "pio_uid": "522187", 
+        "nome": "ABELARDO LUIZ LUPION MELLO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ABELARDO LUPION"
+    }, 
+    {
+        "pio_uid": "530087", 
+        "nome": "JULIO JOSE DE CAMPOS", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "JULIO CAMPOS"
+    }, 
+    {
+        "pio_uid": "520437", 
+        "nome": "CARLOS MAURO CABRAL BENEVIDES", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "MAURO BENEVIDES"
+    }, 
+    {
+        "pio_uid": "530115", 
+        "nome": "HUGO NAPOLEAO DO REGO NETO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "HUGO NAPOLEAO"
+    }, 
+    {
+        "pio_uid": "521603", 
+        "nome": "ASDRUBAL MENDES BENTES", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "ASDRUBAL BENTES"
+    }, 
+    {
+        "pio_uid": "521901", 
+        "nome": "LUIZ GONZAGA PATRIOTA", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "GONZAGA PATRIOTA"
+    }, 
+    {
+        "pio_uid": "528890", 
+        "nome": "PAULO SALIM MALUF", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "PAULO MALUF"
+    }, 
+    {
+        "pio_uid": "526056", 
+        "nome": "CARLOS GOMES BEZERRA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "CARLOS BEZERRA"
+    }, 
+    {
+        "pio_uid": "530169", 
+        "nome": "ESPERIDIAO AMIN HELOU FILHO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "ESPERIDIAO AMIN"
+    }, 
+    {
+        "pio_uid": "523758", 
+        "nome": "VALDEMAR COSTA NETO", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "VALDEMAR COSTA NETO"
+    }, 
+    {
+        "pio_uid": "530071", 
+        "nome": "NEWTON CARDOSO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "NEWTON CARDOSO"
+    }, 
+    {
+        "pio_uid": "522014", 
+        "nome": "JULIO CESAR DE CARVALHO LIMA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "JULIO CESAR"
+    }, 
+    {
+        "pio_uid": "5829223", 
+        "nome": "SILAS BRASILEIRO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "SILAS BRASILEIRO"
+    }, 
+    {
+        "pio_uid": "522040", 
+        "nome": "NELSON MEURER", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "NELSON MEURER"
+    }, 
+    {
+        "pio_uid": "522608", 
+        "nome": "EDSON EZEQUIEL DE MATOS", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "EDSON EZEQUIEL"
+    }, 
+    {
+        "pio_uid": "521130", 
+        "nome": "JOSE SARAIVA FELIPE", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "SARAIVA FELIPE"
+    }, 
+    {
+        "pio_uid": "528081", 
+        "nome": "PAULO ROBERTO BARRETO BORNHAUSEN", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "PAULO BORNHAUSEN"
+    }, 
+    {
+        "pio_uid": "520340", 
+        "nome": "CLAUDIO CAJADO SAMPAIO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "CLAUDIO CAJADO"
+    }, 
+    {
+        "pio_uid": "526158", 
+        "nome": "ELCIONE THEREZINHA ZAHLUTH BARBALHO", 
+        "partido": "PMDB", 
+        "sexo": "feminino", 
+        "uf": "PA", 
+        "nome_parlamentar": "ELCIONE BARBALHO"
+    }, 
+    {
+        "pio_uid": "523540", 
+        "nome": "ARLINDO CHIGNALIA JUNIOR", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ARLINDO CHINAGLIA"
+    }, 
+    {
+        "pio_uid": "521816", 
+        "nome": "JOSE SEVERIANO CHAVES", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "JOSE CHAVES"
+    }, 
+    {
+        "pio_uid": "523546", 
+        "nome": "IVAN VALENTE", 
+        "partido": "PSOL", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "IVAN VALENTE"
+    }, 
+    {
+        "pio_uid": "530105", 
+        "nome": "JOSE MENDONCA BEZERRA FILHO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "MENDONCA FILHO"
+    }, 
+    {
+        "pio_uid": "525386", 
+        "nome": "DOMINGOS FRANCISCO DUTRA FILHO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "DOMINGOS DUTRA"
+    }, 
+    {
+        "pio_uid": "523543", 
+        "nome": "JOAO PAULO CUNHA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "JOAO PAULO CUNHA"
+    }, 
+    {
+        "pio_uid": "521107", 
+        "nome": "MAURO RIBEIRO LOPES", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "MAURO LOPES"
+    }, 
+    {
+        "pio_uid": "520429", 
+        "nome": "ANIBAL FERREIRA GOMES", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "ANIBAL GOMES"
+    }, 
+    {
+        "pio_uid": "521798", 
+        "nome": "FERNANDO DANTAS FERRO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "FERNANDO FERRO"
+    }, 
+    {
+        "pio_uid": "530190", 
+        "nome": "EDSON EDINHO COELHO ARAUJO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "EDINHO ARAUJO"
+    }, 
+    {
+        "pio_uid": "520521", 
+        "nome": "VICENTE FERREIRA DE ARRUDA COELHO", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "VICENTE ARRUDA"
+    }, 
+    {
+        "pio_uid": "522042", 
+        "nome": "DILCEU JOAO SPERAFICO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "DILCEU SPERAFICO"
+    }, 
+    {
+        "pio_uid": "522860", 
+        "nome": "CARLOS ALBERTO DE SOUSA ROSADO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RN", 
+        "nome_parlamentar": "BETINHO ROSADO"
+    }, 
+    {
+        "pio_uid": "530038", 
+        "nome": "ANTONIO BALHMANN CARDOSO NUNES FILHO", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "ANTONIO BALHMANN"
+    }, 
+    {
+        "pio_uid": "520829", 
+        "nome": "SANDRO ANTONIO SCODRO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "SANDRO MABEL"
+    }, 
+    {
+        "pio_uid": "522696", 
+        "nome": "ALEXANDRE JOSE DOS SANTOS", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ALEXANDRE SANTOS"
+    }, 
+    {
+        "pio_uid": "523304", 
+        "nome": "EDSON BEZ DE OLIVEIRA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "EDINHO BEZ"
+    }, 
+    {
+        "pio_uid": "521405", 
+        "nome": "EDUARDO LUIZ BARROS BARBOSA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "EDUARDO BARBOSA"
+    }, 
+    {
+        "pio_uid": "520277", 
+        "nome": "JOAO FELIPE DE SOUZA LEAO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JOAO LEAO"
+    }, 
+    {
+        "pio_uid": "520341", 
+        "nome": "JOSE ALVES ROCHA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JOSE ROCHA"
+    }, 
+    {
+        "pio_uid": "520515", 
+        "nome": "JOSE ARNON CRUZ BEZERRA DE MENEZES", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "ARNON BEZERRA"
+    }, 
+    {
+        "pio_uid": "521243", 
+        "nome": "JAIME MARTINS FILHO", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "JAIME MARTINS"
+    }, 
+    {
+        "pio_uid": "522922", 
+        "nome": "MARINHA CELIA ROCHA RAUPP DE MATOS", 
+        "partido": "PMDB", 
+        "sexo": "feminino", 
+        "uf": "RO", 
+        "nome_parlamentar": "MARINHA RAUPP"
+    }, 
+    {
+        "pio_uid": "530185", 
+        "nome": "SALVADOR ZIMBALDI FILHO", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "SALVADOR ZIMBALDI"
+    }, 
+    {
+        "pio_uid": "522119", 
+        "nome": "HERMES PARCIANELLO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "HERMES PARCIANELLO"
+    }, 
+    {
+        "pio_uid": "520276", 
+        "nome": "MARIO SILVIO MENDES NEGROMONTE", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "MARIO NEGROMONTE"
+    }, 
+    {
+        "pio_uid": "530091", 
+        "nome": "JOSE BENITO PRIANTE JUNIOR", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "JOSE PRIANTE"
+    }, 
+    {
+        "pio_uid": "526520", 
+        "nome": "WOLNEY QUEIROZ MACIEL", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "WOLNEY QUEIROZ"
+    }, 
+    {
+        "pio_uid": "523088", 
+        "nome": "ENIO EGON BERGMANN BACCI", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "ENIO BACCI"
+    }, 
+    {
+        "pio_uid": "531977", 
+        "nome": "ODILIO BALBINOTTI", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ODILIO BALBINOTTI"
+    }, 
+    {
+        "pio_uid": "523144", 
+        "nome": "DARCISIO PAULO PERONDI", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "DARCISIO PERONDI"
+    }, 
+    {
+        "pio_uid": "533082", 
+        "nome": "ELISEU LEMOS PADILHA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "ELISEU PADILHA"
+    }, 
+    {
+        "pio_uid": "520853", 
+        "nome": "JOVAIR DE OLIVEIRA ARANTES", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "JOVAIR ARANTES"
+    }, 
+    {
+        "pio_uid": "523257", 
+        "nome": "JOAO ALBERTO PIZZOLATTI JUNIOR", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "JOAO PIZZOLATTI"
+    }, 
+    {
+        "pio_uid": "532214", 
+        "nome": "PAULO FERNANDO FEIJO TORRES", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "PAULO FEIJO"
+    }, 
+    {
+        "pio_uid": "521507", 
+        "nome": "PEDRO HENRY NETO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "PEDRO HENRY"
+    }, 
+    {
+        "pio_uid": "521109", 
+        "nome": "JOAO LUCIO MAGALHAES BIFANO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "JOAO MAGALHAES"
+    }, 
+    {
+        "pio_uid": "528412", 
+        "nome": "EMANUEL FERNANDES", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "EMANUEL FERNANDES"
+    }, 
+    {
+        "pio_uid": "526015", 
+        "nome": "MARCAL GONCALVES LEITE FILHO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "MARCAL FILHO"
+    }, 
+    {
+        "pio_uid": "5829196", 
+        "nome": "COLBERT MARTINS DA SILVA FILHO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "COLBERT MARTINS"
+    }, 
+    {
+        "pio_uid": "520290", 
+        "nome": "LUIZ ALBERTO SILVA DOS SANTOS", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "LUIZ ALBERTO"
+    }, 
+    {
+        "pio_uid": "520511", 
+        "nome": "RAIMUNDO GOMES DE MATOS", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "RAIMUNDO GOMES DE MATOS"
+    }, 
+    {
+        "pio_uid": "521710", 
+        "nome": "JOSE WELLINGTON ROBERTO", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "WELLINGTON ROBERTO"
+    }, 
+    {
+        "pio_uid": "530003", 
+        "nome": "MARCIO MIGUEL BITTAR", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "AC", 
+        "nome_parlamentar": "MARCIO BITTAR"
+    }, 
+    {
+        "pio_uid": "520124", 
+        "nome": "GIVALDO DE SA GOUVEIA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "GIVALDO CARIMBAO"
+    }, 
+    {
+        "pio_uid": "520258", 
+        "nome": "EVANDRO COSTA MILHOMEN", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "AP", 
+        "nome_parlamentar": "EVANDRO MILHOMEN"
+    }, 
+    {
+        "pio_uid": "520152", 
+        "nome": "SILAS CAMARA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "SILAS CAMARA"
+    }, 
+    {
+        "pio_uid": "520343", 
+        "nome": "PAULO SERGIO PARANHOS DE MAGALHAES", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "PAULO MAGALHAES"
+    }, 
+    {
+        "pio_uid": "520301", 
+        "nome": "NELSON VICENTE PORTELA PELLEGRINO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "NELSON PELLEGRINO"
+    }, 
+    {
+        "pio_uid": "524817", 
+        "nome": "GERALDO SIMOES DE OLIVEIRA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "GERALDO SIMOES"
+    }, 
+    {
+        "pio_uid": "520518", 
+        "nome": "MANOEL SALVIANO SOBRINHO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "MANOEL SALVIANO"
+    }, 
+    {
+        "pio_uid": "520787", 
+        "nome": "PEDRO PINHEIRO CHAVES", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "PEDRO CHAVES"
+    }, 
+    {
+        "pio_uid": "520930", 
+        "nome": "NICE LOBAO", 
+        "partido": "PSD", 
+        "sexo": "feminino", 
+        "uf": "MA", 
+        "nome_parlamentar": "NICE LOBAO"
+    }, 
+    {
+        "pio_uid": "521137", 
+        "nome": "LINCOLN DINIZ PORTELA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "LINCOLN PORTELA"
+    }, 
+    {
+        "pio_uid": "521713", 
+        "nome": "DAMIAO FELICIANO DA SILVA", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "DAMIAO FELICIANO"
+    }, 
+    {
+        "pio_uid": "522236", 
+        "nome": "ALEX CANZIANI SILVEIRA", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ALEX CANZIANI"
+    }, 
+    {
+        "pio_uid": "522117", 
+        "nome": "OSMAR JOSE SERRAGLIO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "OSMAR SERRAGLIO"
+    }, 
+    {
+        "pio_uid": "522070", 
+        "nome": "FLORISVALDO FIER", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "DR. ROSINHA"
+    }, 
+    {
+        "pio_uid": "521814", 
+        "nome": "CARLOS EDUARDO CINTRA DA COSTA PEREIRA", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "CARLOS EDUARDO CADOCA"
+    }, 
+    {
+        "pio_uid": "526489", 
+        "nome": "PEDRO EUGENIO DE CASTRO TOLEDO CABRAL", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "PEDRO EUGENIO"
+    }, 
+    {
+        "pio_uid": "521987", 
+        "nome": "MARCELO COSTA E CASTRO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "MARCELO CASTRO"
+    }, 
+    {
+        "pio_uid": "522344", 
+        "nome": "JORGE RICARDO BITTAR", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "JORGE BITTAR"
+    }, 
+    {
+        "pio_uid": "522553", 
+        "nome": "RODRIGO FELINTO IBARRA EPITACIO MAIA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "RODRIGO MAIA"
+    }, 
+    {
+        "pio_uid": "522334", 
+        "nome": "LUIZ SERGIO NOBREGA DE OLIVEIRA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "LUIZ SERGIO"
+    }, 
+    {
+        "pio_uid": "523221", 
+        "nome": "LUIZ ROBERTO DE ALBUQUERQUE", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "BETO ALBUQUERQUE"
+    }, 
+    {
+        "pio_uid": "523097", 
+        "nome": "HENRIQUE FONTANA JUNIOR", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "HENRIQUE FONTANA"
+    }, 
+    {
+        "pio_uid": "523066", 
+        "nome": "LUIS CARLOS HEINZE", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "LUIS CARLOS HEINZE"
+    }, 
+    {
+        "pio_uid": "532966", 
+        "nome": "FERNANDO STEPHAN MARRONI", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "FERNANDO MARRONI"
+    }, 
+    {
+        "pio_uid": "530151", 
+        "nome": "NILTON BALBINO", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "RO", 
+        "nome_parlamentar": "NILTON CAPIXABA"
+    }, 
+    {
+        "pio_uid": "523941", 
+        "nome": "LUIZA ERUNDINA DE SOUSA", 
+        "partido": "PSB", 
+        "sexo": "feminino", 
+        "uf": "SP", 
+        "nome_parlamentar": "LUIZA ERUNDINA"
+    }, 
+    {
+        "pio_uid": "523624", 
+        "nome": "MILTON ANTONIO CASQUEL MONTI", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "MILTON MONTI"
+    }, 
+    {
+        "pio_uid": "523547", 
+        "nome": "RICARDO JOSE RIBEIRO BERZOINI", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "RICARDO BERZOINI"
+    }, 
+    {
+        "pio_uid": "5829192", 
+        "nome": "IARA BERNARDI", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "SP", 
+        "nome_parlamentar": "IARA BERNARDI"
+    }, 
+    {
+        "pio_uid": "521683", 
+        "nome": "NILSON PINTO DE OLIVEIRA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "NILSON PINTO"
+    }, 
+    {
+        "pio_uid": "530090", 
+        "nome": "JOSUE BENGTSON", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "JOSUE BENGTSON"
+    }, 
+    {
+        "pio_uid": "521209", 
+        "nome": "JULIO CESAR DELGADO", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "JULIO DELGADO"
+    }, 
+    {
+        "pio_uid": "528553", 
+        "nome": "JOAO EDUARDO DADO LEITE DE CARVALHO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "JOAO DADO"
+    }, 
+    {
+        "pio_uid": "523150", 
+        "nome": "OSMAR GASPARINI TERRA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "OSMAR TERRA"
+    }, 
+    {
+        "pio_uid": "522059", 
+        "nome": "ANDRE ZACHAROW", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ANDRE ZACHAROW"
+    }, 
+    {
+        "pio_uid": "522071", 
+        "nome": "ASSIS MIGUEL DO COUTO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ASSIS DO COUTO"
+    }, 
+    {
+        "pio_uid": "522097", 
+        "nome": "HIDEKAZU TAKAYAMA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "TAKAYAMA"
+    }, 
+    {
+        "pio_uid": "522180", 
+        "nome": "FERNANDO LUCIO GIACOBO", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "GIACOBO"
+    }, 
+    {
+        "pio_uid": "522190", 
+        "nome": "EDUARDO FRANCISCO SCIARRA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "EDUARDO SCIARRA"
+    }, 
+    {
+        "pio_uid": "522260", 
+        "nome": "EDUARDO COSENTINO DA CUNHA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "EDUARDO CUNHA"
+    }, 
+    {
+        "pio_uid": "522329", 
+        "nome": "FRANCISCO RODRIGUES DE ALENCAR FILHO", 
+        "partido": "PSOL", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "CHICO ALENCAR"
+    }, 
+    {
+        "pio_uid": "522398", 
+        "nome": "LEONARDO CARNEIRO MONTEIRO PICCIANI", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "LEONARDO PICCIANI"
+    }, 
+    {
+        "pio_uid": "532150", 
+        "nome": "WANDERLEY ALVES DE OLIVEIRA", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "DELEY"
+    }, 
+    {
+        "pio_uid": "522825", 
+        "nome": "MARIA DE FATIMA BEZERRA", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "RN", 
+        "nome_parlamentar": "FATIMA BEZERRA"
+    }, 
+    {
+        "pio_uid": "522843", 
+        "nome": "SANDRA MARIA DA ESCOSSIA ROSADO", 
+        "partido": "PSB", 
+        "sexo": "feminino", 
+        "uf": "RN", 
+        "nome_parlamentar": "SANDRA ROSADO"
+    }, 
+    {
+        "pio_uid": "5829189", 
+        "nome": "ANSELMO DE JESUS ABREU", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RO", 
+        "nome_parlamentar": "ANSELMO DE JESUS"
+    }, 
+    {
+        "pio_uid": "523061", 
+        "nome": "JOSE OTAVIO GERMANO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "JOSE OTAVIO GERMANO"
+    }, 
+    {
+        "pio_uid": "523094", 
+        "nome": "PAULO ROBERTO SEVERO PIMENTA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "PAULO PIMENTA"
+    }, 
+    {
+        "pio_uid": "523198", 
+        "nome": "ONYX DORNELLES LORENZONI", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "ONYX LORENZONI"
+    }, 
+    {
+        "pio_uid": "523277", 
+        "nome": "JORGE CATARINO LEONARDELI BOEIRA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "JORGE BOEIRA"
+    }, 
+    {
+        "pio_uid": "523410", 
+        "nome": "JOSE DE ARAUJO MENDONCA SOBRINHO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "MENDONCA PRADO"
+    }, 
+    {
+        "pio_uid": "523548", 
+        "nome": "JOSE MENTOR GUILHERME DE MELLO NETTO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "JOSE MENTOR"
+    }, 
+    {
+        "pio_uid": "523570", 
+        "nome": "DEVANIR RIBEIRO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "DEVANIR RIBEIRO"
+    }, 
+    {
+        "pio_uid": "523577", 
+        "nome": "VICENTE PAULO DA SILVA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "VICENTINHO"
+    }, 
+    {
+        "pio_uid": "523964", 
+        "nome": "JEFFERSON ALVES DE CAMPOS", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "JEFFERSON CAMPOS"
+    }, 
+    {
+        "pio_uid": "524095", 
+        "nome": "CARLOS HENRIQUE FOCESI SAMPAIO", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "CARLOS SAMPAIO"
+    }, 
+    {
+        "pio_uid": "533311", 
+        "nome": "WALTER MEYER FELDMAN", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "WALTER FELDMAN"
+    }, 
+    {
+        "pio_uid": "524218", 
+        "nome": "CARLOS EDUARDO TORRES GOMES", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "TO", 
+        "nome_parlamentar": "EDUARDO GOMES"
+    }, 
+    {
+        "pio_uid": "521038", 
+        "nome": "ODAIR JOSE DA CUNHA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "ODAIR CUNHA"
+    }, 
+    {
+        "pio_uid": "521043", 
+        "nome": "REGINALDO LAZARO DE OLIVEIRA LOPES", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "REGINALDO LOPES"
+    }, 
+    {
+        "pio_uid": "521068", 
+        "nome": "JOSE LEONARDO COSTA MONTEIRO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "LEONARDO MONTEIRO"
+    }, 
+    {
+        "pio_uid": "521216", 
+        "nome": "GERALDO THADEU PEDREIRA DOS SANTOS", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "GERALDO THADEU"
+    }, 
+    {
+        "pio_uid": "521434", 
+        "nome": "ANTONIO CARLOS BIFFI", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "BIFFI"
+    }, 
+    {
+        "pio_uid": "521435", 
+        "nome": "VANDER LUIZ DOS SANTOS LOUBET", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "VANDER LOUBET"
+    }, 
+    {
+        "pio_uid": "521466", 
+        "nome": "GERALDO RESENDE PEREIRA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "GERALDO RESENDE"
+    }, 
+    {
+        "pio_uid": "521577", 
+        "nome": "JOSE DA CRUZ MARINHO", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "ZEQUINHA MARINHO"
+    }, 
+    {
+        "pio_uid": "521592", 
+        "nome": "JOSE GERALDO TORRES DA SILVA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "ZE GERALDO"
+    }, 
+    {
+        "pio_uid": "521607", 
+        "nome": "WLADIMIR AFONSO DA COSTA RABELO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "WLADIMIR COSTA"
+    }, 
+    {
+        "pio_uid": "521703", 
+        "nome": "LUIZ ALBUQUERQUE COUTO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "LUIZ COUTO"
+    }, 
+    {
+        "pio_uid": "530097", 
+        "nome": "BENJAMIN GOMES MARANHAO NETO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "BENJAMIN MARANHAO"
+    }, 
+    {
+        "pio_uid": "531877", 
+        "nome": "PAULO RUBEM SANTIAGO FERREIRA", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "PAULO RUBEM SANTIAGO"
+    }, 
+    {
+        "pio_uid": "520015", 
+        "nome": "HENRIQUE AFONSO SOARES LIMA", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "AC", 
+        "nome_parlamentar": "HENRIQUE AFONSO"
+    }, 
+    {
+        "pio_uid": "520068", 
+        "nome": "MARIA PERPETUA DE ALMEIDA", 
+        "partido": "PCdoB", 
+        "sexo": "feminino", 
+        "uf": "AC", 
+        "nome_parlamentar": "PERPETUA ALMEIDA"
+    }, 
+    {
+        "pio_uid": "530006", 
+        "nome": "JOAO JOSE PEREIRA DE LYRA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "JOAO LYRA"
+    }, 
+    {
+        "pio_uid": "520128", 
+        "nome": "MAURICIO QUINTELLA MALTA LESSA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "MAURICIO QUINTELLA LESSA"
+    }, 
+    {
+        "pio_uid": "520162", 
+        "nome": "CARLOS ALBERTO CAVALCANTE DE SOUZA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "CARLOS SOUZA"
+    }, 
+    {
+        "pio_uid": "520221", 
+        "nome": "DAVID SAMUEL ALCOLUMBRE TOBELEM", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "AP", 
+        "nome_parlamentar": "DAVI ALCOLUMBRE"
+    }, 
+    {
+        "pio_uid": "520257", 
+        "nome": "JANETE MARIA GOES CAPIBERIBE", 
+        "partido": "PSB", 
+        "sexo": "feminino", 
+        "uf": "AP", 
+        "nome_parlamentar": "JANETE CAPIBERIBE"
+    }, 
+    {
+        "pio_uid": "530021", 
+        "nome": "JOSIAS GOMES DA SILVA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JOSIAS GOMES"
+    }, 
+    {
+        "pio_uid": "520293", 
+        "nome": "JOSE EDUARDO VIEIRA RIBEIRO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ZEZEU RIBEIRO"
+    }, 
+    {
+        "pio_uid": "520332", 
+        "nome": "JOSE CARLOS LEAO DE ARAUJO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JOSE CARLOS ARAUJO"
+    }, 
+    {
+        "pio_uid": "520353", 
+        "nome": "FABIO LOUREIRO SOUTO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "FABIO SOUTO"
+    }, 
+    {
+        "pio_uid": "520406", 
+        "nome": "ALICE MAZZUCO PORTUGAL", 
+        "partido": "PCdoB", 
+        "sexo": "feminino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ALICE PORTUGAL"
+    }, 
+    {
+        "pio_uid": "520407", 
+        "nome": "DANIEL GOMES DE ALMEIDA", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "DANIEL ALMEIDA"
+    }, 
+    {
+        "pio_uid": "520647", 
+        "nome": "CARLOS HUMBERTO MANNATO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "ES", 
+        "nome_parlamentar": "MANATO"
+    }, 
+    {
+        "pio_uid": "520657", 
+        "nome": "IRINY NICOLAU CORRES LOPES", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "ES", 
+        "nome_parlamentar": "IRINY LOPES"
+    }, 
+    {
+        "pio_uid": "520741", 
+        "nome": "JOAO SANDES JUNIOR", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "SANDES JUNIOR"
+    }, 
+    {
+        "pio_uid": "520760", 
+        "nome": "RUBENS OTONI GOMIDE", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "RUBENS OTONI"
+    }, 
+    {
+        "pio_uid": "520774", 
+        "nome": "LEANDRO VILELA VELLOSO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "LEANDRO VILELA"
+    }, 
+    {
+        "pio_uid": "520852", 
+        "nome": "CARLOS ALBERTO LEREIA DA SILVA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "CARLOS ALBERTO LEREIA"
+    }, 
+    {
+        "pio_uid": "520857", 
+        "nome": "JOAO CAMPOS DE ARAUJO", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "JOAO CAMPOS"
+    }, 
+    {
+        "pio_uid": "5829216", 
+        "nome": "MARIO LUCIO HERINGER", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "MARIO HERINGER"
+    }, 
+    {
+        "pio_uid": "531922", 
+        "nome": "JOSE NAZARENO CARDEAL FONTELES", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "NAZARENO FONTELES"
+    }, 
+    {
+        "pio_uid": "520468", 
+        "nome": "MARIA GORETE PEREIRA", 
+        "partido": "PR", 
+        "sexo": "feminino", 
+        "uf": "CE", 
+        "nome_parlamentar": "GORETE PEREIRA"
+    }, 
+    {
+        "pio_uid": "523098", 
+        "nome": "MARCO AURELIO SPALL MAIA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "MARCO MAIA"
+    }, 
+    {
+        "pio_uid": "521210", 
+        "nome": "ADEMIR CAMILO PRATES RODRIGUES", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "ADEMIR CAMILO"
+    }, 
+    {
+        "pio_uid": "530033", 
+        "nome": "ANDRE PEIXOTO FIGUEIREDO LIMA", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "ANDRE FIGUEIREDO"
+    }, 
+    {
+        "pio_uid": "523068", 
+        "nome": "JOSE ALFONSO EBERT HAMM", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "AFONSO HAMM"
+    }, 
+    {
+        "pio_uid": "531070", 
+        "nome": "FRANCISCO LUIZ ESCORCIO LIMA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "FRANCISCO ESCORCIO"
+    }, 
+    {
+        "pio_uid": "526207", 
+        "nome": "JOSE ROBERTO OLIVEIRA FARO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "BETO FARO"
+    }, 
+    {
+        "pio_uid": "528580", 
+        "nome": "JOSE ABELARDO GUIMARAES CAMARINHA", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ABELARDO CAMARINHA"
+    }, 
+    {
+        "pio_uid": "525500", 
+        "nome": "AELTON JOSE DE FREITAS", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "AELTON FREITAS"
+    }, 
+    {
+        "pio_uid": "526687", 
+        "nome": "JACOB ALFREDO STOFFELS KAEFER", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ALFREDO KAEFER"
+    }, 
+    {
+        "pio_uid": "528183", 
+        "nome": "ALINE LEMOS CORREA DE OLIVEIRA ANDRADE", 
+        "partido": "PP", 
+        "sexo": "feminino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ALINE CORREA"
+    }, 
+    {
+        "pio_uid": "526610", 
+        "nome": "ANDRE LUIZ VARGAS ILARIO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ANDRE VARGAS"
+    }, 
+    {
+        "pio_uid": "526874", 
+        "nome": "ANDREIA ALMEIDA ZITO DOS SANTOS", 
+        "partido": "PSDB", 
+        "sexo": "feminino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ANDREIA ZITO"
+    }, 
+    {
+        "pio_uid": "526612", 
+        "nome": "ANGELO CARLOS VANHONI", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ANGELO VANHONI"
+    }, 
+    {
+        "pio_uid": "528219", 
+        "nome": "ANTONIO CARLOS MARTINS DE BULHOES", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ANTONIO BULHOES"
+    }, 
+    {
+        "pio_uid": "525549", 
+        "nome": "ANTONIO ROBERTO SOARES", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "ANTONIO ROBERTO"
+    }, 
+    {
+        "pio_uid": "528260", 
+        "nome": "ARNALDO CALIL PEREIRA JARDIM", 
+        "partido": "PPS", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ARNALDO JARDIM"
+    }, 
+    {
+        "pio_uid": "526364", 
+        "nome": "BRUNO CAVALCANTI DE ARAUJO", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "BRUNO ARAUJO"
+    }, 
+    {
+        "pio_uid": "530941", 
+        "nome": "CAMILO COLA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "ES", 
+        "nome_parlamentar": "CAMILO COLA"
+    }, 
+    {
+        "pio_uid": "525372", 
+        "nome": "CARLOS ORLEANS BRANDAO JUNIOR", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "CARLOS BRANDAO"
+    }, 
+    {
+        "pio_uid": "528009", 
+        "nome": "CELSO MALDANER", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "CELSO MALDANER"
+    }, 
+    {
+        "pio_uid": "524985", 
+        "nome": "FRANCISCO LOPES DA SILVA", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "CHICO LOPES"
+    }, 
+    {
+        "pio_uid": "525375", 
+        "nome": "CLEBER VERDE CORDEIRO MENDES", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "CLEBER VERDE"
+    }, 
+    {
+        "pio_uid": "524733", 
+        "nome": "MARIA DALVA DE SOUZA FIGUEIREDO", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "AP", 
+        "nome_parlamentar": "DALVA FIGUEIREDO"
+    }, 
+    {
+        "pio_uid": "531069", 
+        "nome": "DAVI ALVES SILVA JUNIOR", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "DAVI ALVES SILVA JUNIOR"
+    }, 
+    {
+        "pio_uid": "528021", 
+        "nome": "DECIO NERY DE LIMA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "DECIO LIMA"
+    }, 
+    {
+        "pio_uid": "526835", 
+        "nome": "ADILSON SOARES", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "DR. ADILSON SOARES"
+    }, 
+    {
+        "pio_uid": "533383", 
+        "nome": "MARCO AURELIO UBIALI", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "DR. UBIALI"
+    }, 
+    {
+        "pio_uid": "528229", 
+        "nome": "ANTONIO DUARTE NOGUEIRA JUNIOR", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "DUARTE NOGUEIRA"
+    }, 
+    {
+        "pio_uid": "527657", 
+        "nome": "EDIO VIEIRA LOPES", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "EDIO LOPES"
+    }, 
+    {
+        "pio_uid": "527013", 
+        "nome": "EDSON SANTOS DE SOUZA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "EDSON SANTOS"
+    }, 
+    {
+        "pio_uid": "526389", 
+        "nome": "EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "EDUARDO DA FONTE"
+    }, 
+    {
+        "pio_uid": "526284", 
+        "nome": "EFRAIM DE ARAUJO MORAIS FILHO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "EFRAIM FILHO"
+    }, 
+    {
+        "pio_uid": "526068", 
+        "nome": "ELIENE JOSE DE LIMA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "ELIENE LIMA"
+    }, 
+    {
+        "pio_uid": "524943", 
+        "nome": "ANTONIO EUDES XAVIER", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "EUDES XAVIER"
+    }, 
+    {
+        "pio_uid": "527539", 
+        "nome": "FABIO SALUSTINO MESQUITA DE FARIA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "RN", 
+        "nome_parlamentar": "FABIO FARIA"
+    }, 
+    {
+        "pio_uid": "525627", 
+        "nome": "FABIO AUGUSTO RAMALHO DOS SANTOS", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "FABIO RAMALHO"
+    }, 
+    {
+        "pio_uid": "527042", 
+        "nome": "FELIPE LEONE BORNIER DE OLIVEIRA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "FELIPE BORNIER"
+    }, 
+    {
+        "pio_uid": "527540", 
+        "nome": "FELIPE CATALAO MAIA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "RN", 
+        "nome_parlamentar": "FELIPE MAIA"
+    }, 
+    {
+        "pio_uid": "526411", 
+        "nome": "FERNANDO BEZERRA DE SOUZA COELHO FILHO", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "FERNANDO COELHO FILHO"
+    }, 
+    {
+        "pio_uid": "524512", 
+        "nome": "FLAVIANO FLAVIO BAPTISTA DE MELO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "AC", 
+        "nome_parlamentar": "FLAVIANO MELO"
+    }, 
+    {
+        "pio_uid": "5829181", 
+        "nome": "JOSE FRANCISCO CERQUEIRA TENORIO", 
+        "partido": "PMN", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "FRANCISCO TENORIO"
+    }, 
+    {
+        "pio_uid": "525638", 
+        "nome": "GEORGE HILTON DOS SANTOS CECILIO", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "GEORGE HILTON"
+    }, 
+    {
+        "pio_uid": "524520", 
+        "nome": "GLADSON DE LIMA CAMELI", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "AC", 
+        "nome_parlamentar": "GLADSON CAMELI"
+    }, 
+    {
+        "pio_uid": "528487", 
+        "nome": "GUILHERME CAMPOS JUNIOR", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "GUILHERME CAMPOS"
+    }, 
+    {
+        "pio_uid": "527082", 
+        "nome": "HUGO LEAL MELO DA SILVA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "HUGO LEAL"
+    }, 
+    {
+        "pio_uid": "525279", 
+        "nome": "IRIS DE ARAUJO REZENDE MACHADO", 
+        "partido": "PMDB", 
+        "sexo": "feminino", 
+        "uf": "GO", 
+        "nome_parlamentar": "IRIS DE ARAUJO"
+    }, 
+    {
+        "pio_uid": "528531", 
+        "nome": "JANETE ROCHA PIETA", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "SP", 
+        "nome_parlamentar": "JANETE ROCHA PIETA"
+    }, 
+    {
+        "pio_uid": "525831", 
+        "nome": "MARIA DO SOCORRO JO MORAES", 
+        "partido": "PCdoB", 
+        "sexo": "feminino", 
+        "uf": "MG", 
+        "nome_parlamentar": "JO MORAES"
+    }, 
+    {
+        "pio_uid": "524833", 
+        "nome": "JOAO CARLOS PAOLILO BACELAR FILHO", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JOAO CARLOS BACELAR"
+    }, 
+    {
+        "pio_uid": "531198", 
+        "nome": "JOAO BITTAR JUNIOR", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "JOAO BITTAR"
+    }, 
+    {
+        "pio_uid": "527550", 
+        "nome": "JOAO DA SILVA MAIA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RN", 
+        "nome_parlamentar": "JOAO MAIA"
+    }, 
+    {
+        "pio_uid": "525000", 
+        "nome": "JOSE AIRTON FELIX CIRILO DA SILVA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "JOSE AIRTON"
+    }, 
+    {
+        "pio_uid": "525011", 
+        "nome": "JOSE NOBRE GUIMARAES", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "JOSE GUIMARAES"
+    }, 
+    {
+        "pio_uid": "529135", 
+        "nome": "LAZARO BOTELHO MARTINS", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "TO", 
+        "nome_parlamentar": "LAZARO BOTELHO"
+    }, 
+    {
+        "pio_uid": "525239", 
+        "nome": "WELINGTON COIMBRA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "ES", 
+        "nome_parlamentar": "LELO COIMBRA"
+    }, 
+    {
+        "pio_uid": "525771", 
+        "nome": "LEONARDO LEMOS BARROS QUINTAO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "LEONARDO QUINTAO"
+    }, 
+    {
+        "pio_uid": "526195", 
+        "nome": "JOAQUIM DE LIRA MAIA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "LIRA MAIA"
+    }, 
+    {
+        "pio_uid": "526213", 
+        "nome": "LUCIO DUTRA VALE", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "LUCIO VALE"
+    }, 
+    {
+        "pio_uid": "525797", 
+        "nome": "LUIZ FERNANDO RAMOS FARIA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "LUIZ FERNANDO FARIA"
+    }, 
+    {
+        "pio_uid": "526317", 
+        "nome": "MANOEL ALVES DA SILVA JUNIOR", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "MANOEL JUNIOR"
+    }, 
+    {
+        "pio_uid": "527897", 
+        "nome": "MANUELA PINTO VIEIRA D'AVILA", 
+        "partido": "PCdoB", 
+        "sexo": "feminino", 
+        "uf": "RS", 
+        "nome_parlamentar": "MANUELA D'AVILA"
+    }, 
+    {
+        "pio_uid": "528753", 
+        "nome": "MARCIO LUIZ FRANCA GOMES", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "MARCIO FRANCA"
+    }, 
+    {
+        "pio_uid": "525821", 
+        "nome": "MARCOS MONTES CORDEIRO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "MARCOS MONTES"
+    }, 
+    {
+        "pio_uid": "528067", 
+        "nome": "MAURO MARIANI", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "MAURO MARIANI"
+    }, 
+    {
+        "pio_uid": "525846", 
+        "nome": "MIGUEL CORREA DA SILVA JUNIOR", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "MIGUEL CORREA"
+    }, 
+    {
+        "pio_uid": "527640", 
+        "nome": "RUBENS MOREIRA MENDES FILHO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "RO", 
+        "nome_parlamentar": "MOREIRA MENDES"
+    }, 
+    {
+        "pio_uid": "526575", 
+        "nome": "OSMAR RIBEIRO DE ALMEIDA JUNIOR", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "OSMAR JUNIOR"
+    }, 
+    {
+        "pio_uid": "527369", 
+        "nome": "OTAVIO SANTOS SILVA LEITE", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "OTAVIO LEITE"
+    }, 
+    {
+        "pio_uid": "528881", 
+        "nome": "PAULO PEREIRA DA SILVA", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "PAULO PEREIRA DA SILVA"
+    }, 
+    {
+        "pio_uid": "525873", 
+        "nome": "PAULO ABI-ACKEL", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "PAULO ABI-ACKEL"
+    }, 
+    {
+        "pio_uid": "5829217", 
+        "nome": "PAULO HENRIQUE ELLERY LUSTOSA DA COSTA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "PAULO HENRIQUE LUSTOSA"
+    }, 
+    {
+        "pio_uid": "528722", 
+        "nome": "LUIZ PAULO TEIXEIRA FERREIRA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "PAULO TEIXEIRA"
+    }, 
+    {
+        "pio_uid": "525428", 
+        "nome": "JOSE ELEONILDO SOARES", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "PINTO ITAMARATY"
+    }, 
+    {
+        "pio_uid": "524640", 
+        "nome": "FRANCISCO EDNALDO PRACIANO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "FRANCISCO PRACIANO"
+    }, 
+    {
+        "pio_uid": "525474", 
+        "nome": "SETIMO WAQUIM", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "PROFESSOR SETIMO"
+    }, 
+    {
+        "pio_uid": "526493", 
+        "nome": "RAUL JEAN LOUIS HENRY JUNIOR", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "RAUL HENRY"
+    }, 
+    {
+        "pio_uid": "527952", 
+        "nome": "RENATO DELMAR MOLLING", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "RENATO MOLLING"
+    }, 
+    {
+        "pio_uid": "528647", 
+        "nome": "JOSE RICARDO ALVARENGA TRIPOLI", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "RICARDO TRIPOLI"
+    }, 
+    {
+        "pio_uid": "524907", 
+        "nome": "ROBERTO PEREIRA DE BRITTO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ROBERTO BRITTO"
+    }, 
+    {
+        "pio_uid": "528650", 
+        "nome": "JOSE ROBERTO SANTIAGO GOMES", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ROBERTO SANTIAGO"
+    }, 
+    {
+        "pio_uid": "525903", 
+        "nome": "RODRIGO BATISTA DE CASTRO", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "RODRIGO DE CASTRO"
+    }, 
+    {
+        "pio_uid": "524686", 
+        "nome": "RAIMUNDO SABINO CASTELO BRANCO MAUES", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "SABINO CASTELO BRANCO"
+    }, 
+    {
+        "pio_uid": "524745", 
+        "nome": "SEBASTIAO FERREIRA DA ROCHA", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "AP", 
+        "nome_parlamentar": "SEBASTIAO BALA ROCHA"
+    }, 
+    {
+        "pio_uid": "527964", 
+        "nome": "SERGIO IVAN MORAES", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "SERGIO MORAES"
+    }, 
+    {
+        "pio_uid": "525230", 
+        "nome": "SUELI RANGEL SILVA VIDIGAL", 
+        "partido": "PDT", 
+        "sexo": "feminino", 
+        "uf": "ES", 
+        "nome_parlamentar": "SUELI VIDIGAL"
+    }, 
+    {
+        "pio_uid": "5829190", 
+        "nome": "URZENI DA ROCHA FREITAS FILHO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "URZENI ROCHA"
+    }, 
+    {
+        "pio_uid": "528280", 
+        "nome": "CANDIDO ELPIDIO DE SOUZA VACCAREZZA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "CANDIDO VACCAREZZA"
+    }, 
+    {
+        "pio_uid": "528107", 
+        "nome": "ANTONIO CARLOS VALADARES FILHO", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "VALADARES FILHO"
+    }, 
+    {
+        "pio_uid": "526124", 
+        "nome": "VALTENIR LUIZ PEREIRA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "VALTENIR PEREIRA"
+    }, 
+    {
+        "pio_uid": "533308", 
+        "nome": "VANDERLEI MACRIS", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "VANDERLEI MACRIS"
+    }, 
+    {
+        "pio_uid": "527766", 
+        "nome": "CARLOS EDUARDO VIEIRA DA CUNHA", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "VIEIRA DA CUNHA"
+    }, 
+    {
+        "pio_uid": "531196", 
+        "nome": "VITOR PENIDO DE BARROS", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "VITOR PENIDO"
+    }, 
+    {
+        "pio_uid": "525478", 
+        "nome": "WALDIR MARANHAO CARDOSO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "WALDIR MARANHAO"
+    }, 
+    {
+        "pio_uid": "533313", 
+        "nome": "WALTER SHINDI IIHOSHI", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "WALTER IHOSHI"
+    }, 
+    {
+        "pio_uid": "526260", 
+        "nome": "WANDENKOLK PASTEUR GONCALVES", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "WANDENKOLK GONCALVES"
+    }, 
+    {
+        "pio_uid": "528288", 
+        "nome": "CARLOS ALBERTO ROLIM ZARATTINI", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "CARLOS ZARATTINI"
+    }, 
+    {
+        "pio_uid": "527977", 
+        "nome": "VILSON LUIZ COVATTI", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "VILSON COVATTI"
+    }, 
+    {
+        "pio_uid": "531199", 
+        "nome": "JAIRO ATAIDE VIEIRA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "JAIRO ATAIDE"
+    }, 
+    {
+        "pio_uid": "526509", 
+        "nome": "SILVIO SERAFIM COSTA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "SILVIO COSTA"
+    }, 
+    {
+        "pio_uid": "525097", 
+        "nome": "IZALCI LUCAS FERREIRA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "DF", 
+        "nome_parlamentar": "IZALCI"
+    }, 
+    {
+        "pio_uid": "5829218", 
+        "nome": "MARCELO BELTRAO DE ALMEIDA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "MARCELO ALMEIDA"
+    }, 
+    {
+        "pio_uid": "527378", 
+        "nome": "PAULO CESAR DA GUIA ALMEIDA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "DR. PAULO CESAR"
+    }, 
+    {
+        "pio_uid": "5829172", 
+        "nome": "FABIO RODRIGUES DE OLIVEIRA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "MAJOR FABIO"
+    }, 
+    {
+        "pio_uid": "524874", 
+        "nome": "MARCIO CARLOS MARINHO", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "MARCIO MARINHO"
+    }, 
+    {
+        "pio_uid": "528134", 
+        "nome": "LAERCIO JOSE DE OLIVEIRA", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "LAERCIO OLIVEIRA"
+    }, 
+    {
+        "pio_uid": "527072", 
+        "nome": "GLAUBER DE MEDEIROS BRAGA", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "GLAUBER BRAGA"
+    }, 
+    {
+        "pio_uid": "525440", 
+        "nome": "JOSE VIEIRA LINS", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "ZE VIEIRA"
+    }, 
+    {
+        "pio_uid": "533309", 
+        "nome": "ELEUSES VIEIRA DE PAIVA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ELEUSES PAIVA"
+    }, 
+    {
+        "pio_uid": "530075", 
+        "nome": "JOSE HUMBERTO SOARES", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "JOSE HUMBERTO"
+    }, 
+    {
+        "pio_uid": "530000", 
+        "nome": "TAUMATURGO LIMA CORDEIRO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "AC", 
+        "nome_parlamentar": "TAUMATURGO LIMA"
+    }, 
+    {
+        "pio_uid": "530001", 
+        "nome": "SEBASTIAO SIBA MACHADO OLIVEIRA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "AC", 
+        "nome_parlamentar": "SIBA MACHADO"
+    }, 
+    {
+        "pio_uid": "530002", 
+        "nome": "ANTONIA LUCILEIA CRUZ RAMOS CAMARA", 
+        "partido": "PSC", 
+        "sexo": "feminino", 
+        "uf": "AC", 
+        "nome_parlamentar": "ANTONIA LUCIA"
+    }, 
+    {
+        "pio_uid": "530004", 
+        "nome": "ARTHUR CESAR PEREIRA DE LIRA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "ARTHUR LIRA"
+    }, 
+    {
+        "pio_uid": "530007", 
+        "nome": "JOSE RENAN VASCONCELOS CALHEIROS FILHO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "RENAN FILHO"
+    }, 
+    {
+        "pio_uid": "530009", 
+        "nome": "ROSEANE CAVALCANTE DE FREITAS", 
+        "partido": "PTdoB", 
+        "sexo": "feminino", 
+        "uf": "AL", 
+        "nome_parlamentar": "ROSINHA DA ADEFAL"
+    }, 
+    {
+        "pio_uid": "530010", 
+        "nome": "JOSE HENRIQUE OLIVEIRA", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "HENRIQUE OLIVEIRA"
+    }, 
+    {
+        "pio_uid": "530013", 
+        "nome": "VINICIUS DE AZEVEDO GURGEL", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "AP", 
+        "nome_parlamentar": "VINICIUS GURGEL"
+    }, 
+    {
+        "pio_uid": "530014", 
+        "nome": "LUIZ CARLOS GOMES DOS SANTOS JUNIOR", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "AP", 
+        "nome_parlamentar": "LUIZ CARLOS"
+    }, 
+    {
+        "pio_uid": "530015", 
+        "nome": "JOAO LUIZ CORREIA ARGOLO DOS SANTOS", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "LUIZ ARGOLO"
+    }, 
+    {
+        "pio_uid": "530016", 
+        "nome": "OZIEL ALVES DE OLIVEIRA", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "OZIEL OLIVEIRA"
+    }, 
+    {
+        "pio_uid": "530017", 
+        "nome": "FELIX DE ALMEIDA MENDONCA JUNIOR", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "FELIX MENDONCA JUNIOR"
+    }, 
+    {
+        "pio_uid": "530018", 
+        "nome": "AFONSO BANDEIRA FLORENCE", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "AFONSO FLORENCE"
+    }, 
+    {
+        "pio_uid": "530019", 
+        "nome": "VALMIR CARLOS DA ASSUNCAO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "VALMIR ASSUNCAO"
+    }, 
+    {
+        "pio_uid": "530020", 
+        "nome": "AMAURI SANTOS TEIXEIRA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "AMAURI TEIXEIRA"
+    }, 
+    {
+        "pio_uid": "530022", 
+        "nome": "WALDENOR ALVES PEREIRA FILHO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "WALDENOR PEREIRA"
+    }, 
+    {
+        "pio_uid": "530024", 
+        "nome": "ANTONIO LUIZ PARANHOS RIBEIRO LEITE DE BRITO", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ANTONIO BRITO"
+    }, 
+    {
+        "pio_uid": "530025", 
+        "nome": "ARTHUR DE OLIVEIRA MAIA DA SILVA", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ARTHUR OLIVEIRA MAIA"
+    }, 
+    {
+        "pio_uid": "530026", 
+        "nome": "LUCIO QUADROS VIEIRA LIMA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "LUCIO VIEIRA LIMA"
+    }, 
+    {
+        "pio_uid": "530027", 
+        "nome": "ERIVELTON LIMA SANTANA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ERIVELTON SANTANA"
+    }, 
+    {
+        "pio_uid": "530028", 
+        "nome": "FERNANDO DANTAS TORRES", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "FERNANDO TORRES"
+    }, 
+    {
+        "pio_uid": "530029", 
+        "nome": "JOSE NUNES SOARES", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JOSE NUNES"
+    }, 
+    {
+        "pio_uid": "530030", 
+        "nome": "JANIO NATAL ANDRADE BORGES", 
+        "partido": "PRP", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "JANIO NATAL"
+    }, 
+    {
+        "pio_uid": "530031", 
+        "nome": "ANTONIO JOSE IMBASSAHY DA SILVA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ANTONIO IMBASSAHY"
+    }, 
+    {
+        "pio_uid": "530032", 
+        "nome": "EDSON SAMPAIO PIMENTA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "EDSON PIMENTA"
+    }, 
+    {
+        "pio_uid": "530034", 
+        "nome": "ARTUR JOSE VIEIRA BRUNO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "ARTUR BRUNO"
+    }, 
+    {
+        "pio_uid": "530035", 
+        "nome": "FRANCISCO DANILO BASTOS FORTE", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "DANILO FORTE"
+    }, 
+    {
+        "pio_uid": "530037", 
+        "nome": "GENECIAS MATEUS NORONHA", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "GENECIAS NORONHA"
+    }, 
+    {
+        "pio_uid": "530041", 
+        "nome": "JOAO ANANIAS VASCONCELOS NETO", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "JOAO ANANIAS"
+    }, 
+    {
+        "pio_uid": "530042", 
+        "nome": "JOSE ANTONIO MACHADO REGUFFE", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "DF", 
+        "nome_parlamentar": "REGUFFE"
+    }, 
+    {
+        "pio_uid": "530044", 
+        "nome": "ERIKA JUCA KOKAY", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "DF", 
+        "nome_parlamentar": "ERIKA KOKAY"
+    }, 
+    {
+        "pio_uid": "530045", 
+        "nome": "LUIZ CARLOS PIETSCHMANN", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "DF", 
+        "nome_parlamentar": "LUIZ PITIMAN"
+    }, 
+    {
+        "pio_uid": "530046", 
+        "nome": "RONALDO FONSECA DE SOUZA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "DF", 
+        "nome_parlamentar": "RONALDO FONSECA"
+    }, 
+    {
+        "pio_uid": "530047", 
+        "nome": "JAQUELINE MARIA RORIZ", 
+        "partido": "PMN", 
+        "sexo": "feminino", 
+        "uf": "DF", 
+        "nome_parlamentar": "JAQUELINE RORIZ"
+    }, 
+    {
+        "pio_uid": "530048", 
+        "nome": "JORGE SILVA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "ES", 
+        "nome_parlamentar": "DR. JORGE SILVA"
+    }, 
+    {
+        "pio_uid": "530049", 
+        "nome": "LAURIETE RODRIGUES PINTO", 
+        "partido": "PSC", 
+        "sexo": "feminino", 
+        "uf": "ES", 
+        "nome_parlamentar": "LAURIETE"
+    }, 
+    {
+        "pio_uid": "530051", 
+        "nome": "PAULO ROBERTO FOLETTO", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "ES", 
+        "nome_parlamentar": "PAULO FOLETTO"
+    }, 
+    {
+        "pio_uid": "530052", 
+        "nome": "CESAR ROBERTO COLNAGHI", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "ES", 
+        "nome_parlamentar": "CESAR COLNAGO"
+    }, 
+    {
+        "pio_uid": "530053", 
+        "nome": "FLAVIA CARREIRO ALBUQUERQUE MORAIS", 
+        "partido": "PDT", 
+        "sexo": "feminino", 
+        "uf": "GO", 
+        "nome_parlamentar": "FLAVIA MORAIS"
+    }, 
+    {
+        "pio_uid": "530056", 
+        "nome": "HEULER ABREU CRUVINEL", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "HEULER CRUVINEL"
+    }, 
+    {
+        "pio_uid": "530057", 
+        "nome": "ARMANDO VERGILIO DOS SANTOS JUNIOR", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "ARMANDO VERGILIO"
+    }, 
+    {
+        "pio_uid": "530059", 
+        "nome": "JOSE ALBERTO OLIVEIRA VELOSO FILHO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "ALBERTO FILHO"
+    }, 
+    {
+        "pio_uid": "530061", 
+        "nome": "HELIO BATISTA DOS SANTOS", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "HELIO SANTOS"
+    }, 
+    {
+        "pio_uid": "530062", 
+        "nome": "LOURIVAL MENDES DA FONSECA FILHO", 
+        "partido": "PTdoB", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "LOURIVAL MENDES"
+    }, 
+    {
+        "pio_uid": "530063", 
+        "nome": "DIMAS FABIANO TOLEDO JUNIOR", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "DIMAS FABIANO"
+    }, 
+    {
+        "pio_uid": "530064", 
+        "nome": "RENZO DO AMARAL BRAZ", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "RENZO BRAZ"
+    }, 
+    {
+        "pio_uid": "530065", 
+        "nome": "ANTONIO PINHEIRO JUNIOR", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "TONINHO PINHEIRO"
+    }, 
+    {
+        "pio_uid": "530067", 
+        "nome": "GABRIEL GUIMARAES DE ANDRADE", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "GABRIEL GUIMARAES"
+    }, 
+    {
+        "pio_uid": "530068", 
+        "nome": "JOAO CARLOS SIQUEIRA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "PADRE JOAO"
+    }, 
+    {
+        "pio_uid": "530069", 
+        "nome": "WELITON FERNANDES PRADO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "WELITON PRADO"
+    }, 
+    {
+        "pio_uid": "530072", 
+        "nome": "RODRIGO MOREIRA LADEIRA GRILO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "DR. GRILO"
+    }, 
+    {
+        "pio_uid": "530073", 
+        "nome": "DIEGO LEONARDO DE ANDRADE CARVALHO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "DIEGO ANDRADE"
+    }, 
+    {
+        "pio_uid": "530074", 
+        "nome": "BERNARDO DE VASCONCELLOS MOREIRA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "BERNARDO SANTANA DE VASCONCELLOS"
+    }, 
+    {
+        "pio_uid": "530076", 
+        "nome": "WALTER DA ROCHA TOSTA", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "WALTER TOSTA"
+    }, 
+    {
+        "pio_uid": "530078", 
+        "nome": "MARCUS VINICIUS CAETANO PESTANA DA SILVA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "MARCUS PESTANA"
+    }, 
+    {
+        "pio_uid": "530079", 
+        "nome": "DOMINGOS SAVIO CAMPOS RESENDE", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "DOMINGOS SAVIO"
+    }, 
+    {
+        "pio_uid": "530080", 
+        "nome": "EDUARDO BRANDAO DE AZEREDO", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "EDUARDO AZEREDO"
+    }, 
+    {
+        "pio_uid": "530081", 
+        "nome": "LUIS HENRIQUE DE OLIVEIRA RESENDE", 
+        "partido": "PTdoB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "LUIS TIBE"
+    }, 
+    {
+        "pio_uid": "530082", 
+        "nome": "FABIO RICARDO TRAD", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "FABIO TRAD"
+    }, 
+    {
+        "pio_uid": "530084", 
+        "nome": "LUIZ HENRIQUE MANDETTA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "MANDETTA"
+    }, 
+    {
+        "pio_uid": "530085", 
+        "nome": "REINALDO AZAMBUJA SILVA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "REINALDO AZAMBUJA"
+    }, 
+    {
+        "pio_uid": "530086", 
+        "nome": "SAGUAS MORAES SOUSA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "SAGUAS MORAES"
+    }, 
+    {
+        "pio_uid": "530088", 
+        "nome": "CLAUDIO ALBERTO CASTELO BRANCO PUTY", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "CLAUDIO PUTY"
+    }, 
+    {
+        "pio_uid": "530089", 
+        "nome": "ESMERINO NERI BATISTA FILHO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "MIRIQUINHO BATISTA"
+    }, 
+    {
+        "pio_uid": "530092", 
+        "nome": "ARNALDO JORDY FIGUEIREDO", 
+        "partido": "PPS", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "ARNALDO JORDY"
+    }, 
+    {
+        "pio_uid": "530094", 
+        "nome": "OZANILDA GONDIM VITAL DO REGO", 
+        "partido": "PMDB", 
+        "sexo": "feminino", 
+        "uf": "PB", 
+        "nome_parlamentar": "NILDA GONDIM"
+    }, 
+    {
+        "pio_uid": "530095", 
+        "nome": "JOSE WILSON SANTIAGO FILHO", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "WILSON FILHO"
+    }, 
+    {
+        "pio_uid": "530096", 
+        "nome": "HUGO MOTTA WANDERLEY DA NOBREGA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "HUGO MOTTA"
+    }, 
+    {
+        "pio_uid": "530099", 
+        "nome": "RUY MANUEL CARNEIRO BARBOSA DE ACA BELCHIOR", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "RUY CARNEIRO"
+    }, 
+    {
+        "pio_uid": "530100", 
+        "nome": "ROBERTO SERGIO RIBEIRO COUTINHO TEIXEIRA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "ROBERTO TEIXEIRA"
+    }, 
+    {
+        "pio_uid": "530101", 
+        "nome": "JOAO PAULO LIMA E SILVA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "JOAO PAULO LIMA"
+    }, 
+    {
+        "pio_uid": "530102", 
+        "nome": "JORGE WICKS CORTE REAL", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "JORGE CORTE REAL"
+    }, 
+    {
+        "pio_uid": "530103", 
+        "nome": "JOSE AUGUSTO MAIA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "JOSE AUGUSTO MAIA"
+    }, 
+    {
+        "pio_uid": "530104", 
+        "nome": "ANDERSON FERREIRA RODRIGUES", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "ANDERSON FERREIRA"
+    }, 
+    {
+        "pio_uid": "530106", 
+        "nome": "AUGUSTO RODRIGUES COUTINHO DE MELO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "AUGUSTO COUTINHO"
+    }, 
+    {
+        "pio_uid": "530108", 
+        "nome": "FRANCISCO EURICO DA SILVA", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "PASTOR EURICO"
+    }, 
+    {
+        "pio_uid": "530110", 
+        "nome": "LUCIANA BARBOSA DE OLIVEIRA SANTOS", 
+        "partido": "PCdoB", 
+        "sexo": "feminino", 
+        "uf": "PE", 
+        "nome_parlamentar": "LUCIANA SANTOS"
+    }, 
+    {
+        "pio_uid": "530111", 
+        "nome": "IRACEMA MARIA PORTELLA NUNES NOGUEIRA LIMA", 
+        "partido": "PP", 
+        "sexo": "feminino", 
+        "uf": "PI", 
+        "nome_parlamentar": "IRACEMA PORTELLA"
+    }, 
+    {
+        "pio_uid": "530112", 
+        "nome": "FRANCISCO DE ASSIS CARVALHO GONCALVES", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "ASSIS CARVALHO"
+    }, 
+    {
+        "pio_uid": "530113", 
+        "nome": "JESUS RODRIGUES ALVES", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "JESUS RODRIGUES"
+    }, 
+    {
+        "pio_uid": "530114", 
+        "nome": "MARLLOS ROSSANO RIBEIRO GONCALVES DE SAMPAIO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PI", 
+        "nome_parlamentar": "MARLLOS SAMPAIO"
+    }, 
+    {
+        "pio_uid": "530116", 
+        "nome": "MARIA APARECIDA BORGHETTI", 
+        "partido": "PROS", 
+        "sexo": "feminino", 
+        "uf": "PR", 
+        "nome_parlamentar": "CIDA BORGHETTI"
+    }, 
+    {
+        "pio_uid": "530117", 
+        "nome": "JOSE CARLOS BECKER DE OLIVEIRA E SILVA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ZECA DIRCEU"
+    }, 
+    {
+        "pio_uid": "530118", 
+        "nome": "JOAO JOSE DE ARRUDA JUNIOR", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "JOAO ARRUDA"
+    }, 
+    {
+        "pio_uid": "530119", 
+        "nome": "EDMAR DE SOUZA ARRUDA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "EDMAR ARRUDA"
+    }, 
+    {
+        "pio_uid": "530120", 
+        "nome": "NELSON PADOVANI", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "NELSON PADOVANI"
+    }, 
+    {
+        "pio_uid": "530122", 
+        "nome": "SANDRO ALEX CRUZ DE OLIVEIRA", 
+        "partido": "PPS", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "SANDRO ALEX"
+    }, 
+    {
+        "pio_uid": "530123", 
+        "nome": "LEOPOLDO COSTA MEYER", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "LEOPOLDO MEYER"
+    }, 
+    {
+        "pio_uid": "530124", 
+        "nome": "CLEUSA ROSANE RIBAS FERREIRA", 
+        "partido": "PV", 
+        "sexo": "feminino", 
+        "uf": "PR", 
+        "nome_parlamentar": "ROSANE FERREIRA"
+    }, 
+    {
+        "pio_uid": "530125", 
+        "nome": "FERNANDO DESTITO FRANCISCHINI", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "FERNANDO FRANCISCHINI"
+    }, 
+    {
+        "pio_uid": "530126", 
+        "nome": "VITOR PAULO ARAUJO DOS SANTOS", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "VITOR PAULO"
+    }, 
+    {
+        "pio_uid": "530128", 
+        "nome": "MARCELO VIVIANI GONCALVES", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "MARCELO MATOS"
+    }, 
+    {
+        "pio_uid": "530129", 
+        "nome": "SERGIO ZVEITER", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "SERGIO ZVEITER"
+    }, 
+    {
+        "pio_uid": "530130", 
+        "nome": "ALESSANDRO LUCCIOLA MOLON", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ALESSANDRO MOLON"
+    }, 
+    {
+        "pio_uid": "530132", 
+        "nome": "WALNEY DA ROCHA CARVALHO", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "WALNEY ROCHA"
+    }, 
+    {
+        "pio_uid": "530134", 
+        "nome": "WASHINGTON REIS DE OLIVEIRA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "WASHINGTON REIS"
+    }, 
+    {
+        "pio_uid": "530135", 
+        "nome": "ADRIAN MUSSI RAMOS", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ADRIAN"
+    }, 
+    {
+        "pio_uid": "530136", 
+        "nome": "LILIAM SA DE PAULA", 
+        "partido": "PROS", 
+        "sexo": "feminino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "LILIAM SA"
+    }, 
+    {
+        "pio_uid": "530137", 
+        "nome": "ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ANTHONY GAROTINHO"
+    }, 
+    {
+        "pio_uid": "530138", 
+        "nome": "JORGE DE OLIVEIRA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ZOINHO"
+    }, 
+    {
+        "pio_uid": "530139", 
+        "nome": "FRANCISCO FLORIANO DE SOUSA SILVA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "FRANCISCO FLORIANO"
+    }, 
+    {
+        "pio_uid": "530140", 
+        "nome": "STEPAN NERCESSIAN", 
+        "partido": "PPS", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "STEPAN NERCESSIAN"
+    }, 
+    {
+        "pio_uid": "530141", 
+        "nome": "AUREO LIDIO MOREIRA RIBEIRO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "AUREO"
+    }, 
+    {
+        "pio_uid": "530142", 
+        "nome": "ROMARIO DE SOUZA FARIA", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ROMARIO"
+    }, 
+    {
+        "pio_uid": "530143", 
+        "nome": "ALFREDO HELIO SYRKIS", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "ALFREDO SIRKIS"
+    }, 
+    {
+        "pio_uid": "530145", 
+        "nome": "JEAN WYLLYS DE MATOS SANTOS", 
+        "partido": "PSOL", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "JEAN WYLLYS"
+    }, 
+    {
+        "pio_uid": "530148", 
+        "nome": "PAULO WAGNER LEITE DANTAS", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "RN", 
+        "nome_parlamentar": "PAULO WAGNER"
+    }, 
+    {
+        "pio_uid": "530149", 
+        "nome": "CARLOS MAGNO RAMOS", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RO", 
+        "nome_parlamentar": "CARLOS MAGNO"
+    }, 
+    {
+        "pio_uid": "530150", 
+        "nome": "MARITON BENEDITO DE HOLANDA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RO", 
+        "nome_parlamentar": "PADRE TON"
+    }, 
+    {
+        "pio_uid": "530152", 
+        "nome": "JOHNATHAN PEREIRA DE JESUS", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "JHONATAN DE JESUS"
+    }, 
+    {
+        "pio_uid": "530153", 
+        "nome": "RAUL DA SILVA LIMA SOBRINHO", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "RAUL LIMA"
+    }, 
+    {
+        "pio_uid": "530155", 
+        "nome": "PAULO CESAR JUSTO QUARTIERO", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "PAULO CESAR QUARTIERO"
+    }, 
+    {
+        "pio_uid": "530156", 
+        "nome": "FRANCISCO VIEIRA SAMPAIO", 
+        "partido": "PRP", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "CHICO DAS VERDURAS"
+    }, 
+    {
+        "pio_uid": "530157", 
+        "nome": "HERBSON JAIRO RIBEIRO BANTIM", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "RR", 
+        "nome_parlamentar": "BERINHO BANTIM"
+    }, 
+    {
+        "pio_uid": "530158", 
+        "nome": "JERONIMO PIZZOLOTTO GOERGEN", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "JERONIMO GOERGEN"
+    }, 
+    {
+        "pio_uid": "530159", 
+        "nome": "GIOVANI CHERINI", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "GIOVANI CHERINI"
+    }, 
+    {
+        "pio_uid": "530160", 
+        "nome": "RONALDO MIRO ZUELKE", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "RONALDO ZULKE"
+    }, 
+    {
+        "pio_uid": "530161", 
+        "nome": "ELVINO JOSE BOHN GASS", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "BOHN GASS"
+    }, 
+    {
+        "pio_uid": "530162", 
+        "nome": "DIONILSO MATEUS MARCON", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "MARCON"
+    }, 
+    {
+        "pio_uid": "530163", 
+        "nome": "DANRLEI DE DEUS HINTERHOLZ", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "DANRLEI DE DEUS HINTERHOLZ"
+    }, 
+    {
+        "pio_uid": "530164", 
+        "nome": "ALCEU MOREIRA DA SILVA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "ALCEU MOREIRA"
+    }, 
+    {
+        "pio_uid": "530165", 
+        "nome": "ALEXANDRE RUBIO ROSO", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "ALEXANDRE ROSO"
+    }, 
+    {
+        "pio_uid": "530166", 
+        "nome": "JOSE LUIZ STEDILE", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "JOSE STEDILE"
+    }, 
+    {
+        "pio_uid": "530167", 
+        "nome": "NELSON MARCHEZAN JUNIOR", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "NELSON MARCHEZAN JUNIOR"
+    }, 
+    {
+        "pio_uid": "530168", 
+        "nome": "ASSIS FLAVIO DA SILVA MELO", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "ASSIS MELO"
+    }, 
+    {
+        "pio_uid": "530171", 
+        "nome": "PEDRO FRANCISCO UCZAI", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "PEDRO UCZAI"
+    }, 
+    {
+        "pio_uid": "530172", 
+        "nome": "RONALDO JOSE BENEDET", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "RONALDO BENEDET"
+    }, 
+    {
+        "pio_uid": "530173", 
+        "nome": "ROGERIO MENDONCA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "ROGERIO PENINHA MENDONCA"
+    }, 
+    {
+        "pio_uid": "530175", 
+        "nome": "ONOFRE SANTO AGUSTINI", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "ONOFRE SANTO AGOSTINI"
+    }, 
+    {
+        "pio_uid": "530176", 
+        "nome": "JORGINHO DOS SANTOS MELLO", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "JORGINHO MELLO"
+    }, 
+    {
+        "pio_uid": "530177", 
+        "nome": "MARCO ANTONIO TEBALDI", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SC", 
+        "nome_parlamentar": "MARCO TEBALDI"
+    }, 
+    {
+        "pio_uid": "530179", 
+        "nome": "ROGERIO CARVALHO SANTOS", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "ROGERIO CARVALHO"
+    }, 
+    {
+        "pio_uid": "530180", 
+        "nome": "MARCIO COSTA MACEDO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "MARCIO MACEDO"
+    }, 
+    {
+        "pio_uid": "530181", 
+        "nome": "JOSE ALMEIDA LIMA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "ALMEIDA LIMA"
+    }, 
+    {
+        "pio_uid": "530182", 
+        "nome": "ANDRE LUIS DANTAS FERREIRA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "ANDRE MOURA"
+    }, 
+    {
+        "pio_uid": "530183", 
+        "nome": "OTONIEL CARLOS DE LIMA", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "OTONIEL LIMA"
+    }, 
+    {
+        "pio_uid": "530184", 
+        "nome": "JOSE OLIMPIO SILVEIRA MORAES", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "MISSIONARIO JOSE OLIMPIO"
+    }, 
+    {
+        "pio_uid": "530186", 
+        "nome": "VICENTE CANDIDO DA SILVA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "VICENTE CANDIDO"
+    }, 
+    {
+        "pio_uid": "530188", 
+        "nome": "NEWTON LIMA NETO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "NEWTON LIMA"
+    }, 
+    {
+        "pio_uid": "530191", 
+        "nome": "MARCO ANTONIO FELICIANO", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "PASTOR MARCO FELICIANO"
+    }, 
+    {
+        "pio_uid": "530192", 
+        "nome": "MARCELO THEODORO DE AGUIAR", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "MARCELO AGUIAR"
+    }, 
+    {
+        "pio_uid": "530193", 
+        "nome": "FRANCISCO EVERARDO OLIVEIRA SILVA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "TIRIRICA"
+    }, 
+    {
+        "pio_uid": "530194", 
+        "nome": "PAULO ROBERTO FREIRE DA COSTA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "PAULO FREIRE"
+    }, 
+    {
+        "pio_uid": "530196", 
+        "nome": "ALEXANDRE LEITE DA SILVA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ALEXANDRE LEITE"
+    }, 
+    {
+        "pio_uid": "530198", 
+        "nome": "JUNJI ABE", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "JUNJI ABE"
+    }, 
+    {
+        "pio_uid": "530199", 
+        "nome": "ADRIANO ELI CORREA", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ELI CORREA FILHO"
+    }, 
+    {
+        "pio_uid": "530201", 
+        "nome": "GABRIEL BENEDITO ISSAAC CHALITA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "GABRIEL CHALITA"
+    }, 
+    {
+        "pio_uid": "530202", 
+        "nome": "IOLANDA KEIKO MIASHIRO OTA", 
+        "partido": "PSB", 
+        "sexo": "feminino", 
+        "uf": "SP", 
+        "nome_parlamentar": "KEIKO OTA"
+    }, 
+    {
+        "pio_uid": "530203", 
+        "nome": "GUILHERME MUSSI FERREIRA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "GUILHERME MUSSI"
+    }, 
+    {
+        "pio_uid": "530204", 
+        "nome": "JOSE LUIZ DE FRANCA PENNA", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "PENNA"
+    }, 
+    {
+        "pio_uid": "530205", 
+        "nome": "ROBERTO ALVES DE LUCENA", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "ROBERTO DE LUCENA"
+    }, 
+    {
+        "pio_uid": "530206", 
+        "nome": "RICARDO IZAR JUNIOR", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "RICARDO IZAR"
+    }, 
+    {
+        "pio_uid": "530207", 
+        "nome": "MARA CRISTINA GABRILLI", 
+        "partido": "PSDB", 
+        "sexo": "feminino", 
+        "uf": "SP", 
+        "nome_parlamentar": "MARA GABRILLI"
+    }, 
+    {
+        "pio_uid": "530208", 
+        "nome": "WILLIAM DIB", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "WILLIAM DIB"
+    }, 
+    {
+        "pio_uid": "530209", 
+        "nome": "LUIZ FERNANDO ARANTES MACHADO", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "LUIZ FERNANDO MACHADO"
+    }, 
+    {
+        "pio_uid": "530210", 
+        "nome": "JOSE CARLOS VAZ DE LIMA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "VAZ DE LIMA"
+    }, 
+    {
+        "pio_uid": "530211", 
+        "nome": "BRUNA DIAS FURLAN", 
+        "partido": "PSDB", 
+        "sexo": "feminino", 
+        "uf": "SP", 
+        "nome_parlamentar": "BRUNA FURLAN"
+    }, 
+    {
+        "pio_uid": "530212", 
+        "nome": "PROTOGENES PINHEIRO DE QUEIROZ", 
+        "partido": "PCdoB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "DELEGADO PROTOGENES"
+    }, 
+    {
+        "pio_uid": "530213", 
+        "nome": "JOSELI ANGELO AGNOLIN", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "TO", 
+        "nome_parlamentar": "ANGELO AGNOLIN"
+    }, 
+    {
+        "pio_uid": "530214", 
+        "nome": "RAIMUNDO COIMBRA JUNIOR", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "TO", 
+        "nome_parlamentar": "JUNIOR COIMBRA"
+    }, 
+    {
+        "pio_uid": "530215", 
+        "nome": "CESAR HANNA HALUM", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "TO", 
+        "nome_parlamentar": "CESAR HALUM"
+    }, 
+    {
+        "pio_uid": "530216", 
+        "nome": "IRAJA SILVESTRE FILHO", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "TO", 
+        "nome_parlamentar": "IRAJA ABREU"
+    }, 
+    {
+        "pio_uid": "530217", 
+        "nome": "MARIA AUXILIADORA SEABRA REZENDE", 
+        "partido": "DEM", 
+        "sexo": "feminino", 
+        "uf": "TO", 
+        "nome_parlamentar": "PROFESSORA DORINHA SEABRA REZENDE"
+    }, 
+    {
+        "pio_uid": "531760", 
+        "nome": "JOAO DUDIMAR DE AZEVEDO PAXIUBA", 
+        "partido": "PROS", 
+        "sexo": "masculino", 
+        "uf": "PA", 
+        "nome_parlamentar": "DUDIMAR PAXIUBA"
+    }, 
+    {
+        "pio_uid": "530659", 
+        "nome": "ACELINO FREITAS", 
+        "partido": "PRB", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "ACELINO POPO"
+    }, 
+    {
+        "pio_uid": "532384", 
+        "nome": "CARLOS ALBERTO LOPES", 
+        "partido": "PMN", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "DR. CARLOS ALBERTO"
+    }, 
+    {
+        "pio_uid": "530896", 
+        "nome": "ROBERTO POLICARPO FAGUNDES", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "DF", 
+        "nome_parlamentar": "POLICARPO"
+    }, 
+    {
+        "pio_uid": "532007", 
+        "nome": "LUIZ HILOSHI NISHIMORI", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "LUIZ NISHIMORI"
+    }, 
+    {
+        "pio_uid": "530998", 
+        "nome": "VALDIVINO JOSE DE OLIVEIRA", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "GO", 
+        "nome_parlamentar": "VALDIVINO DE OLIVEIRA"
+    }, 
+    {
+        "pio_uid": "531878", 
+        "nome": "ZACARIAS VILHARBA", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "VILALBA"
+    }, 
+    {
+        "pio_uid": "533055", 
+        "nome": "RONALDO NOGUEIRA DE OLIVEIRA", 
+        "partido": "PTB", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "RONALDO NOGUEIRA"
+    }, 
+    {
+        "pio_uid": "532149", 
+        "nome": "FERNANDO ANTONIO CECILIANO JORDAO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "FERNANDO JORDAO"
+    }, 
+    {
+        "pio_uid": "531619", 
+        "nome": "STEFANO AGUIAR DOS SANTOS", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "STEFANO AGUIAR"
+    }, 
+    {
+        "pio_uid": "531025", 
+        "nome": "MARINA PIGNATARO SANT'ANNA", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "GO", 
+        "nome_parlamentar": "MARINA SANTANNA"
+    }, 
+    {
+        "pio_uid": "533314", 
+        "nome": "CARLOS ROBERTO DE CAMPOS", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "CARLOS ROBERTO"
+    }, 
+    {
+        "pio_uid": "534005", 
+        "nome": "NILSON APARECIDO LEITAO", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "MT", 
+        "nome_parlamentar": "NILSON LEITAO"
+    }, 
+    {
+        "pio_uid": "534002", 
+        "nome": "MAGDA MOFATTO HON", 
+        "partido": "PR", 
+        "sexo": "feminino", 
+        "uf": "GO", 
+        "nome_parlamentar": "MAGDA MOFATTO"
+    }, 
+    {
+        "pio_uid": "531099", 
+        "nome": "WEVERTON ROCHA MARQUES DE SOUSA", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "WEVERTON ROCHA"
+    }, 
+    {
+        "pio_uid": "531879", 
+        "nome": "SEVERINO DE SOUZA SILVA", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "PE", 
+        "nome_parlamentar": "SEVERINO NINHO"
+    }, 
+    {
+        "pio_uid": "533238", 
+        "nome": "VANDERLEI SIRAQUE", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "VANDERLEI SIRAQUE"
+    }, 
+    {
+        "pio_uid": "532900", 
+        "nome": "MARCOS ROGERIO DA SILVA BRITO", 
+        "partido": "PDT", 
+        "sexo": "masculino", 
+        "uf": "RO", 
+        "nome_parlamentar": "MARCOS ROGERIO"
+    }, 
+    {
+        "pio_uid": "531124", 
+        "nome": "JOSE SIMPLICIO ALVES DE ARAUJO", 
+        "partido": "SDD", 
+        "sexo": "masculino", 
+        "uf": "MA", 
+        "nome_parlamentar": "SIMPLICIO ARAUJO"
+    }, 
+    {
+        "pio_uid": "531822", 
+        "nome": "LEONARDO DE MELO GADELHA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "PB", 
+        "nome_parlamentar": "LEONARDO GADELHA"
+    }, 
+    {
+        "pio_uid": "530829", 
+        "nome": "MARIO FEITOZA DE CARVALHO FREITAS", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "MARIO FEITOZA"
+    }, 
+    {
+        "pio_uid": "532967", 
+        "nome": "PAULO ADALBERTO ALVES FERREIRA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "RS", 
+        "nome_parlamentar": "PAULO FERREIRA"
+    }, 
+    {
+        "pio_uid": "530832", 
+        "nome": "JOSE GERARDO CORREA DE ARRUDA", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "CE", 
+        "nome_parlamentar": "GERA ARRUDA"
+    }, 
+    {
+        "pio_uid": "5829169", 
+        "nome": "ALEXANDRE DE MELO TOLEDO", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "ALEXANDRE TOLEDO"
+    }, 
+    {
+        "pio_uid": "5829177", 
+        "nome": "SERGIO PAULO DE OLIVEIRA", 
+        "partido": "PSC", 
+        "sexo": "masculino", 
+        "uf": "PR", 
+        "nome_parlamentar": "PROFESSOR SERGIO DE OLIVEIRA"
+    }, 
+    {
+        "pio_uid": "5829178", 
+        "nome": "ISAIAS SILVESTRE", 
+        "partido": "PSB", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "ISAIAS SILVESTRE"
+    }, 
+    {
+        "pio_uid": "5829179", 
+        "nome": "LUIZ FERNANDO SARMENTO NICOLAU", 
+        "partido": "PSD", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "DR. LUIZ FERNANDO"
+    }, 
+    {
+        "pio_uid": "5829182", 
+        "nome": "PAULO FERNANDO DOS SANTOS", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "AL", 
+        "nome_parlamentar": "PAULAO"
+    }, 
+    {
+        "pio_uid": "5829183", 
+        "nome": "LUIZ BARBOSA DE DEUS", 
+        "partido": "DEM", 
+        "sexo": "masculino", 
+        "uf": "BA", 
+        "nome_parlamentar": "LUIZ DE DEUS"
+    }, 
+    {
+        "pio_uid": "5829184", 
+        "nome": "MARIA MARGARIDA MARTINS SALOMAO", 
+        "partido": "PT", 
+        "sexo": "feminino", 
+        "uf": "MG", 
+        "nome_parlamentar": "MARGARIDA SALOMAO"
+    }, 
+    {
+        "pio_uid": "5829185", 
+        "nome": "NILMARIO DE MIRANDA", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "NILMARIO MIRANDA"
+    }, 
+    {
+        "pio_uid": "5829186", 
+        "nome": "RENATO BARBOSA DE ANDRADE", 
+        "partido": "PP", 
+        "sexo": "masculino", 
+        "uf": "MG", 
+        "nome_parlamentar": "RENATO ANDRADE"
+    }, 
+    {
+        "pio_uid": "5829187", 
+        "nome": "EURICO PINHEIRO BERNARDES JUNIOR", 
+        "partido": "PV", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "EURICO JUNIOR"
+    }, 
+    {
+        "pio_uid": "5829188", 
+        "nome": "MANUEL ROSA DA SILVA", 
+        "partido": "PR", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "MANUEL ROSA NECA"
+    }, 
+    {
+        "pio_uid": "5829193", 
+        "nome": "FABIO DE ALMEIDA REIS", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "SE", 
+        "nome_parlamentar": "FABIO REIS"
+    }, 
+    {
+        "pio_uid": "5829213", 
+        "nome": "FRANCISCO DAS CHAGAS FRANCILINO", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "FRANCISCO CHAGAS"
+    }, 
+    {
+        "pio_uid": "5829219", 
+        "nome": "CELSO ALENCAR RAMOS JACOB", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RJ", 
+        "nome_parlamentar": "CELSO JACOB"
+    }, 
+    {
+        "pio_uid": "5829220", 
+        "nome": "FRANCISCO PLINIO VALERIO TOMAZ", 
+        "partido": "PSDB", 
+        "sexo": "masculino", 
+        "uf": "AM", 
+        "nome_parlamentar": "PLINIO VALERIO"
+    }, 
+    {
+        "pio_uid": "5829225", 
+        "nome": "AKIRA OTSUBO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "MS", 
+        "nome_parlamentar": "AKIRA OTSUBO"
+    }, 
+    {
+        "pio_uid": "5829229", 
+        "nome": "AMIR FRANCISCO LANDO", 
+        "partido": "PMDB", 
+        "sexo": "masculino", 
+        "uf": "RO", 
+        "nome_parlamentar": "AMIR LANDO"
+    }, 
+    {
+        "pio_uid": "5829230", 
+        "nome": "RENATO SIMOES", 
+        "partido": "PT", 
+        "sexo": "masculino", 
+        "uf": "SP", 
+        "nome_parlamentar": "RENATO SIMOES"
+    }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicao>
+  <Sigla>PDC</Sigla>
+  <Numero>824</Numero>
+  <Ano>2013</Ano>
+  <Votacoes>
+    <Votacao Resumo="" Data="17/7/2013" Hora="12:07" ObjVotacao="REQUERIMENTO DE RETIRADA DE PAUTA">
+      <orientacaoBancada>
+        <bancada Sigla="PT" orientacao="Obstrução      " />
+        <bancada Sigla="PMDB" orientacao="Obstrução      " />
+        <bancada Sigla="PSDB" orientacao="Obstrução      " />
+        <bancada Sigla="PSD" orientacao="Obstrução      " />
+        <bancada Sigla="PrPtdobPrpPhsPslPrtb" orientacao="Obstrução      " />
+        <bancada Sigla="PP" orientacao="Obstrução      " />
+        <bancada Sigla="DEM" orientacao="Obstrução      " />
+        <bancada Sigla="PSB" orientacao="Obstrução      " />
+        <bancada Sigla="PDT" orientacao="Obstrução      " />
+        <bancada Sigla="PTB" orientacao="Obstrução      " />
+        <bancada Sigla="PSC" orientacao="Obstrução      " />
+        <bancada Sigla="PCdoB" orientacao="Obstrução      " />
+        <bancada Sigla="PPS" orientacao="Obstrução      " />
+        <bancada Sigla="PV" orientacao="Obstrução      " />
+        <bancada Sigla="PRB" orientacao="Obstrução      " />
+        <bancada Sigla="PSOL" orientacao="Obstrução      " />
+        <bancada Sigla="Repr.PMN" orientacao="Obstrução      " />
+        <bancada Sigla="PEN" orientacao="Obstrução      " />
+        <bancada Sigla="Minoria" orientacao="Obstrução      " />
+        <bancada Sigla="GOV." orientacao="Obstrução      " />
+      </orientacaoBancada>
+      <votos>
+        <Deputado Nome="Miriquinho Batista" Partido="PT" UF="PA" Voto="Abstenção" />
+        <Deputado Nome="Cleber Verde" Partido="PRB" UF="MA" Voto="Obstrução" />
+        <Deputado Nome="Betinho Rosado" Partido="DEM" UF="RN" Voto="Obstrução" />
+        <Deputado Nome="Gonzaga Patriota" Partido="PSB" UF="PE" Voto="Art. 17" />
+        <Deputado Nome="João Paulo Lima" Partido="PT" UF="PE" Voto="Obstrução" />
+        <Deputado Nome="Chico Alencar" Partido="PSOL" UF="RJ" Voto="Obstrução" />
+        <Deputado Nome="Glauber Braga" Partido="PSB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Edinho Araújo" Partido="PMDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Emanuel Fernandes" Partido="PSDB" UF="SP" Voto="Obstrução" />
+        <Deputado Nome="Ivan Valente" Partido="PSOL" UF="SP" Voto="Obstrução" />
+        <Deputado Nome="Carlos Zarattini" Partido="PT" UF="SP" Voto="Obstrução" />
+        <Deputado Nome="Izalci" Partido="PSDB" UF="DF" Voto="Obstrução" />
+        <Deputado Nome="Reguffe" Partido="PDT" UF="DF" Voto="Sim" />
+        <Deputado Nome="Rubens Bueno" Partido="PPS" UF="PR" Voto="Obstrução" />
+        <Deputado Nome="Sandro Alex" Partido="PPS" UF="PR" Voto="Obstrução" />
+        <Deputado Nome="Ronaldo Benedet" Partido="PMDB" UF="SC" Voto="Obstrução" />
+        <Deputado Nome="Osmar Terra" Partido="PMDB" UF="RS" Voto="Sim" />
+        <Deputado Nome="Augusto Carvalho" Partido="PPS" UF="DF" Voto="Não" />
+        <Deputado Nome="Leonardo Gadelha" Partido="PSC" UF="PB" Voto="Obstrução" />
+      </votos>
+    </Votacao>
+  </Votacoes>
+</proposicao>

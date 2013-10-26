@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicao>
+  <Sigla>REQ</Sigla>
+  <Numero>7595</Numero>
+  <Ano>2013</Ano>
+  <Votacoes>
+    <Votacao Resumo="Prejudicada a votação do requerimento por falta de &quot;quorum&quot; (obstrução)." Data="12/6/2013" Hora="13:10" ObjVotacao="REQ. DE PREFERÊNCIA PARA VOTAÇÃO DO ITEM V DA MAT. SOBRE A MESA">
+      <orientacaoBancada>
+        <bancada Sigla="PT" orientacao="Obstrução      " />
+        <bancada Sigla="PMDB" orientacao="Obstrução      " />
+        <bancada Sigla="PSDB" orientacao="Obstrução      " />
+        <bancada Sigla="PSD" orientacao="Obstrução      " />
+        <bancada Sigla="PrPtdobPrpPhsPtcPslPrtb" orientacao="Obstrução      " />
+        <bancada Sigla="PP" orientacao="Obstrução      " />
+        <bancada Sigla="DEM" orientacao="Obstrução      " />
+        <bancada Sigla="PSB" orientacao="Obstrução      " />
+        <bancada Sigla="PDT" orientacao="Obstrução      " />
+        <bancada Sigla="PTB" orientacao="Obstrução      " />
+        <bancada Sigla="PSC" orientacao="Obstrução      " />
+        <bancada Sigla="PCdoB" orientacao="Obstrução      " />
+        <bancada Sigla="PPS" orientacao="Obstrução      " />
+        <bancada Sigla="PV" orientacao="Obstrução      " />
+        <bancada Sigla="PRB" orientacao="Obstrução      " />
+        <bancada Sigla="PSOL" orientacao="Sim            " />
+        <bancada Sigla="Repr.PMN" orientacao="Obstrução      " />
+        <bancada Sigla="Repr.PEN" orientacao="Obstrução      " />
+        <bancada Sigla="Minoria" orientacao="Obstrução      " />
+        <bancada Sigla="GOV." orientacao="Obstrução      " />
+      </orientacaoBancada>
+      <votos>
+        <Deputado Nome="Nilson Pinto" Partido="PSDB" UF="PA" Voto="Obstrução" />
+        <Deputado Nome="Paulo Wagner" Partido="PV" UF="RN" Voto="Sim" />
+        <Deputado Nome="Inocêncio Oliveira" Partido="PR" UF="PE" Voto="Art. 17" />
+        <Deputado Nome="Waldenor Pereira" Partido="PT" UF="BA" Voto="Sim" />
+        <Deputado Nome="Jaime Martins" Partido="PR" UF="MG" Voto="Sim" />
+        <Deputado Nome="Manato" Partido="PDT" UF="ES" Voto="Obstrução" />
+        <Deputado Nome="Chico Alencar" Partido="PSOL" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Jean Wyllys" Partido="PSOL" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Emanuel Fernandes" Partido="PSDB" UF="SP" Voto="Obstrução" />
+        <Deputado Nome="Ivan Valente" Partido="PSOL" UF="SP" Voto="Sim" />
+        <Deputado Nome="Luiza Erundina" Partido="PSB" UF="SP" Voto="Sim" />
+        <Deputado Nome="Eliene Lima" Partido="PSD" UF="MT" Voto="Sim" />
+        <Deputado Nome="Valtenir Pereira" Partido="PSB" UF="MT" Voto="Sim" />
+        <Deputado Nome="Izalci" Partido="PSDB" UF="DF" Voto="Obstrução" />
+        <Deputado Nome="Reguffe" Partido="PDT" UF="DF" Voto="Sim" />
+        <Deputado Nome="Hermes Parcianello" Partido="PMDB" UF="PR" Voto="Obstrução" />
+        <Deputado Nome="Rubens Bueno" Partido="PPS" UF="PR" Voto="Sim" />
+        <Deputado Nome="Onofre Santo Agostini" Partido="PSD" UF="SC" Voto="Sim" />
+        <Deputado Nome="Enio Bacci" Partido="PDT" UF="RS" Voto="Obstrução" />
+        <Deputado Nome="Fernando Marroni" Partido="PT" UF="RS" Voto="Sim" />
+        <Deputado Nome="Dr. Carlos Alberto" Partido="PMN" UF="RJ" Voto="Não" />
+        <Deputado Nome="Nazareno Fonteles" Partido="PT" UF="PI" Voto="Sim" />
+        <Deputado Nome="Carmen Zanotto" Partido="PPS" UF="SC" Voto="Obstrução" />
+        <Deputado Nome="Severino Ninho" Partido="PSB" UF="PE" Voto="Sim" />
+        <Deputado Nome="Eurico Júnior" Partido="PV" UF="RJ" Voto="Sim" />
+        <Deputado Nome="José Genoíno" Partido="PT" UF="SP" Voto="Sim" />
+        <Deputado Nome="Iara Bernardi" Partido="PT" UF="SP" Voto="Sim" />
+        <Deputado Nome="Colbert Martins" Partido="PMDB" UF="BA" Voto="Obstrução" />
+        <Deputado Nome="Francisco Chagas" Partido="PT" UF="SP" Voto="Sim" />
+      </votos>
+    </Votacao>
+  </Votacoes>
+</proposicao>

@@ -1,0 +1,3646 @@
+[
+    {
+        "pio_itypes": [
+            "PL", 
+            "Definicao", 
+            "area de preservacao permanente", 
+            "floresta", 
+            "fixacao", 
+            "limite geografico", 
+            "transferencia", 
+            "competencia", 
+            "(Conama)", 
+            "plano diretor", 
+            "zona urbana", 
+            "reserva legal", 
+            "exploracao", 
+            "area florestal", 
+            "autorizacao", 
+            "(Ibama)", 
+            "alteracao", 
+            "utilidade publica", 
+            "interesse social", 
+            "estudo de impacto ambiental", 
+            "dispensa", 
+            "licenca", 
+            "atividade agricola", 
+            "subsistencia", 
+            "obrigatoriedade", 
+            "proprietario", 
+            "reflorestamento", 
+            "imovel rural", 
+            "reserva florestal", 
+            "extracao", 
+            "criterio seletivo", 
+            "madeira", 
+            "produto vegetal", 
+            "proporcionalidade", 
+            "Amazonia", 
+            "exigencia", 
+            "averbacao", 
+            "matricula", 
+            "bens imoveis", 
+            "proibicao", 
+            "exploracao", 
+            "especie", 
+            "extincao", 
+            "pessoa fisica", 
+            "pessoa juridica", 
+            "industria extrativa", 
+            "comercio", 
+            "produto florestal", 
+            "registro", 
+            "cadastro", 
+            "restricao", 
+            "queimada", 
+            "transporte", 
+            "recursos florestais.   \n_ Alteracao", 
+            "Lei dos Crimes Ambientais", 
+            "pena de detencao", 
+            "multa", 
+            "destruicao", 
+            "danos", 
+            "corte", 
+            "vegetacao", 
+            "area de  preservacao permanente", 
+            "reserva florestal", 
+            "reserva legal", 
+            "ausencia", 
+            "reposicao", 
+            "floresta.  \n_Revogacao", 
+            "Codigo Florestal."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "17338", 
+        "ano": "1999", 
+        "numero": "1876", 
+        "autor": [
+            "Codigo Florestal."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Normas", 
+            "acesso", 
+            "informacoes", 
+            "(Internet)", 
+            "manutencao", 
+            "registro", 
+            "conexao", 
+            "ligacao", 
+            "mensagem eletronica", 
+            "usuario", 
+            "data", 
+            "horario", 
+            "periodo", 
+            "ano", 
+            "concessionaria de servico de telecomunicacao", 
+            "telefonia", 
+            "liberacao", 
+            "linha de transmissao", 
+            "provedor", 
+            "comprovacao", 
+            "capacidade tecnica", 
+            "atualizacao", 
+            "cadastro", 
+            "cliente", 
+            "(CPF)", 
+            "(CNPJ)", 
+            "informacao", 
+            "ordem judicial."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "34462", 
+        "ano": "2001", 
+        "numero": "5403", 
+        "autor": [
+            "ordem judicial."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Expropriacao", 
+            "gleba", 
+            "confisco", 
+            "terras", 
+            "propriedade rural", 
+            "exploracao", 
+            "trabalho escravo", 
+            "destinacao", 
+            "reforma agraria", 
+            "assentamento rural", 
+            "trabalhador rural", 
+            "colono", 
+            "custeio", 
+            "atividade", 
+            "fiscalizacao", 
+            "repressao", 
+            "crime."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "36162", 
+        "ano": "2001", 
+        "numero": "438", 
+        "autor": [
+            "crime."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Carreira", 
+            "Procurador Municipal", 
+            "exigencia", 
+            "concurso publico", 
+            "participacao", 
+            "Ordem dos Advogados do Brasil (OAB)", 
+            "garantia", 
+            "estabilidade."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "131591", 
+        "ano": "2003", 
+        "numero": "153", 
+        "autor": [
+            "estabilidade."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Alteracao", 
+            "Lei do ISS", 
+            "inclusao", 
+            "lista de servicos", 
+            "divulgacao", 
+            "texto", 
+            "desenho", 
+            "material", 
+            "publicidade", 
+            "exclusao", 
+            "base de calculo", 
+            "valor", 
+            "desconto", 
+            "locacao", 
+            "espaco", 
+            "outdoor", 
+            "propaganda", 
+            "agencia", 
+            "empresa de publicidade."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "274311", 
+        "ano": "2004", 
+        "numero": "230", 
+        "autor": [
+            "empresa de publicidade."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Constituicao Federal", 
+            "criacao", 
+            "Sistema Nacional de Cultura", 
+            "organizacao", 
+            "participacao", 
+            "(MEC)", 
+            "Conselho Nacional de Cultura", 
+            "Secretaria", 
+            "Estados", 
+            "Municipios", 
+            "(DF)", 
+            "incentivo", 
+            "financiamento", 
+            "desenvolvimento", 
+            "atividade cultural", 
+            "museu", 
+            "biblioteca", 
+            "arquivo", 
+            "sistema de informacao", 
+            "fomento", 
+            "cultura", 
+            "articulacao", 
+            "trabalho", 
+            "politicas publicas", 
+            "educacao", 
+            "ciencia e tecnologia", 
+            "turismo", 
+            "esporte", 
+            "saude", 
+            "comunicacao social", 
+            "direitos humanos", 
+            "meio ambiente."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "290677", 
+        "ano": "2005", 
+        "numero": "416", 
+        "autor": [
+            "meio ambiente."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Efetivacao", 
+            "inexigibilidade", 
+            "dispensa", 
+            "concurso publico", 
+            "vacancia", 
+            "servico notarial", 
+            "responsavel", 
+            "substituto", 
+            "manutencao", 
+            "atuacao", 
+            "servico notarial", 
+            "cartorio", 
+            "delegacao de competencia", 
+            "Poder Publico."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "304008", 
+        "ano": "2005", 
+        "numero": "471", 
+        "autor": [
+            "Poder Publico."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Alteracao", 
+            "lei complementar", 
+            "criacao", 
+            "Banco da Terra", 
+            "concessao", 
+            "financiamento", 
+            "beneficiario", 
+            "partilha de bens", 
+            "herdeiro", 
+            "aquisicao", 
+            "imovel rural", 
+            "propriedade rural", 
+            "manutencao", 
+            "unidade", 
+            "propriedade", 
+            "familia."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "325847", 
+        "ano": "2006", 
+        "numero": "362", 
+        "autor": [
+            "familia."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Definicao", 
+            "violacao", 
+            "direito internacional", 
+            "crime", 
+            "guerra", 
+            "genocidio", 
+            "homicidio", 
+            "escravidao", 
+            "deportacao", 
+            "populacao", 
+            "tortura", 
+            "perseguicao", 
+            "perseguicao religiosa", 
+            "apartheid", 
+            "desaparecimento", 
+            "pessoas", 
+            "utilizacao", 
+            "insignia", 
+            "emblema", 
+            "incitamento", 
+            "normas", 
+            "cooperacao", 
+            "assistencia judiciaria", 
+            "Tribunal Penal Internacional."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "343615", 
+        "ano": "2007", 
+        "numero": "301", 
+        "autor": [
+            "Tribunal Penal Internacional."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Regulamentacao", 
+            "Constituicao Federal", 
+            "Reforma Previdenciaria", 
+            "criacao", 
+            "entidade fechada", 
+            "Fundacao de Previdencia Complementar do Servidor Publico Federal", 
+            "contrapartida", 
+            "patrocinador", 
+            "Uniao Federal", 
+            "Autarquia", 
+            "Fundacao", 
+            "beneficiario", 
+            "servidor publico federal", 
+            "cargo efetivo", 
+            "inclusao", 
+            "membros", 
+            "Judiciario", 
+            "Ministerio Publico", 
+            "(TCU)", 
+            "participacao", 
+            "aliquota", 
+            "contribuicao previdenciaria", 
+            "percentual", 
+            "remuneracao", 
+            "data", 
+            "ingresso", 
+            "opcao", 
+            "prazo determinado", 
+            "previdencia complementar", 
+            "fundo de pensao", 
+            "equiparacao", 
+            "limite maximo", 
+            "pagamento", 
+            "beneficio previdenciario", 
+            "aposentadoria", 
+            "pensao previdenciaria", 
+            "Regime Geral de Previdencia Social", 
+            "garantia", 
+            "servidor", 
+            "optante", 
+            "anterioridade", 
+            "implantacao", 
+            "calculo", 
+            "diferenca", 
+            "media artimetica", 
+            "fator de conversao", 
+            "atualizacao", 
+            "(IPCA)", 
+            "tributacao regressiva", 
+            "imposto de renda", 
+            "adesao", 
+            "Estados", 
+            "(DF)", 
+            "Municipios", 
+            "criterios", 
+            "organizacao administrativa", 
+            "membros", 
+            "conselho deliberativo", 
+            "diretoria executiva", 
+            "conselho fiscal", 
+            "autonomia administrativa", 
+            "autonomia financeira", 
+            "empresa publica", 
+            "concurso publico", 
+            "contratacao", 
+            "pessoal", 
+            "empresa  administradora", 
+            "recursos financeiros", 
+            "parecer", 
+            "Comissao de Valores Mobiliarios", 
+            "aplicacao", 
+            "fundos de investimento", 
+            "fiscalizacao", 
+            "controle", 
+            "orgao regulador", 
+            "previdencia privada."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "366851", 
+        "ano": "2007", 
+        "numero": "1992", 
+        "autor": [
+            "previdencia privada."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Constituicao Federal", 
+            "Administracao Publica", 
+            "Previdencia Social", 
+            "concessao", 
+            "aposentadoria por invalidez permanente", 
+            "acidente do trabalho", 
+            "doenca profissional", 
+            "doenca grave", 
+            "doenca transmissivel", 
+            "doenca incuravel", 
+            "garantia", 
+            "proventos integrais", 
+            "revisao", 
+            "paridade", 
+            "aumento", 
+            "proventos", 
+            "remuneracao", 
+            "servidor publico", 
+            "servico ativo."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "401376", 
+        "ano": "2008", 
+        "numero": "270", 
+        "autor": [
+            "servico ativo."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Eleicao", 
+            "Parlamentar", 
+            "(Mercosul)", 
+            "aplicacao", 
+            "normas", 
+            "escolha", 
+            "votacao", 
+            "candidato", 
+            "representacao proporcional", 
+            "Regiao", 
+            "sistema proporcional", 
+            "lista fechada", 
+            "partido partido", 
+            "coligacao partidaria", 
+            "simultaneidade", 
+            "periodo", 
+            "eleicoes", 
+            "circunscricao", 
+            "Pais", 
+            "participacao", 
+            "horario eleitoral gratuito", 
+            "propaganda eleitoral gratuita", 
+            "fixacao", 
+            "percentual", 
+            "limite minimo", 
+            "limite maximo", 
+            "cota", 
+            "candidatura", 
+            "sexo", 
+            "etnia", 
+            "incompatibilidade", 
+            "desempenho", 
+            "cargo eletivo", 
+            "Legislativo", 
+            "Executivo", 
+            ""
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "435878", 
+        "ano": "2009", 
+        "numero": "5279", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Constituicao Federal", 
+            "retirada", 
+            "competencia", 
+            "Uniao Federal", 
+            "organizacao", 
+            "manutencao", 
+            "Defensoria Publica do Distrito Federal", 
+            "aplicacao", 
+            "normas", 
+            "principios", 
+            "defensoria publica", 
+            "Estados", 
+            "prazo determinado", 
+            "Congresso Nacional", 
+            "Camara Legislativa", 
+            "instalacao", 
+            "comissao especial", 
+            "elaboracao", 
+            "Projeto de Lei", 
+            "adequacao", 
+            "legislacao infraconstitucional."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "463268", 
+        "ano": "2009", 
+        "numero": "445", 
+        "autor": [
+            "legislacao infraconstitucional."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Constituicao Federal (1988)", 
+            "isonomia", 
+            "empregado domestico", 
+            "direitos trabalhistas", 
+            "trabalhador urbano", 
+            "trabalhador rural", 
+            "(FGTS)", 
+            "seguro-desemprego", 
+            "hora extra", 
+            "beneficio previdenciario", 
+            "acidente do trabalho."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "473496", 
+        "ano": "2010", 
+        "numero": "478", 
+        "autor": [
+            "acidente do trabalho."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Autorizacao", 
+            "Uniao Federal", 
+            "estados", 
+            "(DF)", 
+            "municipios", 
+            "sede", 
+            "Copa do Mundo", 
+            "isencao", 
+            "(ISS)", 
+            "(Fifa)."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "479328", 
+        "ano": "2010", 
+        "numero": "579", 
+        "autor": [
+            "(Fifa)."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Codigo Penal", 
+            "aumento", 
+            "pena", 
+            "contrabando", 
+            "descaminho", 
+            "prazo em dobro", 
+            "utilizacao", 
+            "transporte maritimo", 
+            "transporte fluvial", 
+            "equiparacao", 
+            "crime", 
+            "atividade", 
+            "exposicao", 
+            "venda", 
+            "aquisicao", 
+            "manutencao", 
+            "ocultacao", 
+            "mercadoria estrangeira", 
+            "retorno", 
+            "mercadoria nacional", 
+            "exportacao."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "494004", 
+        "ano": "2011", 
+        "numero": "643", 
+        "autor": [
+            "exportacao."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Lei da Nova Organizacao da Presidencia da Republica e Ministerios", 
+            "criacao", 
+            "Secretaria da  Microempresa e Pequena Empresa", 
+            "cargo", 
+            "Ministro de Estado", 
+            "secretario-executivo", 
+            "cargo de natureza especial."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "496725", 
+        "ano": "2011", 
+        "numero": "865", 
+        "autor": [
+            "cargo de natureza especial."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "497188", 
+        "ano": "2011", 
+        "numero": "1134", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "508967", 
+        "ano": "2011", 
+        "numero": "2130", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Normas", 
+            "realizacao", 
+            "Copa das Confederacoes", 
+            "Copa do Mundo", 
+            "protecao", 
+            "exploracao", 
+            "propriedade industrial", 
+            "cadastro", 
+            "marca", 
+            "titularidade", 
+            "Fifa", 
+            "restricao", 
+            "area", 
+            "distribuicao", 
+            "comercializacao", 
+            "divulgacao", 
+            "exclusividade", 
+            "direitos", 
+            "imagem", 
+            "som", 
+            "radiodifusao", 
+            "transmissao", 
+            "retransmissao", 
+            "competicao", 
+            "credenciamento", 
+            "imprensa", 
+            "penalidade", 
+            "crime", 
+            "sancao civil", 
+            "indenizacao", 
+            "autorizacao", 
+            "visto de entrada", 
+            "trabalho", 
+            "membros", 
+            "delegacao", 
+            "trabalhador", 
+            "confederacao", 
+            "responsabilidade civil", 
+            "Uniao Federal", 
+            "contratacao", 
+            "seguro privado", 
+            "venda", 
+            "preco", 
+            "ingresso", 
+            "criacao", 
+            "juizado especial", 
+            "vara especializada", 
+            "julgamento", 
+            "causa judicial", 
+            "evento.\n_ Autorizacao", 
+            "Uniao Federal", 
+            "Estados", 
+            "Municipios", 
+            "decretacao", 
+            "feriado", 
+            "sede", 
+            "jogo."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "520245", 
+        "ano": "2011", 
+        "numero": "2330", 
+        "autor": [
+            "jogo."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Lei do Petroleo", 
+            "Lei do Pre-Sal", 
+            "distribuicao", 
+            "aplicacao", 
+            "recursos", 
+            "royalties", 
+            "producao", 
+            "petroleo", 
+            "gas natural", 
+            "hidrocarboneto", 
+            "proibicao", 
+            "ressarcimento", 
+            "contratado", 
+            "compensacao financeira", 
+            "produtor", 
+            "fundo especial", 
+            "Estados", 
+            "Distrito Federal", 
+            "Municipios", 
+            "rateio", 
+            "equivalencia", 
+            "FPM", 
+            "FPE", 
+            "Uniao Federal."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "524645", 
+        "ano": "2011", 
+        "numero": "2565", 
+        "autor": [
+            "Uniao Federal."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "legislacao tributaria federal", 
+            "reducao", 
+            "aliquota zero", 
+            "Pis-Pasep", 
+            "Cofins", 
+            "importacao", 
+            "venda", 
+            "mercado interno", 
+            "equipamento", 
+            "utilizacao", 
+            "pessoa portadora de deficiencia."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "527723", 
+        "ano": "2011", 
+        "numero": "549", 
+        "autor": [
+            "pessoa portadora de deficiencia."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "autorizacao", 
+            "instituicao financeira", 
+            "Caixa Economica Federal (CEF)", 
+            "banco multiplo", 
+            "utilizacao", 
+            "recursos", 
+            "deposito a vista", 
+            "aquisicao", 
+            "bens", 
+            "servico", 
+            "tecnologia assistiva", 
+            "beneficiario", 
+            "pessoa portadora de deficiencia."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "527728", 
+        "ano": "2011", 
+        "numero": "550", 
+        "autor": [
+            "pessoa portadora de deficiencia."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PDC", 
+            "Convocacao", 
+            "plebiscito", 
+            "eleicao municipal", 
+            "eleicao distrital", 
+            "eleicao estadual", 
+            "eleicao federal."
+        ], 
+        "tipo": "PDC", 
+        "pio_iid": "528091", 
+        "ano": "2011", 
+        "numero": "514", 
+        "autor": [
+            "eleicao federal."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "reducao", 
+            "percentual", 
+            "adicional", 
+            "tarifa aeroportuaria", 
+            "distribuicao", 
+            "recursos", 
+            "governo federal", 
+            "governo estadual", 
+            "receita", 
+            "Fundo Nacional de Aviacao Civil (FNAC)", 
+            "tarifa", 
+            "embarque internacional", 
+            "criacao", 
+            "Tarifa de Conexao", 
+            "criterios", 
+            "isencao.  \n_ Fixacao", 
+            "Tarifa de Uso das Comunicacoes e dos Auxilios a Navegacao Aerea em Rota", 
+            "Tarifa de Uso das Comunicacoes e dos Auxilios-Radio a Navegacao Aerea em Area de Controle de Aproximacao", 
+            "Tarifa de Uso das Comunicacoes e dos Auxilios-Radio a Navegacao Aerea em Area de Controle de Aerodromo", 
+            "responsabilidade", 
+            "Comando da Aeronautica", 
+            "autorizacao", 
+            "Empresa Brasileira de Infraestrutura Aeroportuaria (Infraero)", 
+            "criacao", 
+            "empresa", 
+            "subsidiaria."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "528165", 
+        "ano": "2011", 
+        "numero": "551", 
+        "autor": [
+            "subsidiaria."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Codigo Penal", 
+            "tipicidade", 
+            "crime", 
+            "informatica", 
+            "invasao", 
+            "dispositivo", 
+            "seguranca", 
+            "destruicao", 
+            "adulteracao", 
+            "dados", 
+            "informacoes", 
+            "interrupcao", 
+            "servico", 
+            "falsificacao de documento particular", 
+            "equiparacao", 
+            "cartao de credito", 
+            "cartao de debito."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "529011", 
+        "ano": "2011", 
+        "numero": "2793", 
+        "autor": [
+            "cartao de debito."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Alteracao", 
+            "Lei de Responsabilidade Fiscal", 
+            "inclusao", 
+            "Defensoria Publica", 
+            "Estados", 
+            "execucao orcamentaria", 
+            "meta fiscal", 
+            "proposta orcamentaria", 
+            "reparticao fiscal", 
+            "limite global", 
+            "despesa de pessoal", 
+            "relatorio resumido", 
+            "prestacao de contas", 
+            "parecer", 
+            "controle interno", 
+            "fiscalizacao", 
+            "rateio", 
+            "despesa corrente."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "529884", 
+        "ano": "2011", 
+        "numero": "114", 
+        "autor": [
+            "despesa corrente."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "Programa Nacional de Microcredito Produtivo Orientado (PNMPO)", 
+            "Uniao Federal", 
+            "concessao", 
+            "subvencao economica", 
+            "instituicao financeira", 
+            "equalizacao", 
+            "custos", 
+            "contratacao", 
+            "acompanhamento", 
+            "operacao financeira", 
+            "microcredito", 
+            "subvencao", 
+            "financiamento", 
+            "estoque", 
+            "alcool combustivel", 
+            "criterios", 
+            "Conselho Monetario Nacional (CMN)."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "533505", 
+        "ano": "2011", 
+        "numero": "554", 
+        "autor": [
+            "Conselho Monetario Nacional (CMN)."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "limite", 
+            "redefinicao", 
+            "Parque Nacional da Amazonia", 
+            "Parque Nacional dos Campos Amazonicos", 
+            "Parque Nacional Mapinguari", 
+            "Floresta Nacional de Itaituba", 
+            "Floresta Nacional do Crepori", 
+            "Area de Protecao Ambiental do Tapajos."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "533535", 
+        "ano": "2012", 
+        "numero": "558", 
+        "autor": [
+            "Area de Protecao Ambiental do Tapajos."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Autorizacao", 
+            "Eletrobras", 
+            "controle acionario", 
+            "socio majoritario", 
+            "Celg Distribuicao S.A. (Celg D). _ Alteracao", 
+            "lei federal", 
+            "autorizacao", 
+            "Eletrobras", 
+            "participacao", 
+            "consorcio de empresas", 
+            "sociedade", 
+            "exploracao", 
+            "producao", 
+            "transmissao", 
+            "distribuicao", 
+            "energia eletrica."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "535959", 
+        "ano": "2012", 
+        "numero": "559", 
+        "autor": [
+            "energia eletrica."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "536066", 
+        "ano": "2012", 
+        "numero": "4504", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_iid": "536551", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "537339", 
+        "ano": "2012", 
+        "numero": "4636", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Criacao", 
+            "Programa Nacional de Apoio a Atencao Oncologica", 
+            "Programa Nacional de Apoio a Atencao da Saude da Pessoa com Deficiencia", 
+            "incentivo fiscal", 
+            "entidade sem fins lucrativos", 
+            "informacao", 
+            "pesquisa", 
+            "diagnostico", 
+            "prevencao", 
+            "combate", 
+            "cancer", 
+            "tratamento medico", 
+            "reabilitacao", 
+            "adaptacao", 
+            "ortese", 
+            "protese", 
+            "locomocao", 
+            "pessoa portadora de deficiencia", 
+            "autorizacao", 
+            "pessoa fisica", 
+            "pessoa juridica", 
+            "deducao", 
+            "imposto de renda", 
+            "doacao", 
+            "patrocinio.  \n_Restabelecimento", 
+            "Programa um Computador por Aluno", 
+            "inclusao digital", 
+            "escola", 
+            "rede publica", 
+            "criacao", 
+            "Regime Especial de Incentivo a Computadores para Uso Educacional", 
+            "aquisicao", 
+            "equipamento de informatica", 
+            "software", 
+            "Regime Especial de Tributacao do Programa Nacional de Banda Larga para Implantacao de Redes de Telecomunicacoes", 
+            "ampliacao", 
+            "Internet", 
+            "banda larga.  \n_Alteracao", 
+            "legislacao tributaria federal", 
+            "Reporto", 
+            "suspensao", 
+            "IPI", 
+            "Imposto de Importacao", 
+            "Pis/Pasep", 
+            "servico", 
+            "armazenagem", 
+            "sistema", 
+            "apoio", 
+            "protecao", 
+            "meio ambiente", 
+            "seguranca", 
+            "monitoramento", 
+            "pessoa", 
+            "mercadoria", 
+            "produto", 
+            "veiculo", 
+            "embarcacao", 
+            "inclusao", 
+            "beneficio", 
+            "terminal maritimo", 
+            "embarcacao de offshore.  \n_Criacao", 
+            "Programa de Incentivo a Inovacao Tecnologica e Adensamento da Cadeia Produtiva de Veiculos Automotores", 
+            "reducao", 
+            "IPI", 
+            "desenvolvimento tecnologico", 
+            "inovacao", 
+            "seguranca", 
+            "protecao meio ambiente", 
+            "qualidade", 
+            "veiculo passageiro", 
+            "caminhao", 
+            "onibus", 
+            "trator", 
+            "auto pecas.  \n_Alteracao", 
+            "decreto-lei federal", 
+            "destinacao", 
+            "mercadoria abandonada", 
+            "licitacao", 
+            "leilao", 
+            "meio eletronico", 
+            "Lei do Ajuste Tributario", 
+            "metodo", 
+            "fixacao", 
+            "preco", 
+            "custos", 
+            "despesa", 
+            "encargo", 
+            "importacao", 
+            "exportacao", 
+            "commodities", 
+            "bens", 
+            "servico", 
+            "direitos", 
+            "apuracao", 
+            "base de calculo", 
+            "CSLL", 
+            "reducao", 
+            "aliquota", 
+            "Cofins-Importacao", 
+            "importacao", 
+            "produto", 
+            "relacao", 
+            "Tabela de Incidencia do Imposto sobre Produtos Industrializados (TIPI).  \n_ Reducao", 
+            "aliquota zero", 
+            "contribuicao previdenciaria", 
+            "folha de pagamento", 
+            "call denter", 
+            "empresa de prestacao de servico", 
+            "tecnologia da informacao", 
+            "tecnologia da informacao e comunicacao", 
+            "empresa de hotelaria.  \n_Prorrogacao", 
+            "prazo", 
+            "reducao", 
+            "aliquota zero", 
+            "papel", 
+            "impressao", 
+            "jornal", 
+            "periodico", 
+            "ampliacao", 
+            "beneficiario", 
+            "Programa de Apoio ao Desenvolvimento Tecnologico da Industria de Semicondutores - PADIS", 
+            "beneficio", 
+            "empresa preponderantemente exportadora", 
+            "Repes", 
+            "Recap."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "540142", 
+        "ano": "2012", 
+        "numero": "563", 
+        "autor": [
+            "Recap."
+        ]
+    }, 
+    {
+        "pio_iid": "540560", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "541002", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "541149", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "541303", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Abertura", 
+            "credito extraordinario", 
+            "Ministerio do Desenvolvimento Agrario", 
+            "Ministerio da Integracao Nacional", 
+            "agricultura familiar", 
+            "defesa civil."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "542431", 
+        "ano": "2012", 
+        "numero": "566", 
+        "autor": [
+            "defesa civil."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Lei da Desindexacao da Economia", 
+            "calculo", 
+            "remuneracao", 
+            "saldo", 
+            "rendimento", 
+            "deposito", 
+            "caderneta de poupanca", 
+            "percentual", 
+            "taxa", 
+            "juros", 
+            "Sistema Especial de Liquidacao e de Custodia (SELIC)."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "543448", 
+        "ano": "2012", 
+        "numero": "567", 
+        "autor": [
+            "Sistema Especial de Liquidacao e de Custodia (SELIC)."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Lei das Eleicoes", 
+            "registro", 
+            "candidato", 
+            "certidao de quitacao eleitoral", 
+            "prestacao de contas", 
+            "campanha eleitoral", 
+            "desaprovacao", 
+            "penalidade", 
+            "multa."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "544136", 
+        "ano": "2012", 
+        "numero": "3839", 
+        "autor": [
+            "multa."
+        ]
+    }, 
+    {
+        "pio_iid": "544355", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "544411", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Lei do Programa Bolsa Familia", 
+            "beneficio", 
+            "superacao", 
+            "pobreza", 
+            "primeira infancia", 
+            "apoio financeiro", 
+            "municipios", 
+            "Distrito Federal", 
+            "ampliacao", 
+            "educacao infantil."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "544463", 
+        "ano": "2012", 
+        "numero": "570", 
+        "autor": [
+            "educacao infantil."
+        ]
+    }, 
+    {
+        "pio_iid": "545925", 
+        "pio_itypes": [
+            "MPV"
+        ], 
+        "ano": "2012", 
+        "numero": "571", 
+        "tipo": "MPV"
+    }, 
+    {
+        "pio_iid": "548345", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Legislacao Tributaria Federal", 
+            "parcelamento", 
+            "debito", 
+            "PIS/Pasep", 
+            "prorrogacao", 
+            "aliquota zero", 
+            "Cofins", 
+            "massa alimenticia."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "549909", 
+        "ano": "2012", 
+        "numero": "574", 
+        "autor": [
+            "massa alimenticia."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "contrato", 
+            "parceria publico-privada", 
+            "contraprestacao", 
+            "recursos financeiros", 
+            "exclusao", 
+            "apuracao", 
+            "lucro liquido", 
+            "base de calculo", 
+            "CSSL", 
+            "PIS/Pasep", 
+            "Cofins", 
+            "proporcionalidade", 
+            "conclusao", 
+            "contratacao", 
+            "Fundo Garantidor de Parcerias Publico-Privadas (FGP)", 
+            "aumento", 
+            "percentual", 
+            "comprometimento", 
+            "receita liquida", 
+            "contrato de parceria", 
+            "estados", 
+            "Distrito Federal", 
+            "municipios."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "552689", 
+        "ano": "2012", 
+        "numero": "575", 
+        "autor": [
+            "municipios."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "Empresa de Transporte Ferroviario de Alta Velocidade (ETAV)", 
+            "transformacao", 
+            "Empresa de Planejamento e Logistica S.A. (EPL)", 
+            "empresa privada", 
+            "planejamento", 
+            "desenvolvimento", 
+            "transporte ferroviario", 
+            "integracao", 
+            "meios de transporte", 
+            "estudo", 
+            "pesquisa", 
+            "iimplantacao", 
+            "infraestrutura", 
+            "operacao", 
+            "exploracao", 
+            "servico", 
+            "gestao", 
+            "patrimonio", 
+            "supervisao", 
+            "Ministerio dos Transportes", 
+            "fiscalizacao", 
+            "Controladoria-Geral da Uniao", 
+            "Tribunal de Contas da Uniao._ Alteracao", 
+            "Lei de Reestruturacao dos Transportes Aquaviario e Terrestre", 
+            "autorizacao", 
+            "prestacao de servico", 
+            "transporte ferroviario", 
+            "carga", 
+            "operador independente", 
+            "Agencia Nacional de Transportes Terrestres (ANTT)", 
+            "regulamentacao", 
+            "cessao", 
+            "trafego", 
+            "trecho ferroviario", 
+            "concessionaria."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "553247", 
+        "ano": "2012", 
+        "numero": "576", 
+        "autor": [
+            "concessionaria."
+        ]
+    }, 
+    {
+        "pio_iid": "553256", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2012", 
+        "numero": "12", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "554412", 
+        "ano": "2012", 
+        "numero": "6062", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Lei do Setor Eletrico", 
+            "Lei da ANEEL", 
+            "prorrogacao", 
+            "concessao", 
+            "geracao", 
+            "transmissao", 
+            "distribuicao", 
+            "energia eletrica", 
+            "eficiencia", 
+            "prestacao de servico", 
+            "tarifas", 
+            "licitacao", 
+            "aquisicao", 
+            "creditos", 
+            "Eletrobras", 
+            "Itaipu Binacional."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "555727", 
+        "ano": "2012", 
+        "numero": "579", 
+        "autor": [
+            "Itaipu Binacional."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "555993", 
+        "ano": "2012", 
+        "numero": "6135", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "561593", 
+        "ano": "2012", 
+        "numero": "6460", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "561594", 
+        "ano": "2012", 
+        "numero": "6461", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Disposicoes Constitucionais Transitorias", 
+            "prorrogacao", 
+            "mandato eletivo", 
+            "Deputado Estadual", 
+            "Deputado Distrital", 
+            "Deputado Federal", 
+            "Governador", 
+            "Prefeito", 
+            "Vice-Prefeito", 
+            "Vereador", 
+            "legislatura", 
+            "coincidencia", 
+            "mandato", 
+            "Presidente da Republica", 
+            "calendario", 
+            "eleicoes", 
+            "reducao", 
+            "mandato parlamentar", 
+            "Senador.  \n_ Extincao", 
+            "reeleicao", 
+            "Presidente da Republica", 
+            "Governador", 
+            "Prefeito."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "14245", 
+        "ano": "1999", 
+        "numero": "3", 
+        "autor": [
+            "Prefeito."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Extincao", 
+            "voto secreto", 
+            "utilizacao", 
+            "voto aberto", 
+            "apreciacao", 
+            "votacao", 
+            "decisao", 
+            "Legislativo", 
+            "materia", 
+            "competencia privativa", 
+            "Senado", 
+            "escolha", 
+            "juiz", 
+            "magistrado", 
+            "Ministro", 
+            "Tribunal de Contas da Uniao (TCU)", 
+            "Governador", 
+            "Territorios Federais", 
+            "presidente", 
+            "diretor", 
+            "Banco Central do Brasil (BACEN)", 
+            "Chefe", 
+            "Missao Diplomatica Permanente", 
+            "aprovacao", 
+            "ex-oficio", 
+            "exoneracao", 
+            "Procurador-Geral da Republica", 
+            "anterioridade", 
+            "conclusao", 
+            "mandato", 
+            "competencia", 
+            "Camara dos Deputados", 
+            "autorizacao", 
+            "processo", 
+            "prisao", 
+            "perda", 
+            "mandato", 
+            "cassacao", 
+            "Deputado Federal", 
+            "Senador", 
+            "quebra", 
+            "decoro parlamentar", 
+            "Congresso Nacional", 
+            "apreciacao", 
+            "veto", 
+            "sessao conjunta."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "28376", 
+        "ano": "2001", 
+        "numero": "349", 
+        "autor": [
+            "sessao conjunta."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Constituicao Federal (1988)", 
+            "Disposicoes Constitucionais Transitorias", 
+            "criacao", 
+            "Tribunal Regional Federal (TRF)", 
+            "Sexta Regiao", 
+            "Setima Regiao", 
+            "Oitava Regiao", 
+            "Nona Regiao", 
+            "sede", 
+            "Curitiba (PR)", 
+            "Belo Horizonte (MG)", 
+            "Salvador (BA)", 
+            "Manaus (AM)."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "54307", 
+        "ano": "2002", 
+        "numero": "544", 
+        "autor": [
+            "Manaus (AM)."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Criacao", 
+            "Estatuto da Juventude", 
+            "garantia", 
+            "jovem", 
+            "direitos", 
+            "vida", 
+            "cidadania", 
+            "liberdade", 
+            "participacao", 
+            "elaboracao", 
+            "politicas publicas", 
+            "dignidade", 
+            "respeito", 
+            "igualdade", 
+            "raca", 
+            "sexo", 
+            "saude", 
+            "educacao", 
+            "garantias individuais", 
+            "cota", 
+            "reserva", 
+            "vaga", 
+            "afrodescendente", 
+            "negro", 
+            "grupo indigena", 
+            "aluno", 
+            "egresso", 
+            "escola publica", 
+            "gratuidade", 
+            "ensino fundamental", 
+            "ensino medio", 
+            "curso superior", 
+            "representacao estudantil", 
+            "associacoes", 
+            "autorizacao", 
+            "indio", 
+            "utilizacao", 
+            "linguagem", 
+            "comunidade indigena", 
+            "educacao profissional", 
+            "educacao especial", 
+            "pessoa portadora de deficiencia", 
+            "transporte escolar", 
+            "passe escolar", 
+            "transporte intermunicipal", 
+            "transporte interestadual", 
+            "inclusao digital", 
+            "informatica.  \n_ Criacao", 
+            "Secretaria Especial de Politicas de Juventude", 
+            "Conselho Nacional", 
+            "Conselho Estadual", 
+            "Conselho Municipal", 
+            "Fundos", 
+            "direitos", 
+            "representacao", 
+            "manifestacao", 
+            "cultura", 
+            "meia-entrada", 
+            "ingresso", 
+            "espetaculo publico", 
+            "atividade cultural", 
+            "atividade esportiva", 
+            "deducao", 
+            "imposto de renda", 
+            "doacao", 
+            "apoio", 
+            "projeto", 
+            "natureza artistica", 
+            "jovem", 
+            "esporte", 
+            "lazer", 
+            "direito a profissionalizacao", 
+            "trabalho", 
+            "emprego", 
+            "renda", 
+            "garantia", 
+            "bolsa de trabalho", 
+            "linha de credito", 
+            "empreendedor", 
+            "microempresa", 
+            "pequena empresa", 
+            "cooperativa", 
+            "reserva", 
+            "cargo", 
+            "pessoa portadora de deficiencia", 
+            "conscientizacao", 
+            "preservacao", 
+            "meio ambiente", 
+            "equilibrio ecologico.  \n_ Normas", 
+            "protecao", 
+            "jovem", 
+            "politica", 
+            "atendimento", 
+            "criacao", 
+            "Instituto Brasileiro de Juventude", 
+            "local", 
+            "abrigo", 
+            "juventude", 
+            "tratamento medico", 
+            "viciado em drogas", 
+            "apuracao", 
+            "infracao", 
+            "acesso", 
+            "Justica", 
+            "acao civel", 
+            "interesses difusos", 
+            "processo judicial.  \n_ Alteracao", 
+            "Lei do Estagio", 
+            "exclusao", 
+            "aluno", 
+            "ensino medio", 
+            "estagiario", 
+            "revogacao", 
+            "legislacao trabalhista", 
+            "(CLT)", 
+            "aumento", 
+            "duracao do trabalho", 
+            "aprendiz."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "271219", 
+        "ano": "2004", 
+        "numero": "4529", 
+        "autor": [
+            "aprendiz."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Regulamentacao", 
+            "Constituicao Federal", 
+            "criterios", 
+            "concessao", 
+            "aposentadoria especial", 
+            "segurado", 
+            "Regime Geral da Previdencia Social", 
+            "pessoa portadora de deficiencia", 
+            "reducao", 
+            "idade", 
+            "tempo", 
+            "contribuicao previdenciaria", 
+            "solicitacao", 
+            "orgao publico", 
+            "(INSS)", 
+            "realizacao", 
+            "pericia medica", 
+            "emissao", 
+            "certidao", 
+            "atestado medico."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "293027", 
+        "ano": "2005", 
+        "numero": "277", 
+        "autor": [
+            "atestado medico."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Legislativo", 
+            "prazo", 
+            "Presidente da Republica", 
+            "remessa", 
+            "Congresso Nacional", 
+            "Projeto de Lei Orcamentaria", 
+            "Lei de Diretrizes Orcamentarias", 
+            "Plano Plurianual", 
+            "proibicao", 
+            "encerramento", 
+            "sessao legislativa", 
+            "ausencia", 
+            "deliberacao", 
+            "votacao", 
+            "Lei Orcamentaria  Anual", 
+            "competencia", 
+            "aprovacao", 
+            "Camara dos Deputados", 
+            "Senado", 
+            "extincao", 
+            "Comissao Mista de Planos", 
+            "Orcamentos Publicos e Fiscalizacao.  \n_Financas Publicas", 
+            "detalhamento", 
+            "recursos orcamentarios", 
+            "orcamento fiscal", 
+            "orcamento da seguridade social", 
+            "Estados", 
+            "Distrito Federal", 
+            "reducao", 
+            "desigualdade regional", 
+            "restricao", 
+            "criterios", 
+            "inclusao", 
+            "categoria", 
+            "programacao", 
+            "natureza orcamentaria", 
+            "projeto", 
+            "programa", 
+            "andamento", 
+            "condicionamento", 
+            "receita", 
+            "obrigatoriedade", 
+            "Presidente da Republica", 
+            "cumprimento", 
+            "execucao orcamentaria", 
+            "dotacao orcamentaria", 
+            "ressalva", 
+            "regime de urgencia", 
+            "aprovacao", 
+            "Congresso Nacional", 
+            "solicitacao", 
+            "contingenciamento", 
+            "cancelamento", 
+            "descumprimento", 
+            "crime de responsabilidade."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "332451", 
+        "ano": "2006", 
+        "numero": "565", 
+        "autor": [
+            "crime de responsabilidade."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Regulamentacao", 
+            "Constituicao Federal", 
+            "Saude", 
+            "Regime Juridico", 
+            "Agente Comunitario de Saude", 
+            "Agente de Combate as Endemias", 
+            "(SUS)", 
+            "responsabilidade", 
+            "Estados", 
+            "requisitos", 
+            "residencia", 
+            "comunidade", 
+            "formacao profissional", 
+            "ensino fundamental", 
+            "dispensa", 
+            "processo seletivo", 
+            "participacao", 
+            "Conselho de Saude", 
+            "Fundo Estadual de Saude.  \n_ Criacao", 
+            "emprego publico", 
+            "quadro de pessoal", 
+            "(FUNASA)", 
+            "Quadro Suplementar", 
+            "Agente de Combate as Endemias", 
+            "vigilancia epidemiologica", 
+            "jornada de trabalho", 
+            "contratacao", 
+            "prazo", 
+            "enquadramento", 
+            "pessoal", 
+            "proibicao", 
+            "contrato temporario", 
+            "terceirizacao", 
+            "ressalva", 
+            "combate", 
+            "endemia."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "334331", 
+        "ano": "2006", 
+        "numero": "7495", 
+        "autor": [
+            "endemia."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Lei do Petroleo", 
+            "criterios", 
+            "aplicacao de recursos", 
+            "compensacao financeira", 
+            "royalties", 
+            "Estados", 
+            "Municipios", 
+            "vinculacao", 
+            "percentual", 
+            "exclusividade", 
+            "educacao", 
+            "meio ambiente", 
+            "energia", 
+            "pavimentacao", 
+            "abastecimento de agua", 
+            "tratamento de agua", 
+            "irrigacao", 
+            "saneamento basico."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "343930", 
+        "ano": "2007", 
+        "numero": "323", 
+        "autor": [
+            "saneamento basico."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Lei da Politica Agricola", 
+            "concessao", 
+            "incentivo fiscal", 
+            "produtor rural", 
+            "utilizacao", 
+            "sistema", 
+            "integracao", 
+            "lavoura", 
+            "pecuaria", 
+            "recuperacao", 
+            "degradacao ambiental."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "347880", 
+        "ano": "2007", 
+        "numero": "708", 
+        "autor": [
+            "degradacao ambiental."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Exigencia", 
+            "lei complementar", 
+            "iniciativa", 
+            "Supremo Tribunal Federal (STF)", 
+            "definicao", 
+            "normas", 
+            "Estatuto", 
+            "Servidor", 
+            "Judiciario", 
+            "lei estadual", 
+            "aplicacao", 
+            "Justica Estadual."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "377011", 
+        "ano": "2007", 
+        "numero": "190", 
+        "autor": [
+            "Justica Estadual."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Regulamentacao", 
+            "Constituicao Federal", 
+            "fixacao", 
+            "prazo", 
+            "requisitos", 
+            "criacao", 
+            "incorporacao", 
+            "fusao", 
+            "desmembramento", 
+            "municipios", 
+            "lei estadual", 
+            "requerimento", 
+            "assinatura", 
+            "eleitor", 
+            "Estudo de Viabilidade Municipal", 
+            "Assembleia Legislativa", 
+            "solicitacao", 
+            "(TRE)", 
+            "realizacao", 
+            "plebiscito", 
+            "convalidacao", 
+            "ato administrativo."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "412854", 
+        "ano": "2008", 
+        "numero": "416", 
+        "autor": [
+            "ato administrativo."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PDC", 
+            "Ato internacional", 
+            "Tratado de Extradicao", 
+            "Brasil", 
+            "China."
+        ], 
+        "tipo": "PDC", 
+        "pio_iid": "422002", 
+        "ano": "2008", 
+        "numero": "1351", 
+        "autor": [
+            "China."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Nova Lei Antidrogas", 
+            "criterios", 
+            "classificacao", 
+            "drogas", 
+            "diretrizes", 
+            "composicao", 
+            "(Sisnad)", 
+            "criacao", 
+            "funcionamento", 
+            "Rede Nacional de Politicas sobre Drogas", 
+            "Conselho de Politicas sobre Drogas", 
+            "Sistema Nacional de Informacao sobre Drogas", 
+            "Sistema Nacional de Acompanhamento e Avaliacao das Politicas sobre Drogas", 
+            "atendimento", 
+            "avaliacao", 
+            "usuario", 
+            "viciado em drogas", 
+            "acompanhamento", 
+            "(SUS)", 
+            "reinsercao social", 
+            "internacao", 
+            "circunstancia qualificadora", 
+            "crime", 
+            "trafico", 
+            "utilizacao", 
+            "entorpecente.  \n_Alteracao", 
+            "Lei do FUNCAB", 
+            "requisitos", 
+            "acesso", 
+            "recursos", 
+            "Fundo Nacional de Politicas sobre Drogas", 
+            "inscricao", 
+            "projeto."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "483808", 
+        "ano": "2010", 
+        "numero": "7663", 
+        "autor": [
+            "projeto."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Constituicao Federal (1988)", 
+            "Seguranca Publica", 
+            "exclusividade", 
+            "atribuicao", 
+            "investigacao criminal", 
+            "Policia Federal", 
+            "Policia Civil", 
+            "Estados", 
+            "Distrito Federal."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "507965", 
+        "ano": "2011", 
+        "numero": "37", 
+        "autor": [
+            "Distrito Federal."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PDC", 
+            "Aprovacao", 
+            "decisao", 
+            "Mercosul", 
+            "criacao", 
+            "cargo", 
+            "representante."
+        ], 
+        "tipo": "PDC", 
+        "pio_iid": "522363", 
+        "ano": "2011", 
+        "numero": "471", 
+        "autor": [
+            "representante."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Emenda Constitucional", 
+            "Servidor Publico Federal", 
+            "Servidor Publico Municipal", 
+            "policial militar", 
+            "ex-territorio", 
+            "Amapa", 
+            "Roraima", 
+            "Rondonia", 
+            "regularizacao", 
+            "situacao funcional."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "527704", 
+        "ano": "2011", 
+        "numero": "111", 
+        "autor": [
+            "situacao funcional."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Concessao", 
+            "anistia", 
+            "Santa Casa de Misericordia", 
+            "hospital filantropico", 
+            "entidade sem fins lucrativos", 
+            "debito previdenciario", 
+            "debito fiscal", 
+            "Fundo Nacional de Saude (FNS)"
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "537784", 
+        "ano": "2012", 
+        "numero": "3471", 
+        "autor": [
+            "Fundo Nacional de Saude (FNS)"
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PDC", 
+            "Aprovacao", 
+            "decisao", 
+            "Mercosul", 
+            "Contribuicoes para o Orcamento do Instituto Social do Mercosul."
+        ], 
+        "tipo": "PDC", 
+        "pio_iid": "538366", 
+        "ano": "2012", 
+        "numero": "549", 
+        "autor": [
+            "Contribuicoes para o Orcamento do Instituto Social do Mercosul."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Alteracao", 
+            "Lei de Atualizacao Monetaria do FGTS", 
+            "prazo", 
+            "extincao", 
+            "cobranca", 
+            "contribuicao social", 
+            "empregador."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "553112", 
+        "ano": "2012", 
+        "numero": "200", 
+        "autor": [
+            "empregador."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PEC", 
+            "Alteracao", 
+            "Constituicao Federal (1988)", 
+            "garantia", 
+            "Defensoria Publica do Distrito Federal e Territorios", 
+            "Defensoria Publica da Uniao", 
+            "autonomia funcional", 
+            "autonomia administrativa", 
+            "iniciativa", 
+            "proposta orcamentaria."
+        ], 
+        "tipo": "PEC", 
+        "pio_iid": "553168", 
+        "ano": "2012", 
+        "numero": "207", 
+        "autor": [
+            "proposta orcamentaria."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "553474", 
+        "ano": "2012", 
+        "numero": "5941", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLN", 
+            ""
+        ], 
+        "tipo": "PLN", 
+        "pio_iid": "555286", 
+        "ano": "2012", 
+        "numero": "24", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Lei Organica dos Partidos Politicos", 
+            "Lei das Eleicoes", 
+            "distribuicao", 
+            "recursos", 
+            "Fundo Partidario", 
+            "horario eleitoral gratuito", 
+            ""
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "556261", 
+        "ano": "2012", 
+        "numero": "4470", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "contribuicao previdencia", 
+            "empresa", 
+            "servico", 
+            "depreciacao acelerada", 
+            "bens de capital", 
+            "imposto de renda", 
+            "criacao", 
+            "regime especial", 
+            "incentivo", 
+            "desenvolvimento", 
+            "infraestrutura", 
+            "industria", 
+            "fertilizante", 
+            "reducao", 
+            "PIS/Pasep", 
+            "COFINS", 
+            "comercializacao", 
+            "laranja", 
+            "profissional autonomo", 
+            "transporte de carga", 
+            "aliquota", 
+            "tributos", 
+            "venda", 
+            "equipamento", 
+            "destinacao", 
+            "Forcas Armadas", 
+            "criterios", 
+            "empresa", 
+            "utilizacao", 
+            "credito presumido."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "556332", 
+        "ano": "2012", 
+        "numero": "582", 
+        "autor": [
+            "credito presumido."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "556590", 
+        "ano": "2012", 
+        "numero": "6166", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Uniao", 
+            "apoio tecnico", 
+            "apoio financeiro", 
+            "realizacao", 
+            "Fundo Nacional de Desenvolvimento da Educacao (FNDE)", 
+            "Pacto Nacional pela Alfabetizacao na Idade Certa", 
+            "estudante", 
+            "ensino fundamental", 
+            "ensino publico. _Alteracao", 
+            "lei federal", 
+            "competencia", 
+            "Instituto Nacional de Desenvolvimento da Educacao e Pesquisa (INDEP)", 
+            "Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (Capes)", 
+            "programa", 
+            "Cooperacao internacional", 
+            "bolsa de estudo", 
+            "pesquisador", 
+            "professor", 
+            "estrangeiro", 
+            "projeto", 
+            "formacao profissional", 
+            "magisterio", 
+            "educacao basica."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "559275", 
+        "ano": "2012", 
+        "numero": "586", 
+        "autor": [
+            "educacao basica."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Fundo Garantia-Safra", 
+            "pagamento", 
+            "beneficio", 
+            "agricultor familiar", 
+            "ampliacao", 
+            "auxilio emergencial financeiro", 
+            "familia", 
+            "desastre."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "559465", 
+        "ano": "2012", 
+        "numero": "587", 
+        "autor": [
+            "desastre."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Parcelamento", 
+            "debito previdenciario", 
+            "Fazenda Nacional", 
+            "contribuicao previdenciaria", 
+            "responsabilidade", 
+            "estados", 
+            "Distrito Federal (Brasil)", 
+            "municipios", 
+            "alteracao", 
+            "Lei Organica da Seguridade Social", 
+            "orgao publico", 
+            "administracao direta", 
+            "autarquia", 
+            "fundacao", 
+            "empresa publica", 
+            "obrigatoriedade", 
+            "apresentacao", 
+            "contabilidade", 
+            "folha de pagamento", 
+            "prazo."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "559706", 
+        "ano": "2012", 
+        "numero": "589", 
+        "autor": [
+            "prazo."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Lei federal", 
+            "Programa Nacional de Acesso ao Ensino Tecnico e Emprego (Pronatec)", 
+            "colaboracao", 
+            "Uniao", 
+            "Estados", 
+            "Distrito Federal", 
+            "Municipios", 
+            "participacao", 
+            "servicos nacionais de aprendizagem", 
+            "instituicao privada de ensino superior", 
+            "educacao profissional e tecnologica", 
+            "criterios", 
+            "adesao", 
+            "ampliacao", 
+            "beneficiario", 
+            "concessao", 
+            "Bolsa Formacao Estudante", 
+            "educacao de jovens e adultos."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "562466", 
+        "ano": "2012", 
+        "numero": "593", 
+        "autor": [
+            "educacao de jovens e adultos."
+        ]
+    }, 
+    {
+        "pio_iid": "562615", 
+        "pio_itypes": [
+            "MPV"
+        ], 
+        "ano": "2012", 
+        "numero": "595", 
+        "tipo": "MPV"
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Tabela", 
+            "remuneracao", 
+            "carreira", 
+            "Auditoria da Receita Federal do Brasil", 
+            "Auditoria-Fiscal do Trabalho", 
+            "Especialista do Banco Central do Brasil", 
+            "Superintendencia de Seguros Privados (Suep)", 
+            "Comissao de Valores Mobiliarios (CVVM)", 
+            "Analista de Infraestrutura", 
+            "Cargo isolado de Infraestrutura Senior", 
+            "Medico", 
+            "Reforma e Desenvolvimento Agrario", 
+            "Policia Militar", 
+            "Corpo de Bombeiros de Militar", 
+            "Policial Civil", 
+            "ex-territorio", 
+            "antigo Distrito Federal", 
+            ""
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "564113", 
+        "ano": "2012", 
+        "numero": "4904", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Lei de Participacao nos lucros das Empresas", 
+            "participacao nos lucros", 
+            "tributacao", 
+            "imposto de renda", 
+            "retencao na fonte", 
+            "base de calculo."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "564453", 
+        "ano": "2012", 
+        "numero": "597", 
+        "autor": [
+            "base de calculo."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "Uniao", 
+            "concessao", 
+            "subvencao economica", 
+            "BNDES", 
+            "equalizacao de taxas de juros", 
+            "financiamento", 
+            "emprestimo", 
+            "subsidio", 
+            "investimento", 
+            "capital de giro", 
+            "empresa", 
+            "microempreendedor", 
+            "pessoa fisica", 
+            "pessoa juridica", 
+            "produtor rural", 
+            "estado de emergencia", 
+            "calamidade publica", 
+            "enchente", 
+            "inundacao", 
+            "municipios.  _ Alteracao", 
+            "medida provisoria", 
+            "recursos financeiros", 
+            "Caixa Economica Federal (CEF)", 
+            "financiamento", 
+            "material de construcao", 
+            "bens de consumo", 
+            "pessoa fisica", 
+            "exclusividade", 
+            "Programa Minha Casa", 
+            "Minha Vida", 
+            "projetos", 
+            "infraestrutura. Uniao", 
+            "autorizacao", 
+            "concessao", 
+            "creditos", 
+            "Caixa Economica Federal (CEF).  _Alteracao", 
+            "lei federal", 
+            "recursos financeiros", 
+            "Fundo Nacional de Aviacao Civil (Fnac)", 
+            "reforma", 
+            "modernizacao", 
+            "aerodromo publico", 
+            "Banco do Brasil", 
+            "licitacao", 
+            "utilizacao", 
+            "Regime Diferenciado de Contratacoes Publicas (RCD).  _ Alteracao", 
+            "lei federal", 
+            "tarifa aeroportuaria", 
+            "infraestrutura aeroportuaria", 
+            "melhoramento", 
+            "reforma", 
+            "reestruturacao", 
+            "aeroporto", 
+            "aerodromo", 
+            "Programa Federal de Auxilio a Aeroportos (PROFAA).  _Autorizacao", 
+            "cessao onerosa", 
+            "BNDES", 
+            "direitos", 
+            "creditos", 
+            "Tesouro Nacional", 
+            "Itaipu Binacional.  _Alteracao", 
+            "Lei Geral da Copa", 
+            "dispensa de licitacao", 
+            "contratacao", 
+            "Telecomunicacoes Brasileiras (Telebras)", 
+            "servicos", 
+            "telecomunicacoes.  _ Alteracao", 
+            "medida provisoria", 
+            "autorizacao", 
+            "empresa publica federal", 
+            "aplicacao", 
+            "recursos financeiros", 
+            "Conta unica do Tesouro Nacional.  _ Alteracao", 
+            "lei federal", 
+            "DNIT", 
+            "autorizacao", 
+            "utilizacao", 
+            "recursos federais", 
+            "obras", 
+            "servicos", 
+            "conservacao", 
+            "construcao", 
+            "projeto", 
+            "engenharia."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "564520", 
+        "ano": "2012", 
+        "numero": "600", 
+        "autor": [
+            "engenharia."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Aleracao", 
+            "lei federal", 
+            "prorrogacao", 
+            "prazo", 
+            "Reintegra", 
+            "exportacao", 
+            "desoneracao", 
+            "contribuicao previdenciaria", 
+            "contribuicao patronal", 
+            "Seguridade Social", 
+            "empresa de construcao", 
+            "empresa", 
+            "manutencao", 
+            "embarcacao", 
+            "comercio varejista", 
+            "servicos", 
+            "suporte tecnico", 
+            "equipamento de informatica", 
+            "exclusao", 
+            "beneficio", 
+            "empresa aerea internacional", 
+            "reducao", 
+            "aliquota", 
+            "IRPJ", 
+            "Pis/Pasep", 
+            "CSLL", 
+            "Cofins", 
+            "incorporadora", 
+            "requisito", 
+            "aliquota zero", 
+            "fundos de investimento", 
+            "direito creditorio", 
+            "condominio fechado", 
+            "autorizacao", 
+            "pessoa juridica", 
+            "Rede de Arrecadacao de Receitas Federais(Rarf)", 
+            "deducao", 
+            "base de calculo", 
+            "Cofins", 
+            "valor", 
+            "remuneracao", 
+            "servicos", 
+            "arrecadacao", 
+            "receita."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "564521", 
+        "ano": "2012", 
+        "numero": "601", 
+        "autor": [
+            "receita."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Prorrogacao", 
+            "carater excepcional", 
+            "contrato por prazo determinado", 
+            "Centro Gestor e Operacional do Sistema de Protecao da Amazonia (Censipam)", 
+            "Fundo Nacional de Desenvolvimento da Educacao (FNDE)."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "564522", 
+        "ano": "2012", 
+        "numero": "602", 
+        "autor": [
+            "Fundo Nacional de Desenvolvimento da Educacao (FNDE)."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Limite minimo", 
+            "quorum", 
+            "aprovacao", 
+            "convenio", 
+            "Estados", 
+            "Distrito Federal", 
+            "remissao", 
+            "credito tributario", 
+            "beneficio fiscal", 
+            "incentivo fiscal", 
+            "ICMS", 
+            "normas", 
+            "compensacao", 
+            "renuncia fiscal.  \n_ Reducao", 
+            "indexador", 
+            "divida", 
+            "Estados", 
+            "utilizacao", 
+            "IPCA", 
+            "Selic", 
+            "fixacao", 
+            "taxa de juros."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "564525", 
+        "ano": "2013", 
+        "numero": "238", 
+        "autor": [
+            "taxa de juros."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Lei do Setor Eletrico", 
+            "Conta de Desenvolvimento Energetico (CDE)", 
+            "compensacao", 
+            "desconto", 
+            "tarifa", 
+            "sistema eletrico", 
+            "concessao", 
+            "energia eletrica."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "564548", 
+        "ano": "2013", 
+        "numero": "605", 
+        "autor": [
+            "energia eletrica."
+        ]
+    }, 
+    {
+        "pio_iid": "564994", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "565319", 
+        "ano": "2013", 
+        "numero": "6786", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Instituicao financeira", 
+            "Banco Central do Brasil", 
+            "credito presumido", 
+            "creditos", 
+            "liquidacao duvidosa", 
+            "falencia", 
+            "liquidacao extrajudicial", 
+            "ressarcimento", 
+            "apuracao", 
+            "saldo", 
+            "Secretaria da Receita Federal", 
+            "lucro liquido", 
+            "Lucro Real", 
+            "base de calculo", 
+            "CSLL", 
+            "pessoa juridica", 
+            "ressarcimento", 
+            "credito presumido", 
+            "multa", 
+            "falsidade", 
+            "pedido", 
+            "revisao", 
+            "autoridade administrativa", 
+            "sujeito passivo", 
+            "alegacao", 
+            "inexistencia", 
+            "debito. _ Alteracao", 
+            "Lei federal", 
+            "instituicao financeira", 
+            "Banco Central do Brasil", 
+            "emissao", 
+            "letra financeira", 
+            "titulo de credito nominativo", 
+            "livre negociacao", 
+            "composicao", 
+            "patrimonio", 
+            "extincao", 
+            "divida", 
+            "conversao", 
+            "acoes", 
+            "criterios", 
+            "Conselho Monetario Nacional", 
+            "direito de preferencia", 
+            "pagamento", 
+            "caracteristica", 
+            "titulo."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "566047", 
+        "ano": "2013", 
+        "numero": "608", 
+        "autor": [
+            "titulo."
+        ]
+    }, 
+    {
+        "pio_iid": "566077", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "566744", 
+        "ano": "2013", 
+        "numero": "6947", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "Legislacao Tributaria Federal", 
+            "reducao", 
+            "aliquota zero", 
+            "contribuicao", 
+            "Programa de Integracao Social (PIS)", 
+            "Programa de Formacao do Patrimonio do Servidor Publico (PASEP)", 
+            "COFINS", 
+            "receita", 
+            "venda", 
+            "mercado interno", 
+            "importacao", 
+            "produto", 
+            "cesta basica."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "566891", 
+        "ano": "2013", 
+        "numero": "609", 
+        "autor": [
+            "cesta basica."
+        ]
+    }, 
+    {
+        "pio_iid": "567171", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "568157", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "PRC", 
+            "Criacao", 
+            "Cargo de natureza especial (CNE)", 
+            "Funcao de confianca", 
+            "PSD. _Criacao", 
+            "funcao de confianca", 
+            "Diretor-Geral Adjunto", 
+            "Secretario-Geral Adjunto."
+        ], 
+        "tipo": "PRC", 
+        "pio_iid": "568421", 
+        "ano": "2013", 
+        "numero": "178", 
+        "autor": [
+            "Secretario-Geral Adjunto."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "568515", 
+        "ano": "2013", 
+        "numero": "7126", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "569181", 
+        "ano": "2013", 
+        "numero": "7252", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "569182", 
+        "ano": "2013", 
+        "numero": "7253", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_iid": "569326", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "569538", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "569919", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "571564", 
+        "ano": "2013", 
+        "numero": "7494", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PDC", 
+            "Ato internacional", 
+            "acordo", 
+            "cooperacao", 
+            "turismo", 
+            "Brasil", 
+            "Republica de Cameroun."
+        ], 
+        "tipo": "PDC", 
+        "pio_iid": "571752", 
+        "ano": "2013", 
+        "numero": "824", 
+        "autor": [
+            "Republica de Cameroun."
+        ]
+    }, 
+    {
+        "pio_iid": "573367", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Alteracao", 
+            "Lei dos Fundos de Participacao", 
+            "criterios", 
+            "entrega", 
+            "recursos", 
+            "FPE.  \n_ Alteracao", 
+            "Codigo Tributario Nacional", 
+            "Tribunal de Contas da Uniao (TCU)", 
+            "Comunicacao", 
+            "Banco do Brasil (BB)", 
+            "prazo", 
+            "coeficiente individual de participacao", 
+            "exercicio financeiro.  \n_ Alteracao", 
+            "Lei Organica do TCU", 
+            "prazo", 
+            "publicacao", 
+            "dados", 
+            "populacao", 
+            "estados", 
+            "Distrito Federal", 
+            "municipios."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "573508", 
+        "ano": "2013", 
+        "numero": "266", 
+        "autor": [
+            "municipios."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "573516", 
+        "ano": "2013", 
+        "numero": "7595", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_iid": "575516", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Pessoa juridica", 
+            "importador", 
+            "produtor", 
+            "alcool", 
+            "inclusao", 
+            "carburante", 
+            "regime de apuracao nao cumulativa", 
+            "contribuicao", 
+            "Pis/Pasep", 
+            "Cofins", 
+            "desconto", 
+            "periodo", 
+            "apuracao", 
+            "prazo", 
+            "credito presumido", 
+            "venda", 
+            "mercado interno", 
+            "vigencia", 
+            "regime especial", 
+            "aquisicao", 
+            "alcool", 
+            "pessoa juridica", 
+            "optante", 
+            "regime especial", 
+            "apuracao", 
+            "credito", 
+            "aplicacao", 
+            "aliquota", 
+            "compensacao", 
+            "ressarcimento", 
+            "saldo", 
+            "creditos. _ Alteracao", 
+            "Legislacao Tributaria Federal", 
+            "produtor", 
+            "importador", 
+            "alcool", 
+            "inclusao", 
+            "carburantes", 
+            "regime de apuracao nao cumulativa", 
+            "Contribuicao", 
+            "Pis/Pasep", 
+            "Cofins", 
+            "desconto", 
+            "creditos", 
+            "aquisicao", 
+            "revenda. _ Alteracao", 
+            "Lei Federal", 
+            "aliquota", 
+            "Contribuicao", 
+            "Pis/Pasep", 
+            "Cofins", 
+            "importacao", 
+            "etano", 
+            "propano", 
+            "butano", 
+            "destinacao", 
+            "centrais petroquimicas", 
+            "utilizacao", 
+            "insumo. _ Alteracao", 
+            "Lei do Bem", 
+            "contribuicao", 
+            "Pis/Pasep", 
+            "Cofins", 
+            "produtor", 
+            "importador", 
+            "nafta petroquimica", 
+            "receita bruta", 
+            "venda", 
+            "centrais petroquimicas", 
+            "calculo", 
+            "aliquota", 
+            "autorizacao", 
+            "Poder Executivo", 
+            "concessao", 
+            "centrais petroquimicas", 
+            "regime de apuracao nao cumulativa", 
+            "contribuicao", 
+            "Pis/Pasep", 
+            "Cofins", 
+            "credito presumido", 
+            "aquisicao", 
+            "etanol", 
+            "utilizacao", 
+            "producao", 
+            "polietileno."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "576000", 
+        "ano": "2013", 
+        "numero": "613", 
+        "autor": [
+            "polietileno."
+        ]
+    }, 
+    {
+        "pio_iid": "576615", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "576895", 
+        "ano": "2013", 
+        "numero": "7772", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "577881", 
+        "ano": "2013", 
+        "numero": "7829", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "579713", 
+        "ano": "2013", 
+        "numero": "7926", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Alteracao", 
+            "lei federal", 
+            "cencessao", 
+            "garantia", 
+            "Uniao Federal", 
+            "entidade da administracao direta", 
+            "entidade da administracao indireta._ Autorizacao", 
+            "aumento", 
+            "capital social", 
+            "VALEC Engenharia Construcoes e Ferrovias._ Autorizacao", 
+            "Uniao Federal", 
+            "renegociacao", 
+            "operacao de credito", 
+            "BNDES._ Alteracao", 
+            "calculo", 
+            "receita liquida real", 
+            "municipios._ Concessao", 
+            "credito", 
+            "BNDES._ Promocao", 
+            "cooperacao tecnica", 
+            "energia eletrica", 
+            "paises", 
+            "America Latina._ Alteracao", 
+            "vale-cultura", 
+            "confeccao", 
+            "comercializacao."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "579869", 
+        "ano": "2013", 
+        "numero": "618", 
+        "autor": [
+            "comercializacao."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "Autorizacao", 
+            "contrato", 
+            "Companhia Nacional de Abastecimento (Conab)", 
+            "Banco do Brasil (BB)", 
+            "gestao", 
+            "fiscalizacao", 
+            "modernizacao", 
+            "armazem._ Alteracao", 
+            "Lei Organica da Seguridade Social", 
+            "Lei de Beneficio da Previdencia Social", 
+            "grupo familiar", 
+            "contrato temporario", 
+            "numero maximo", 
+            "empregado", 
+            "participacao", 
+            "segurado especial", 
+            "sociedade empresaria._ Alteracao", 
+            "Programa de Aquisicao de Alimentos (PAA)", 
+            "aquisicao", 
+            "alimentacao animal", 
+            "municipios", 
+            "situacao emergencia._ Alteracao", 
+            "Banco da Terra", 
+            "contrato de financiamento", 
+            "instituicao financeira", 
+            "escritura publica", 
+            "cartorio de registro de imoveis", 
+            "autorizacao", 
+            "despesa", 
+            "aquisicao", 
+            "imovel rural._ Criacao", 
+            "Programa Nacional de Apoio a Captacao de Agua de Chuva e Outras Tecnologias Sociais de Acesso a Agua", 
+            "Programa Cisternas", 
+            "acesso", 
+            "agua", 
+            "consumo proprio", 
+            "execucao", 
+            "Ministerio do Desenvolvimento Social", 
+            "parceria", 
+            "estados", 
+            "municipios", 
+            "Distrito Federal._ Alteracao", 
+            "Programa Cisternas", 
+            "contratacao", 
+            "entidade privada._ Alteracao", 
+            "lei federal", 
+            "prazo", 
+            "penhor rural", 
+            "penhor pecuario._ Alteracao", 
+            "lei federal", 
+            "subvencao economica", 
+            "BNDES", 
+            "aquisicao", 
+            "producao", 
+            "arrendamento mercantil", 
+            "bens de capital", 
+            "bens de consumo."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "580163", 
+        "ano": "2013", 
+        "numero": "619", 
+        "autor": [
+            "bens de consumo."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "580703", 
+        "ano": "2013", 
+        "numero": "7956", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "MPV", 
+            "- Alteracao", 
+            "lei federal", 
+            "definicao", 
+            "bens de consumo", 
+            "Conselho Monetario Nacional (CMN)", 
+            "valor", 
+            "aquisicao", 
+            "condicao", 
+            "financiamento", 
+            "beneficiario", 
+            "Programa Minha Casa", 
+            "Minha Vida", 
+            "- Medida", 
+            "esclarecimento", 
+            "consumidor", 
+            "prazo", 
+            "aplicacao", 
+            "sancao", 
+            "cobranca", 
+            "tributos", 
+            "informacao", 
+            "mercadoria", 
+            "servico.\n- Definicao", 
+            "empresa beneficiaria", 
+            "programa", 
+            "cultura", 
+            "trabalhador."
+        ], 
+        "tipo": "MPV", 
+        "pio_iid": "580951", 
+        "ano": "2013", 
+        "numero": "620", 
+        "autor": [
+            "trabalhador."
+        ]
+    }, 
+    {
+        "pio_iid": "581164", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "581440", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "PLP", 
+            "Alteracao", 
+            "Lei dos Fundos de Participacao", 
+            "Codigo Tributario Nacional", 
+            "Lei Organica TCU", 
+            "criterios", 
+            "rateio", 
+            "Fundo de Participacao dos Estados e do Distrito Federal."
+        ], 
+        "tipo": "PLP", 
+        "pio_iid": "581700", 
+        "ano": "2013", 
+        "numero": "288", 
+        "autor": [
+            "Fundo de Participacao dos Estados e do Distrito Federal."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REP", 
+            "Deputado Federal", 
+            "condenacao criminal", 
+            "delito", 
+            "peculato", 
+            "formacao", 
+            "quadrilha."
+        ], 
+        "tipo": "REP", 
+        "pio_iid": "582292", 
+        "ano": "2013", 
+        "numero": "20", 
+        "autor": [
+            "quadrilha."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "582605", 
+        "ano": "2013", 
+        "numero": "8091", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "PRC", 
+            "Criacao", 
+            "Grupo Parlamentar", 
+            "Brasil", 
+            "Malasia", 
+            "cooperacao interparlamentar."
+        ], 
+        "tipo": "PRC", 
+        "pio_iid": "582791", 
+        "ano": "2013", 
+        "numero": "203", 
+        "autor": [
+            "cooperacao interparlamentar."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "583481", 
+        "ano": "2013", 
+        "numero": "8144", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_iid": "584020", 
+        "pio_itypes": [
+            "MPV"
+        ], 
+        "ano": "2013", 
+        "numero": "621", 
+        "tipo": "MPV"
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "584279", 
+        "ano": "2013", 
+        "numero": "8196", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_iid": "585797", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Criacao", 
+            "funcao comissionada", 
+            "Departamento Nacional de Infraestrutura de Transportes (Dnit)", 
+            "extincao", 
+            "Funcao Comissionada Tecnica (FCT)", 
+            "Poder Executivo", 
+            ""
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "586411", 
+        "ano": "2013", 
+        "numero": "6053", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_iid": "587855", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_itypes": [
+            "PL", 
+            "Alteracao", 
+            "Codigo Eleitoral", 
+            "propaganda eleitoral", 
+            "partido politico", 
+            "solidariedade", 
+            "candidato.\n_ Alteracao", 
+            "Lei Organica dos Partidos Politicos", 
+            "autonomia", 
+            "definicao", 
+            "cronograma", 
+            "campanha eleitoral", 
+            "Filiacao partidaria", 
+            "justica eleitoral", 
+            "fundo partidario", 
+            "passagem aerea", 
+            "comprovacao", 
+            "despesa", 
+            "prazo", 
+            "emissora", 
+            "radio", 
+            "televisao", 
+            "tempo", 
+            "transmissao", 
+            "horario gratuito.\n_ Alteracao", 
+            "Lei das Eleicoes", 
+            "limite", 
+            "gasto", 
+            "campanha eleitoral", 
+            "doacao", 
+            "divulgacao", 
+            "internet", 
+            "prestacao de contas", 
+            "processo eleitoral", 
+            "propaganda eleitoral", 
+            "antecipacao", 
+            "horario."
+        ], 
+        "tipo": "PL", 
+        "pio_iid": "592935", 
+        "ano": "2013", 
+        "numero": "6397", 
+        "autor": [
+            "horario."
+        ]
+    }, 
+    {
+        "pio_itypes": [
+            "REQ", 
+            ""
+        ], 
+        "tipo": "REQ", 
+        "pio_iid": "593650", 
+        "ano": "2013", 
+        "numero": "8696", 
+        "autor": [
+            ""
+        ]
+    }, 
+    {
+        "pio_iid": "595197", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "595564", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "597041", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }, 
+    {
+        "pio_iid": "597682", 
+        "pio_itypes": [
+            "REQ"
+        ], 
+        "ano": "2013", 
+        "numero": "8", 
+        "tipo": "REQ"
+    }
+]

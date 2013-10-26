@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicao>
+  <Sigla>PL</Sigla>
+  <Numero>708</Numero>
+  <Ano>2007</Ano>
+  <Votacoes>
+    <Votacao Resumo="" Data="2/4/2013" Hora="22:03" ObjVotacao="DVS - BLOCO PR - ART. 5º, PARA APROVAÇÃO">
+      <orientacaoBancada>
+        <bancada Sigla="PT" orientacao="Obstrução      " />
+        <bancada Sigla="PMDB" orientacao="Obstrução      " />
+        <bancada Sigla="PSDB" orientacao="Obstrução      " />
+        <bancada Sigla="PSD" orientacao="Obstrução      " />
+        <bancada Sigla="PrPtdobPrpPhsPtcPslPrtb" orientacao="Obstrução      " />
+        <bancada Sigla="PP" orientacao="Obstrução      " />
+        <bancada Sigla="DEM" orientacao="Obstrução      " />
+        <bancada Sigla="PSB" orientacao="Obstrução      " />
+        <bancada Sigla="PDT" orientacao="Obstrução      " />
+        <bancada Sigla="PpsPv" orientacao="Obstrução      " />
+        <bancada Sigla="PTB" orientacao="Obstrução      " />
+        <bancada Sigla="PSC" orientacao="Obstrução      " />
+        <bancada Sigla="PRB" orientacao="Obstrução      " />
+        <bancada Sigla="Repr.PEN" orientacao="Sim            " />
+      </orientacaoBancada>
+      <votos>
+        <Deputado Nome="Paulo Cesar Quartiero" Partido="DEM" UF="RR" Voto="Sim" />
+        <Deputado Nome="Raul Lima" Partido="PSD" UF="RR" Voto="Sim" />
+        <Deputado Nome="Lira Maia" Partido="DEM" UF="PA" Voto="Sim" />
+        <Deputado Nome="Jesus Rodrigues" Partido="PT" UF="PI" Voto="Obstrução" />
+        <Deputado Nome="Manoel Junior" Partido="PMDB" UF="PB" Voto="Obstrução" />
+        <Deputado Nome="Amauri Teixeira" Partido="PT" UF="BA" Voto="Obstrução" />
+        <Deputado Nome="José Nunes" Partido="PSD" UF="BA" Voto="Sim" />
+        <Deputado Nome="Bernardo Santana de Vasconcellos" Partido="PR" UF="MG" Voto="Obstrução" />
+        <Deputado Nome="Marcus Pestana" Partido="PSDB" UF="MG" Voto="Sim" />
+        <Deputado Nome="Padre João" Partido="PT" UF="MG" Voto="Obstrução" />
+        <Deputado Nome="Edson Ezequiel" Partido="PMDB" UF="RJ" Voto="Obstrução" />
+        <Deputado Nome="Rodrigo Maia" Partido="DEM" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Edinho Araújo" Partido="PMDB" UF="SP" Voto="Sim" />
+        <Deputado Nome="Guilherme Campos" Partido="PSD" UF="SP" Voto="Sim" />
+        <Deputado Nome="Izalci" Partido="PSDB" UF="DF" Voto="Sim" />
+        <Deputado Nome="Reguffe" Partido="PDT" UF="DF" Voto="Não" />
+        <Deputado Nome="Ronaldo Caiado" Partido="DEM" UF="GO" Voto="Sim" />
+        <Deputado Nome="Reinaldo Azambuja" Partido="PSDB" UF="MS" Voto="Sim" />
+        <Deputado Nome="Abelardo Lupion" Partido="DEM" UF="PR" Voto="Sim" />
+        <Deputado Nome="André Vargas" Partido="PT" UF="PR" Voto="Art. 17" />
+        <Deputado Nome="Rosane Ferreira" Partido="PV" UF="PR" Voto="Obstrução" />
+        <Deputado Nome="Beto Albuquerque" Partido="PSB" UF="RS" Voto="Sim" />
+        <Deputado Nome="Onyx Lorenzoni" Partido="DEM" UF="RS" Voto="Sim" />
+        <Deputado Nome="Dudimar Paxiúba" Partido="PSDB" UF="PA" Voto="Sim" />
+        <Deputado Nome="Dr. Ubiali" Partido="PSB" UF="SP" Voto="Sim" />
+        <Deputado Nome="Vilalba" Partido="PRB" UF="PE" Voto="Obstrução" />
+        <Deputado Nome="Marina Santanna" Partido="PT" UF="GO" Voto="Obstrução" />
+        <Deputado Nome="Severino Ninho" Partido="PSB" UF="PE" Voto="Sim" />
+        <Deputado Nome="Alexandre Toledo" Partido="PSDB" UF="AL" Voto="Sim" />
+        <Deputado Nome="Professor Sérgio de Oliveira" Partido="PSC" UF="PR" Voto="Sim" />
+        <Deputado Nome="Oliveira Filho" Partido="PRB" UF="PR" Voto="Obstrução" />
+        <Deputado Nome="Marcio Junqueira" Partido="DEM" UF="RR" Voto="Sim" />
+      </votos>
+    </Votacao>
+  </Votacoes>
+</proposicao>

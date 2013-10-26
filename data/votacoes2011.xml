@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicoes>
+  <proposicao>
+    <codProposicao>17338</codProposicao>
+    <nomeProposicao>PL 1876/1999</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>260404</codProposicao>
+    <nomeProposicao>PL 3937/2004</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>357094</codProposicao>
+    <nomeProposicao>PEC 98/2007</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>394079</codProposicao>
+    <nomeProposicao>PLP 306/2008</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>401376</codProposicao>
+    <nomeProposicao>PEC 270/2008</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>422002</codProposicao>
+    <nomeProposicao>PDC 1351/2008</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>463268</codProposicao>
+    <nomeProposicao>PEC 445/2009</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>476031</codProposicao>
+    <nomeProposicao>PDC 2600/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>485274</codProposicao>
+    <nomeProposicao>MPV 502/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>485275</codProposicao>
+    <nomeProposicao>MPV 503/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>485758</codProposicao>
+    <nomeProposicao>MPV 511/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>487868</codProposicao>
+    <nomeProposicao>MPV 512/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>487966</codProposicao>
+    <nomeProposicao>MPV 513/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>488582</codProposicao>
+    <nomeProposicao>REQ 7537/2010 =&gt; PL 1876/1999</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>488607</codProposicao>
+    <nomeProposicao>MPV 514/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>490375</codProposicao>
+    <nomeProposicao>MPV 517/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>490387</codProposicao>
+    <nomeProposicao>MPV 521/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>491872</codProposicao>
+    <nomeProposicao>PL 382/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>491963</codProposicao>
+    <nomeProposicao>REQ 343/2011 =&gt; PDC 2600/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>491974</codProposicao>
+    <nomeProposicao>REQ 349/2011 =&gt; PL 382/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>495215</codProposicao>
+    <nomeProposicao>REP 1/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>495378</codProposicao>
+    <nomeProposicao>MPV 527/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>496290</codProposicao>
+    <nomeProposicao>MPV 528/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>497616</codProposicao>
+    <nomeProposicao>PDC 47/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>499323</codProposicao>
+    <nomeProposicao>MPV 530/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>500056</codProposicao>
+    <nomeProposicao>MPV 532/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>500079</codProposicao>
+    <nomeProposicao>PL 1209/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>500380</codProposicao>
+    <nomeProposicao>REQ 1548/2011 =&gt; PL 7376/2010</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>501560</codProposicao>
+    <nomeProposicao>MPV 533/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>501821</codProposicao>
+    <nomeProposicao>PDC 220/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>507762</codProposicao>
+    <nomeProposicao>REQ 2086/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>511029</codProposicao>
+    <nomeProposicao>PL 1749/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>513172</codProposicao>
+    <nomeProposicao>MPV 539/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>513496</codProposicao>
+    <nomeProposicao>PEC 61/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>513512</codProposicao>
+    <nomeProposicao>MPV 540/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>513514</codProposicao>
+    <nomeProposicao>MPV 541/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>514832</codProposicao>
+    <nomeProposicao>REQ 2714/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>515433</codProposicao>
+    <nomeProposicao>PLP 87/2011</nomeProposicao>
+  </proposicao>
+  <proposicao>
+    <codProposicao>525391</codProposicao>
+    <nomeProposicao>REC 92/2011 =&gt; RIC 693/2011</nomeProposicao>
+  </proposicao>
+</proposicoes>

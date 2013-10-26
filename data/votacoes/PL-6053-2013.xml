@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicao>
+  <Sigla>PL</Sigla>
+  <Numero>6053</Numero>
+  <Ano>2013</Ano>
+  <Votacoes>
+    <Votacao Resumo="Rejeitado o Requerimento. Sim: 8; não: 311; total: 319." Data="1/10/2013" Hora="18:08" ObjVotacao="REQUERIMENTO DE RETIRADA DE PAUTA">
+      <orientacaoBancada>
+        <bancada Sigla="PT" orientacao="Não            " />
+        <bancada Sigla="PMDB" orientacao="Não            " />
+        <bancada Sigla="PSDB" orientacao="Não            " />
+        <bancada Sigla="PrPtdobPrpPhsPslPrtb" orientacao="Não            " />
+        <bancada Sigla="PSD" orientacao="Não            " />
+        <bancada Sigla="PP" orientacao="Não            " />
+        <bancada Sigla="DEM" orientacao="Não            " />
+        <bancada Sigla="PDT" orientacao="Não            " />
+        <bancada Sigla="PSB" orientacao="Não            " />
+        <bancada Sigla="PTB" orientacao="Não            " />
+        <bancada Sigla="PSC" orientacao="Não            " />
+        <bancada Sigla="PCdoB" orientacao="Não            " />
+        <bancada Sigla="PV" orientacao="Não            " />
+        <bancada Sigla="PPS" orientacao="Não            " />
+        <bancada Sigla="PRB" orientacao="Não            " />
+        <bancada Sigla="PSOL" orientacao="Obstrução      " />
+        <bancada Sigla="PEN" orientacao="Não            " />
+        <bancada Sigla="GOV." orientacao="Liberado       " />
+      </orientacaoBancada>
+      <votos>
+        <Deputado Nome="Davi Alcolumbre" Partido="DEM" UF="AP" Voto="Não" />
+        <Deputado Nome="Fátima Pelaes" Partido="PMDB" UF="AP" Voto="Não" />
+        <Deputado Nome="Sebastião Bala Rocha" Partido="SDD" UF="AP" Voto="Não" />
+        <Deputado Nome="Arnaldo Jordy" Partido="PPS" UF="PA" Voto="Não" />
+        <Deputado Nome="Beto Faro" Partido="PT" UF="PA" Voto="Não" />
+        <Deputado Nome="Asdrubal Bentes" Partido="PMDB" UF="PA" Voto="Não" />
+        <Deputado Nome="Wladimir Costa" Partido="PMDB" UF="PA" Voto="Não" />
+        <Deputado Nome="Zé Geraldo" Partido="PT" UF="PA" Voto="Não" />
+        <Deputado Nome="Giovanni Queiroz" Partido="PDT" UF="PA" Voto="Não" />
+        <Deputado Nome="Lúcio Vale" Partido="PR" UF="PA" Voto="Não" />
+        <Deputado Nome="Josué Bengtson" Partido="PTB" UF="PA" Voto="Não" />
+        <Deputado Nome="Wandenkolk Gonçalves" Partido="PSDB" UF="PA" Voto="Não" />
+        <Deputado Nome="Zequinha Marinho" Partido="PSC" UF="PA" Voto="Não" />
+        <Deputado Nome="Miriquinho Batista" Partido="PT" UF="PA" Voto="Não" />
+        <Deputado Nome="Henrique Oliveira" Partido="PR" UF="AM" Voto="Não" />
+        <Deputado Nome="Átila Lins" Partido="PSD" UF="AM" Voto="Não" />
+        <Deputado Nome="Silas Câmara" Partido="PSD" UF="AM" Voto="Não" />
+        <Deputado Nome="Francisco Praciano" Partido="PT" UF="AM" Voto="Obstrução" />
+        <Deputado Nome="Nilton Capixaba" Partido="PTB" UF="RO" Voto="Não" />
+        <Deputado Nome="Padre Ton" Partido="PT" UF="RO" Voto="Não" />
+        <Deputado Nome="Marinha Raupp" Partido="PMDB" UF="RO" Voto="Não" />
+        <Deputado Nome="Perpétua Almeida" Partido="PCdoB" UF="AC" Voto="Não" />
+        <Deputado Nome="Sibá Machado" Partido="PT" UF="AC" Voto="Não" />
+        <Deputado Nome="Taumaturgo Lima" Partido="PT" UF="AC" Voto="Obstrução" />
+        <Deputado Nome="Ângelo Agnolin" Partido="PDT" UF="TO" Voto="Não" />
+        <Deputado Nome="César Halum" Partido="PSD" UF="TO" Voto="Não" />
+        <Deputado Nome="Professora Dorinha Seabra Rezende" Partido="DEM" UF="TO" Voto="Não" />
+        <Deputado Nome="Carlos Brandão" Partido="PSDB" UF="MA" Voto="Não" />
+        <Deputado Nome="Cleber Verde" Partido="PRB" UF="MA" Voto="Não" />
+        <Deputado Nome="Alberto Filho" Partido="PMDB" UF="MA" Voto="Não" />
+        <Deputado Nome="Domingos Dutra" Partido="PT" UF="MA" Voto="Obstrução" />
+        <Deputado Nome="Hélio Santos" Partido="PSD" UF="MA" Voto="Não" />
+        <Deputado Nome="Nice Lobão" Partido="PSD" UF="MA" Voto="Não" />
+        <Deputado Nome="Professor Setimo" Partido="PMDB" UF="MA" Voto="Não" />
+        <Deputado Nome="Pedro Novais" Partido="PMDB" UF="MA" Voto="Não" />
+        <Deputado Nome="Waldir Maranhão" Partido="PP" UF="MA" Voto="Não" />
+        <Deputado Nome="Sarney Filho" Partido="PV" UF="MA" Voto="Não" />
+        <Deputado Nome="Chico Lopes" Partido="PCdoB" UF="CE" Voto="Não" />
+        <Deputado Nome="André Figueiredo" Partido="PDT" UF="CE" Voto="Não" />
+        <Deputado Nome="Arnon Bezerra" Partido="PTB" UF="CE" Voto="Não" />
+        <Deputado Nome="Eudes Xavier" Partido="PT" UF="CE" Voto="Não" />
+        <Deputado Nome="Artur Bruno" Partido="PT" UF="CE" Voto="Não" />
+        <Deputado Nome="Danilo Forte" Partido="PMDB" UF="CE" Voto="Não" />
+        <Deputado Nome="José Linhares" Partido="PP" UF="CE" Voto="Não" />
+        <Deputado Nome="José Airton" Partido="PT" UF="CE" Voto="Não" />
+        <Deputado Nome="Raimundo Gomes de Matos" Partido="PSDB" UF="CE" Voto="Não" />
+        <Deputado Nome="José Guimarães" Partido="PT" UF="CE" Voto="Não" />
+        <Deputado Nome="Mauro Benevides" Partido="PMDB" UF="CE" Voto="Não" />
+        <Deputado Nome="João Ananias" Partido="PCdoB" UF="CE" Voto="Não" />
+        <Deputado Nome="Marcelo Castro" Partido="PMDB" UF="PI" Voto="Não" />
+        <Deputado Nome="Assis Carvalho" Partido="PT" UF="PI" Voto="Não" />
+        <Deputado Nome="Iracema Portella" Partido="PP" UF="PI" Voto="Não" />
+        <Deputado Nome="Júlio Cesar" Partido="PSD" UF="PI" Voto="Não" />
+        <Deputado Nome="Jesus Rodrigues" Partido="PT" UF="PI" Voto="Não" />
+        <Deputado Nome="Paes Landim" Partido="PTB" UF="PI" Voto="Obstrução" />
+        <Deputado Nome="Marllos Sampaio" Partido="PMDB" UF="PI" Voto="Não" />
+        <Deputado Nome="Felipe Maia" Partido="DEM" UF="RN" Voto="Não" />
+        <Deputado Nome="Sandra Rosado" Partido="PSB" UF="RN" Voto="Obstrução" />
+        <Deputado Nome="Manoel Junior" Partido="PMDB" UF="PB" Voto="Não" />
+        <Deputado Nome="Benjamin Maranhão" Partido="PMDB" UF="PB" Voto="Não" />
+        <Deputado Nome="Hugo Motta" Partido="PMDB" UF="PB" Voto="Não" />
+        <Deputado Nome="Luiz Couto" Partido="PT" UF="PB" Voto="Não" />
+        <Deputado Nome="Wellington Roberto" Partido="PR" UF="PB" Voto="Não" />
+        <Deputado Nome="Ruy Carneiro" Partido="PSDB" UF="PB" Voto="Não" />
+        <Deputado Nome="Fernando Ferro" Partido="PT" UF="PE" Voto="Não" />
+        <Deputado Nome="Anderson Ferreira" Partido="PR" UF="PE" Voto="Não" />
+        <Deputado Nome="Gonzaga Patriota" Partido="PSB" UF="PE" Voto="Obstrução" />
+        <Deputado Nome="Augusto Coutinho" Partido="SDD" UF="PE" Voto="Não" />
+        <Deputado Nome="Inocêncio Oliveira" Partido="PR" UF="PE" Voto="Não" />
+        <Deputado Nome="Carlos Eduardo Cadoca" Partido="PSC" UF="PE" Voto="Não" />
+        <Deputado Nome="Mendonça Filho" Partido="DEM" UF="PE" Voto="Não" />
+        <Deputado Nome="Pastor Eurico" Partido="PSB" UF="PE" Voto="Obstrução" />
+        <Deputado Nome="Eduardo da Fonte" Partido="PP" UF="PE" Voto="Não" />
+        <Deputado Nome="Fernando Coelho Filho" Partido="PSB" UF="PE" Voto="Não" />
+        <Deputado Nome="Silvio Costa" Partido="PTB" UF="PE" Voto="Não" />
+        <Deputado Nome="Raul Henry" Partido="PMDB" UF="PE" Voto="Não" />
+        <Deputado Nome="Almeida Lima" Partido="S.Part." UF="SE" Voto="Não" />
+        <Deputado Nome="Andre Moura" Partido="PSC" UF="SE" Voto="Não" />
+        <Deputado Nome="Márcio Macêdo" Partido="PT" UF="SE" Voto="Não" />
+        <Deputado Nome="Alice Portugal" Partido="PCdoB" UF="BA" Voto="Não" />
+        <Deputado Nome="Afonso Florence" Partido="PT" UF="BA" Voto="Não" />
+        <Deputado Nome="Valadares Filho" Partido="PSB" UF="SE" Voto="Obstrução" />
+        <Deputado Nome="Amauri Teixeira" Partido="PT" UF="BA" Voto="Não" />
+        <Deputado Nome="Geraldo Simões" Partido="PT" UF="BA" Voto="Obstrução" />
+        <Deputado Nome="Claudio Cajado" Partido="DEM" UF="BA" Voto="Não" />
+        <Deputado Nome="Daniel Almeida" Partido="PCdoB" UF="BA" Voto="Não" />
+        <Deputado Nome="Antonio Brito" Partido="PTB" UF="BA" Voto="Não" />
+        <Deputado Nome="Fábio Souto" Partido="DEM" UF="BA" Voto="Não" />
+        <Deputado Nome="Antonio Imbassahy" Partido="PSDB" UF="BA" Voto="Não" />
+        <Deputado Nome="Arthur Oliveira Maia" Partido="PMDB" UF="BA" Voto="Não" />
+        <Deputado Nome="Edson Pimenta" Partido="PSD" UF="BA" Voto="Não" />
+        <Deputado Nome="Erivelton Santana" Partido="PSC" UF="BA" Voto="Não" />
+        <Deputado Nome="Félix Mendonça Júnior" Partido="PDT" UF="BA" Voto="Não" />
+        <Deputado Nome="Fernando Torres" Partido="PSD" UF="BA" Voto="Não" />
+        <Deputado Nome="José Carlos Araújo" Partido="PSD" UF="BA" Voto="Não" />
+        <Deputado Nome="Marcos Medrado" Partido="PDT" UF="BA" Voto="Não" />
+        <Deputado Nome="José Nunes" Partido="PSD" UF="BA" Voto="Não" />
+        <Deputado Nome="Josias Gomes" Partido="PT" UF="BA" Voto="Não" />
+        <Deputado Nome="Luiz Alberto" Partido="PT" UF="BA" Voto="Não" />
+        <Deputado Nome="Jutahy Junior" Partido="PSDB" UF="BA" Voto="Não" />
+        <Deputado Nome="Luiz Argôlo" Partido="PP" UF="BA" Voto="Não" />
+        <Deputado Nome="Mário Negromonte" Partido="PP" UF="BA" Voto="Não" />
+        <Deputado Nome="Roberto Britto" Partido="PP" UF="BA" Voto="Não" />
+        <Deputado Nome="Márcio Marinho" Partido="PRB" UF="BA" Voto="Não" />
+        <Deputado Nome="Sérgio Brito" Partido="PSD" UF="BA" Voto="Não" />
+        <Deputado Nome="Paulo Magalhães" Partido="PSD" UF="BA" Voto="Não" />
+        <Deputado Nome="Oziel Oliveira" Partido="PDT" UF="BA" Voto="Não" />
+        <Deputado Nome="Valmir Assunção" Partido="PT" UF="BA" Voto="Não" />
+        <Deputado Nome="Waldenor Pereira" Partido="PT" UF="BA" Voto="Não" />
+        <Deputado Nome="Aracely de Paula" Partido="PR" UF="MG" Voto="Não" />
+        <Deputado Nome="Aelton Freitas" Partido="PR" UF="MG" Voto="Não" />
+        <Deputado Nome="Diego Andrade" Partido="PSD" UF="MG" Voto="Não" />
+        <Deputado Nome="Dimas Fabiano" Partido="PP" UF="MG" Voto="Não" />
+        <Deputado Nome="Dr. Grilo" Partido="PSL" UF="MG" Voto="Não" />
+        <Deputado Nome="Geraldo Thadeu" Partido="PSD" UF="MG" Voto="Não" />
+        <Deputado Nome="Eduardo Azeredo" Partido="PSDB" UF="MG" Voto="Não" />
+        <Deputado Nome="Fábio Ramalho" Partido="PV" UF="MG" Voto="Não" />
+        <Deputado Nome="João Magalhães" Partido="PMDB" UF="MG" Voto="Não" />
+        <Deputado Nome="Jaime Martins" Partido="PR" UF="MG" Voto="Não" />
+        <Deputado Nome="George Hilton" Partido="PRB" UF="MG" Voto="Não" />
+        <Deputado Nome="Gabriel Guimarães" Partido="PT" UF="MG" Voto="Obstrução" />
+        <Deputado Nome="Leonardo Monteiro" Partido="PT" UF="MG" Voto="Não" />
+        <Deputado Nome="Marcus Pestana" Partido="PSDB" UF="MG" Voto="Não" />
+        <Deputado Nome="Marcos Montes" Partido="PSD" UF="MG" Voto="Não" />
+        <Deputado Nome="Padre João" Partido="PT" UF="MG" Voto="Não" />
+        <Deputado Nome="Renzo Braz" Partido="PP" UF="MG" Voto="Não" />
+        <Deputado Nome="Paulo Abi-Ackel" Partido="PSDB" UF="MG" Voto="Não" />
+        <Deputado Nome="Toninho Pinheiro" Partido="PP" UF="MG" Voto="Não" />
+        <Deputado Nome="Saraiva Felipe" Partido="PMDB" UF="MG" Voto="Não" />
+        <Deputado Nome="Rodrigo de Castro" Partido="PSDB" UF="MG" Voto="Não" />
+        <Deputado Nome="Odair Cunha" Partido="PT" UF="MG" Voto="Sim" />
+        <Deputado Nome="Manato" Partido="PDT" UF="ES" Voto="Não" />
+        <Deputado Nome="Cesar Colnago" Partido="PSDB" UF="ES" Voto="Não" />
+        <Deputado Nome="Dr. Jorge Silva" Partido="PDT" UF="ES" Voto="Não" />
+        <Deputado Nome="Lauriete" Partido="PSC" UF="ES" Voto="Não" />
+        <Deputado Nome="Paulo Foletto" Partido="PSB" UF="ES" Voto="Não" />
+        <Deputado Nome="Sueli Vidigal" Partido="PDT" UF="ES" Voto="Não" />
+        <Deputado Nome="Andreia Zito" Partido="PSDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Alexandre Santos" Partido="PMDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Alessandro Molon" Partido="PT" UF="RJ" Voto="Obstrução" />
+        <Deputado Nome="Arolde de Oliveira" Partido="PSD" UF="RJ" Voto="Não" />
+        <Deputado Nome="Anthony Garotinho" Partido="PR" UF="RJ" Voto="Não" />
+        <Deputado Nome="Aureo" Partido="PRTB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Benedita da Silva" Partido="PT" UF="RJ" Voto="Não" />
+        <Deputado Nome="Dr. Adilson Soares" Partido="PR" UF="RJ" Voto="Não" />
+        <Deputado Nome="Chico Alencar" Partido="PSOL" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Dr. Paulo César" Partido="PSD" UF="RJ" Voto="Não" />
+        <Deputado Nome="Francisco Floriano" Partido="PR" UF="RJ" Voto="Não" />
+        <Deputado Nome="Edson Ezequiel" Partido="PMDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Edson Santos" Partido="PT" UF="RJ" Voto="Obstrução" />
+        <Deputado Nome="Eduardo Cunha" Partido="PMDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Felipe Bornier" Partido="PSD" UF="RJ" Voto="Não" />
+        <Deputado Nome="Jair Bolsonaro" Partido="PP" UF="RJ" Voto="Não" />
+        <Deputado Nome="Glauber Braga" Partido="PSB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Jandira Feghali" Partido="PCdoB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Hugo Leal" Partido="PSC" UF="RJ" Voto="Não" />
+        <Deputado Nome="Jean Wyllys" Partido="PSOL" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Liliam Sá" Partido="PR" UF="RJ" Voto="Não" />
+        <Deputado Nome="Jorge Bittar" Partido="PT" UF="RJ" Voto="Não" />
+        <Deputado Nome="Leonardo Picciani" Partido="PMDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Luiz Sérgio" Partido="PT" UF="RJ" Voto="Não" />
+        <Deputado Nome="Otavio Leite" Partido="PSDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Miro Teixeira" Partido="PDT" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Romário" Partido="S.Part." UF="RJ" Voto="Não" />
+        <Deputado Nome="Sergio Zveiter" Partido="PSD" UF="RJ" Voto="Não" />
+        <Deputado Nome="Alfredo Sirkis" Partido="PV" UF="RJ" Voto="Não" />
+        <Deputado Nome="Rodrigo Maia" Partido="DEM" UF="RJ" Voto="Não" />
+        <Deputado Nome="Stepan Nercessian" Partido="PPS" UF="RJ" Voto="Não" />
+        <Deputado Nome="Vitor Paulo" Partido="PRB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Walney Rocha" Partido="PTB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Washington Reis" Partido="PMDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Simão Sessim" Partido="PP" UF="RJ" Voto="Art. 17" />
+        <Deputado Nome="Zoinho" Partido="PR" UF="RJ" Voto="Não" />
+        <Deputado Nome="Aline Corrêa" Partido="PP" UF="SP" Voto="Não" />
+        <Deputado Nome="Antonio Carlos Mendes Thame" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Antonio Bulhões" Partido="PRB" UF="SP" Voto="Não" />
+        <Deputado Nome="Alexandre Leite" Partido="DEM" UF="SP" Voto="Não" />
+        <Deputado Nome="Arlindo Chinaglia" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Arnaldo Faria de Sá" Partido="PTB" UF="SP" Voto="Não" />
+        <Deputado Nome="Beto Mansur" Partido="PP" UF="SP" Voto="Não" />
+        <Deputado Nome="Devanir Ribeiro" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Edinho Araújo" Partido="PMDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Eli Correa Filho" Partido="DEM" UF="SP" Voto="Não" />
+        <Deputado Nome="Gabriel Chalita" Partido="PMDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Guilherme Mussi" Partido="PP" UF="SP" Voto="Não" />
+        <Deputado Nome="Jefferson Campos" Partido="PSD" UF="SP" Voto="Não" />
+        <Deputado Nome="Duarte Nogueira" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Emanuel Fernandes" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Junji Abe" Partido="PSD" UF="SP" Voto="Não" />
+        <Deputado Nome="Keiko Ota" Partido="PSB" UF="SP" Voto="Obstrução" />
+        <Deputado Nome="Guilherme Campos" Partido="PSD" UF="SP" Voto="Não" />
+        <Deputado Nome="Ivan Valente" Partido="PSOL" UF="SP" Voto="Sim" />
+        <Deputado Nome="João Dado" Partido="SDD" UF="SP" Voto="Não" />
+        <Deputado Nome="Jorge Tadeu Mudalen" Partido="DEM" UF="SP" Voto="Não" />
+        <Deputado Nome="Luiz Fernando Machado" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Mara Gabrilli" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Luiza Erundina" Partido="PSB" UF="SP" Voto="Obstrução" />
+        <Deputado Nome="Paulo Pereira da Silva" Partido="SDD" UF="SP" Voto="Não" />
+        <Deputado Nome="Paulo Maluf" Partido="PP" UF="SP" Voto="Não" />
+        <Deputado Nome="Milton Monti" Partido="PR" UF="SP" Voto="Não" />
+        <Deputado Nome="Missionário José Olimpio" Partido="PP" UF="SP" Voto="Não" />
+        <Deputado Nome="Paulo Teixeira" Partido="PT" UF="SP" Voto="Sim" />
+        <Deputado Nome="Newton Lima" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Otoniel Lima" Partido="PRB" UF="SP" Voto="Não" />
+        <Deputado Nome="Pastor Marco Feliciano" Partido="PSC" UF="SP" Voto="Não" />
+        <Deputado Nome="Nelson Marquezelli" Partido="PTB" UF="SP" Voto="Não" />
+        <Deputado Nome="Penna" Partido="PV" UF="SP" Voto="Não" />
+        <Deputado Nome="Ricardo Tripoli" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Roberto Santiago" Partido="PSD" UF="SP" Voto="Não" />
+        <Deputado Nome="Roberto Freire" Partido="PPS" UF="SP" Voto="Não" />
+        <Deputado Nome="Cândido Vaccarezza" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Ricardo Berzoini" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Salvador Zimbaldi" Partido="PDT" UF="SP" Voto="Não" />
+        <Deputado Nome="Tiririca" Partido="PR" UF="SP" Voto="Não" />
+        <Deputado Nome="Vaz de Lima" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Vicentinho" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="William Dib" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Carlos Zarattini" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Carlos Bezerra" Partido="PMDB" UF="MT" Voto="Não" />
+        <Deputado Nome="Wellington Fagundes" Partido="PR" UF="MT" Voto="Não" />
+        <Deputado Nome="Erika Kokay" Partido="PT" UF="DF" Voto="Obstrução" />
+        <Deputado Nome="Izalci" Partido="PSDB" UF="DF" Voto="Não" />
+        <Deputado Nome="Luiz Pitiman" Partido="PSDB" UF="DF" Voto="Não" />
+        <Deputado Nome="Reguffe" Partido="PDT" UF="DF" Voto="Não" />
+        <Deputado Nome="Ronaldo Fonseca" Partido="PR" UF="DF" Voto="Obstrução" />
+        <Deputado Nome="Armando Vergílio" Partido="PSD" UF="GO" Voto="Não" />
+        <Deputado Nome="Íris de Araújo" Partido="PMDB" UF="GO" Voto="Não" />
+        <Deputado Nome="João Campos" Partido="PSDB" UF="GO" Voto="Não" />
+        <Deputado Nome="Jovair Arantes" Partido="PTB" UF="GO" Voto="Não" />
+        <Deputado Nome="Leandro Vilela" Partido="PMDB" UF="GO" Voto="Não" />
+        <Deputado Nome="Heuler Cruvinel" Partido="PSD" UF="GO" Voto="Não" />
+        <Deputado Nome="Sandes Júnior" Partido="PP" UF="GO" Voto="Não" />
+        <Deputado Nome="Pedro Chaves" Partido="PMDB" UF="GO" Voto="Não" />
+        <Deputado Nome="Ronaldo Caiado" Partido="DEM" UF="GO" Voto="Não" />
+        <Deputado Nome="Fabio Trad" Partido="PMDB" UF="MS" Voto="Não" />
+        <Deputado Nome="Geraldo Resende" Partido="PMDB" UF="MS" Voto="Não" />
+        <Deputado Nome="Mandetta" Partido="DEM" UF="MS" Voto="Não" />
+        <Deputado Nome="Reinaldo Azambuja" Partido="PSDB" UF="MS" Voto="Não" />
+        <Deputado Nome="Abelardo Lupion" Partido="DEM" UF="PR" Voto="Não" />
+        <Deputado Nome="Assis do Couto" Partido="PT" UF="PR" Voto="Não" />
+        <Deputado Nome="Dilceu Sperafico" Partido="PP" UF="PR" Voto="Não" />
+        <Deputado Nome="Edmar Arruda" Partido="PSC" UF="PR" Voto="Não" />
+        <Deputado Nome="Hermes Parcianello" Partido="PMDB" UF="PR" Voto="Não" />
+        <Deputado Nome="Fernando Francischini" Partido="PEN" UF="PR" Voto="Não" />
+        <Deputado Nome="João Arruda" Partido="PMDB" UF="PR" Voto="Não" />
+        <Deputado Nome="Leopoldo Meyer" Partido="PSB" UF="PR" Voto="Não" />
+        <Deputado Nome="Nelson Meurer" Partido="PP" UF="PR" Voto="Não" />
+        <Deputado Nome="Rosane Ferreira" Partido="PV" UF="PR" Voto="Não" />
+        <Deputado Nome="Rubens Bueno" Partido="PPS" UF="PR" Voto="Não" />
+        <Deputado Nome="Eduardo Sciarra" Partido="PSD" UF="PR" Voto="Não" />
+        <Deputado Nome="Osmar Serraglio" Partido="PMDB" UF="PR" Voto="Não" />
+        <Deputado Nome="Sandro Alex" Partido="PPS" UF="PR" Voto="Não" />
+        <Deputado Nome="Zeca Dirceu" Partido="PT" UF="PR" Voto="Não" />
+        <Deputado Nome="Edinho Bez" Partido="PMDB" UF="SC" Voto="Não" />
+        <Deputado Nome="Esperidião Amin" Partido="PP" UF="SC" Voto="Não" />
+        <Deputado Nome="Celso Maldaner" Partido="PMDB" UF="SC" Voto="Não" />
+        <Deputado Nome="Décio Lima" Partido="PT" UF="SC" Voto="Não" />
+        <Deputado Nome="Luci Choinacki" Partido="PT" UF="SC" Voto="Obstrução" />
+        <Deputado Nome="Marco Tebaldi" Partido="PSDB" UF="SC" Voto="Não" />
+        <Deputado Nome="Jorge Boeira" Partido="S.Part." UF="SC" Voto="Não" />
+        <Deputado Nome="Onofre Santo Agostini" Partido="PSD" UF="SC" Voto="Não" />
+        <Deputado Nome="Pedro Uczai" Partido="PT" UF="SC" Voto="Não" />
+        <Deputado Nome="Ronaldo Benedet" Partido="PMDB" UF="SC" Voto="Não" />
+        <Deputado Nome="Alceu Moreira" Partido="PMDB" UF="RS" Voto="Não" />
+        <Deputado Nome="Afonso Hamm" Partido="PP" UF="RS" Voto="Não" />
+        <Deputado Nome="Beto Albuquerque" Partido="PSB" UF="RS" Voto="Não" />
+        <Deputado Nome="Darcísio Perondi" Partido="PMDB" UF="RS" Voto="Não" />
+        <Deputado Nome="Danrlei De Deus Hinterholz" Partido="PSD" UF="RS" Voto="Não" />
+        <Deputado Nome="Osmar Terra" Partido="PMDB" UF="RS" Voto="Não" />
+        <Deputado Nome="Henrique Fontana" Partido="PT" UF="RS" Voto="Obstrução" />
+        <Deputado Nome="Bohn Gass" Partido="PT" UF="RS" Voto="Sim" />
+        <Deputado Nome="José Otávio Germano" Partido="PP" UF="RS" Voto="Não" />
+        <Deputado Nome="Jerônimo Goergen" Partido="PP" UF="RS" Voto="Não" />
+        <Deputado Nome="Jose Stédile" Partido="PSB" UF="RS" Voto="Não" />
+        <Deputado Nome="Marcon" Partido="PT" UF="RS" Voto="Não" />
+        <Deputado Nome="Nelson Marchezan Junior" Partido="PSDB" UF="RS" Voto="Não" />
+        <Deputado Nome="Renato Molling" Partido="PP" UF="RS" Voto="Não" />
+        <Deputado Nome="Sérgio Moraes" Partido="PTB" UF="RS" Voto="Não" />
+        <Deputado Nome="Paulo Pimenta" Partido="PT" UF="RS" Voto="Obstrução" />
+        <Deputado Nome="Vieira da Cunha" Partido="PDT" UF="RS" Voto="Não" />
+        <Deputado Nome="Vilson Covatti" Partido="PP" UF="RS" Voto="Não" />
+        <Deputado Nome="Dudimar Paxiuba" Partido="PSDB" UF="PA" Voto="Não" />
+        <Deputado Nome="Acelino Popó" Partido="PRB" UF="BA" Voto="Não" />
+        <Deputado Nome="Vanderlei Macris" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Fernando Marroni" Partido="PT" UF="RS" Voto="Não" />
+        <Deputado Nome="Davi Alves Silva Júnior" Partido="PR" UF="MA" Voto="Não" />
+        <Deputado Nome="Dr. Carlos Alberto" Partido="PMN" UF="RJ" Voto="Não" />
+        <Deputado Nome="Nazareno Fonteles" Partido="PT" UF="PI" Voto="Não" />
+        <Deputado Nome="Jairo Ataíde" Partido="DEM" UF="MG" Voto="Não" />
+        <Deputado Nome="Vitor Penido" Partido="DEM" UF="MG" Voto="Não" />
+        <Deputado Nome="João Bittar" Partido="DEM" UF="MG" Voto="Não" />
+        <Deputado Nome="Eleuses Paiva" Partido="PSD" UF="SP" Voto="Não" />
+        <Deputado Nome="Policarpo" Partido="PT" UF="DF" Voto="Não" />
+        <Deputado Nome="Luiz Nishimori" Partido="PSDB" UF="PR" Voto="Não" />
+        <Deputado Nome="Camilo Cola" Partido="PMDB" UF="ES" Voto="Não" />
+        <Deputado Nome="Augusto Carvalho" Partido="SDD" UF="DF" Voto="Não" />
+        <Deputado Nome="Walter Feldman" Partido="PSDB" UF="SP" Voto="Não" />
+        <Deputado Nome="Walter Ihoshi" Partido="PSD" UF="SP" Voto="Não" />
+        <Deputado Nome="Paulo Rubem Santiago" Partido="PDT" UF="PE" Voto="Não" />
+        <Deputado Nome="Vilalba" Partido="PP" UF="PE" Voto="Não" />
+        <Deputado Nome="Ronaldo Nogueira" Partido="PTB" UF="RS" Voto="Não" />
+        <Deputado Nome="Valdir Colatto" Partido="PMDB" UF="SC" Voto="Não" />
+        <Deputado Nome="Carmen Zanotto" Partido="PPS" UF="SC" Voto="Não" />
+        <Deputado Nome="Deley" Partido="PSC" UF="RJ" Voto="Não" />
+        <Deputado Nome="Marina Santanna" Partido="PT" UF="GO" Voto="Obstrução" />
+        <Deputado Nome="Costa Ferreira" Partido="PSC" UF="MA" Voto="Não" />
+        <Deputado Nome="Magda Mofatto" Partido="PR" UF="GO" Voto="Não" />
+        <Deputado Nome="Nilson Leitão" Partido="PSDB" UF="MT" Voto="Não" />
+        <Deputado Nome="Janete Capiberibe" Partido="PSB" UF="AP" Voto="Obstrução" />
+        <Deputado Nome="Paulo Feijó" Partido="PR" UF="RJ" Voto="Não" />
+        <Deputado Nome="Eliseu Padilha" Partido="PMDB" UF="RS" Voto="Não" />
+        <Deputado Nome="Weverton Rocha" Partido="PDT" UF="MA" Voto="Não" />
+        <Deputado Nome="Severino Ninho" Partido="PSB" UF="PE" Voto="Não" />
+        <Deputado Nome="Vanderlei Siraque" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Marcos Rogério" Partido="PDT" UF="RO" Voto="Não" />
+        <Deputado Nome="Simplício Araújo" Partido="PPS" UF="MA" Voto="Não" />
+        <Deputado Nome="Leonardo Gadelha" Partido="PSC" UF="PB" Voto="Não" />
+        <Deputado Nome="Odílio Balbinotti" Partido="PMDB" UF="PR" Voto="Não" />
+        <Deputado Nome="Paulo Ferreira" Partido="PT" UF="RS" Voto="Obstrução" />
+        <Deputado Nome="Gera Arruda" Partido="PMDB" UF="CE" Voto="Não" />
+        <Deputado Nome="Alexandre Toledo" Partido="S.Part." UF="AL" Voto="Não" />
+        <Deputado Nome="Major Fábio" Partido="DEM" UF="PB" Voto="Não" />
+        <Deputado Nome="Professor Sérgio de Oliveira" Partido="PSC" UF="PR" Voto="Não" />
+        <Deputado Nome="Isaias Silvestre" Partido="PSB" UF="MG" Voto="Obstrução" />
+        <Deputado Nome="Francisco Tenório" Partido="PMN" UF="AL" Voto="Não" />
+        <Deputado Nome="Paulão" Partido="PT" UF="AL" Voto="Não" />
+        <Deputado Nome="Luiz de Deus" Partido="DEM" UF="BA" Voto="Não" />
+        <Deputado Nome="Margarida Salomão" Partido="PT" UF="MG" Voto="Não" />
+        <Deputado Nome="Nilmário Miranda" Partido="PT" UF="MG" Voto="Não" />
+        <Deputado Nome="Renato Andrade" Partido="PP" UF="MG" Voto="Não" />
+        <Deputado Nome="Eurico Júnior" Partido="PV" UF="RJ" Voto="Não" />
+        <Deputado Nome="Manuel Rosa Neca" Partido="PR" UF="RJ" Voto="Sim" />
+        <Deputado Nome="Anselmo de Jesus" Partido="PT" UF="RO" Voto="Não" />
+        <Deputado Nome="Fabio Reis" Partido="PMDB" UF="SE" Voto="Não" />
+        <Deputado Nome="Osvaldo Reis" Partido="PMDB" UF="TO" Voto="Não" />
+        <Deputado Nome="Colbert Martins" Partido="PMDB" UF="BA" Voto="Não" />
+        <Deputado Nome="Marcio Junqueira" Partido="PP" UF="RR" Voto="Não" />
+        <Deputado Nome="Francisco Chagas" Partido="PT" UF="SP" Voto="Não" />
+        <Deputado Nome="Celso Jacob" Partido="PMDB" UF="RJ" Voto="Não" />
+        <Deputado Nome="Plínio Valério" Partido="PSDB" UF="AM" Voto="Não" />
+        <Deputado Nome="Nilmar Ruiz" Partido="PEN" UF="TO" Voto="Não" />
+        <Deputado Nome="Silas Brasileiro" Partido="PMDB" UF="MG" Voto="Não" />
+        <Deputado Nome="Goiaciara Cruz" Partido="PR" UF="TO" Voto="Não" />
+      </votos>
+    </Votacao>
+  </Votacoes>
+</proposicao>

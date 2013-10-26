@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicao>
+  <Sigla>PRC</Sigla>
+  <Numero>203</Numero>
+  <Ano>2013</Ano>
+  <Votacoes>
+    <Votacao Resumo="" Data="26/9/2013" Hora="11:04" ObjVotacao="PROJETO DE RESOLUÇÃO">
+      <orientacaoBancada>
+        <bancada Sigla="PT" orientacao="Obstrução      " />
+        <bancada Sigla="PMDB" orientacao="Obstrução      " />
+        <bancada Sigla="PSDB" orientacao="Obstrução      " />
+        <bancada Sigla="PrPtdobPrpPhsPslPrtb" orientacao="Obstrução      " />
+        <bancada Sigla="PSD" orientacao="Obstrução      " />
+        <bancada Sigla="PP" orientacao="Obstrução      " />
+        <bancada Sigla="DEM" orientacao="Obstrução      " />
+        <bancada Sigla="PDT" orientacao="Obstrução      " />
+        <bancada Sigla="PSB" orientacao="Obstrução      " />
+        <bancada Sigla="PTB" orientacao="Obstrução      " />
+        <bancada Sigla="PSC" orientacao="Obstrução      " />
+        <bancada Sigla="PCdoB" orientacao="Obstrução      " />
+        <bancada Sigla="PPS" orientacao="Obstrução      " />
+        <bancada Sigla="PV" orientacao="Obstrução      " />
+        <bancada Sigla="PRB" orientacao="Obstrução      " />
+        <bancada Sigla="PSOL" orientacao="Obstrução      " />
+        <bancada Sigla="Repr.PMN" orientacao="Obstrução      " />
+        <bancada Sigla="PEN" orientacao="Obstrução      " />
+        <bancada Sigla="Minoria" orientacao="Obstrução      " />
+        <bancada Sigla="GOV." orientacao="Obstrução      " />
+      </orientacaoBancada>
+      <votos>
+        <Deputado Nome="Manato" Partido="PDT" UF="ES" Voto="Não" />
+        <Deputado Nome="Benedita da Silva" Partido="PT" UF="RJ" Voto="Art. 17" />
+        <Deputado Nome="Chico Alencar" Partido="PSOL" UF="RJ" Voto="Obstrução" />
+        <Deputado Nome="Jean Wyllys" Partido="PSOL" UF="RJ" Voto="Obstrução" />
+        <Deputado Nome="Emanuel Fernandes" Partido="PSDB" UF="SP" Voto="Obstrução" />
+        <Deputado Nome="Fabio Trad" Partido="PMDB" UF="MS" Voto="Obstrução" />
+        <Deputado Nome="Onofre Santo Agostini" Partido="PSD" UF="SC" Voto="Obstrução" />
+      </votos>
+    </Votacao>
+  </Votacoes>
+</proposicao>
